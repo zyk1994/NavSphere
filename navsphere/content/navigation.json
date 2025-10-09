@@ -602,7 +602,7 @@
           "title": "AI 检测工具",
           "icon": "BookOpen",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": [
             {
               "id": "1754573112532",
