@@ -454,7 +454,7 @@
       "title": "自媒体工具包",
       "icon": "Video",
       "description": "自媒体工具包",
-      "enabled": false,
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
@@ -602,7 +602,7 @@
           "title": "AI 检测工具",
           "icon": "BookOpen",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "1754573112532",
