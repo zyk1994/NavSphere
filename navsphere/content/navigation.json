@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "1759995164245",
+          "title": "MusicPlayer",
+          "href": "http://music.alger.fun/",
+          "description": "AlgerMusicPlayer 网抑云音乐 基于 API 的一款免费的在线音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
+          "icon": "/assets/favicon_1759995197508.ico",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -83,14 +91,6 @@
           "href": "https://lucide.dev/",
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": true
-        },
-        {
-          "id": "1759995164245",
-          "title": "MusicPlayer",
-          "href": "http://music.alger.fun/",
-          "description": "AlgerMusicPlayer 网抑云音乐 基于 API 的一款免费的在线音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
-          "icon": "/assets/favicon_1759995197508.ico",
           "enabled": true
         }
       ],
