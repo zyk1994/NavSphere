@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "1760015419233",
+          "title": "云音乐 - 在线音乐播放器",
+          "href": "https://music.ykzhang.top",
+          "description": "音乐播放器",
+          "icon": "https://music.ykzhang.top/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
