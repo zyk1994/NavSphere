@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23liv4RioXJJCFA0DR"
 GITHUB_OWNER = "zyk1994"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://ykzhang.top/api/auth"
-NEXT_PUBLIC_API_URL="https://ykzhang.top/"
+NEXTAUTH_URL = "https://www.ykzhang.top/api/auth"
+NEXT_PUBLIC_API_URL="https://www.ykzhang.top/"
 
