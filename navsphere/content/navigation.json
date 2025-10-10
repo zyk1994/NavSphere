@@ -163,6 +163,14 @@
               "description": "Linux命令搜索引擎:最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。",
               "icon": "/assets/favicon_1760100972464.png",
               "enabled": true
+            },
+            {
+              "id": "1760102298352",
+              "title": "JetBrains许可证激活",
+              "href": "https://jetbrains.asiones.com/",
+              "description": "专注于JetBrains许可服务器的网络空间分布分析和安全态势研究。仅供学术研究和教育用途。",
+              "icon": "/assets/favicon_1760102304807.ico",
+              "enabled": true
             }
           ]
         },
