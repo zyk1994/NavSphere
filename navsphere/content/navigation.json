@@ -741,6 +741,14 @@
               "description": "更新快、专注去广告类软件、软件分享站",
               "icon": "/assets/favicon_1760108694168.ico",
               "enabled": true
+            },
+            {
+              "id": "1760110302911",
+              "title": "晨钟工具集",
+              "href": "https://jamcz.com/",
+              "description": "晨钟工具集",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=jamcz.com",
+              "enabled": true
             }
           ]
         },
