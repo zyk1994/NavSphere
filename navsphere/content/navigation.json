@@ -240,6 +240,14 @@
           "description": "",
           "items": [
             {
+              "id": "1760099162102",
+              "title": "PanSou 盘搜",
+              "href": "https://so.252035.xyz/",
+              "description": "网盘聚合搜索",
+              "icon": "/assets/favicon_1760099168186.ico",
+              "enabled": true
+            },
+            {
               "id": "1760098974091",
               "title": "小红书无水印下载",
               "href": "https://xiaohongshu.day/zh/",
@@ -293,14 +301,6 @@
               "href": "https://screenshots.pro/",
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
-              "enabled": true
-            },
-            {
-              "id": "1760099162102",
-              "title": "PanSou 盘搜",
-              "href": "https://so.252035.xyz/",
-              "description": "网盘聚合搜索",
-              "icon": "/assets/favicon_1760099168186.ico",
               "enabled": true
             }
           ],
