@@ -860,6 +860,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "4202677a-27e1-4ef6-b2df-db5242f85bcb",
+          "title": "绿色软件",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
