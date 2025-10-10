@@ -96,6 +96,14 @@
               "description": "Nano Banana免费AI图像生成器，Nano Banana是最好的AI图像生成器，使用最新的AI图像处理技术，使用Nano Banana AI，您可以轻松创建令人惊叹的图像。",
               "icon": "/assets/favicon_1760109363904.ico",
               "enabled": true
+            },
+            {
+              "id": "1760109452660",
+              "title": "第三方 MCP 市场",
+              "href": "https://mcp.so/zh",
+              "description": "最大的 MCP Server（MCP 服务器）集合，包括优秀的 MCP Server（MCP 服务器）和 Claude MCP 集成。搜索和发现 MCP Server（MCP 服务器）以增强您的 AI 能力。",
+              "icon": "/assets/favicon_1760109459025.ico",
+              "enabled": true
             }
           ]
         },
