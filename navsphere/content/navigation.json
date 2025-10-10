@@ -203,6 +203,14 @@
               "description": "JAVA在线代码生成",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=java.bejson.com",
               "enabled": true
+            },
+            {
+              "id": "1760103388327",
+              "title": "Cron在线表达式生成器",
+              "href": "https://cron.ciding.cc/",
+              "description": "Cron在线表达式生成器",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cron.ciding.cc",
+              "enabled": true
             }
           ]
         },
