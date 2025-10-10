@@ -596,6 +596,14 @@
               "description": "立即与附近的人共享图像、视频、PDF和链接。Peer2Peer和开源。无设置，无注册。",
               "icon": "/assets/favicon_1760104824018.png",
               "enabled": true
+            },
+            {
+              "id": "1760104861072",
+              "title": "轻松传",
+              "href": "https://easychuan.cn/",
+              "description": "只需打开网页，手机、电脑、平板... 跨设备快速传文件、传文本、传屏幕、传实时视频，64T超大文件传输，无限速无扫描。",
+              "icon": "/assets/favicon_1760104869018.png",
+              "enabled": true
             }
           ]
         },
