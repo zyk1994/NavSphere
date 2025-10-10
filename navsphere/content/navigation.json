@@ -849,6 +849,14 @@
               "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
               "icon": "/assets/favicon_1760104030255.ico",
               "enabled": true
+            },
+            {
+              "id": "1760105131279",
+              "title": "VIP视频解析",
+              "href": "https://www.tbox.fun/tool/plugins/vip/",
+              "description": "VIP视频解析",
+              "icon": "/assets/favicon_1760105137722.png",
+              "enabled": true
             }
           ]
         },
