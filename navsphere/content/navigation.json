@@ -688,6 +688,14 @@
               "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
               "icon": "/assets/favicon_1760102776433.ico",
               "enabled": true
+            },
+            {
+              "id": "1760103481165",
+              "title": "Omofun动漫",
+              "href": "https://cn.211dm.com/",
+              "description": "Omofun动漫为您免费提供最新的动漫番剧哦~专注于动漫卡通资源收集整理，海量无修动漫卡通资源免费在线观看下载。",
+              "icon": "/assets/favicon_1760103486393.ico",
+              "enabled": true
             }
           ]
         },
