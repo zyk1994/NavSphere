@@ -236,7 +236,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760107066011",
+              "title": "JavaGuide面试指南",
+              "href": "https://javaguide.cn/",
+              "description": "JavaGuide面试指南",
+              "icon": "/assets/favicon_1760107072609.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
