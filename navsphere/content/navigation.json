@@ -455,6 +455,14 @@
               "description": "免费在线屏幕测试工具。在线屏幕检测 - 显示器检测 - 显示器坏点检测工具",
               "icon": "/assets/favicon_1760102523687.png",
               "enabled": true
+            },
+            {
+              "id": "1760104993927",
+              "title": "阅后即焚",
+              "href": "https://www.tbox.fun/huo/",
+              "description": "发送阅后即焚消息",
+              "icon": "/assets/favicon_1760105000402.ico",
+              "enabled": true
             }
           ],
           "enabled": true
