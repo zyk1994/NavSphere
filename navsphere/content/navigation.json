@@ -46,20 +46,20 @@
           "icon": "/assets/favicon_1754218571142.svg"
         },
         {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": false
-        },
-        {
           "id": "1760082534083",
           "title": "豆包",
           "href": "https://www.doubao.com/chat",
           "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
           "icon": "/assets/favicon_1760082539831.png",
           "enabled": true
+        },
+        {
+          "id": "1754229699374",
+          "title": "Lucide",
+          "href": "https://lucide.dev/",
+          "description": "Beautiful & consistent icon toolkit made by the community.",
+          "icon": "/assets/favicon_1754229702059.ico",
+          "enabled": false
         }
       ],
       "subCategories": [],
