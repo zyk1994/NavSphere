@@ -873,6 +873,14 @@
               "description": "HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。",
               "icon": "/assets/favicon_1760108994886.png",
               "enabled": true
+            },
+            {
+              "id": "1760109153957",
+              "title": "云萌Win10+激活工具",
+              "href": "https://cmwtat.cloudmoe.com/cn.html",
+              "description": "开源 Win10/Win11 数字权利（数字许可证）激活工具！",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cmwtat.cloudmoe.com",
+              "enabled": true
             }
           ]
         },
