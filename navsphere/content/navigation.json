@@ -535,6 +535,14 @@
           ]
         },
         {
+          "id": "b15a36da-6a74-497b-b81f-cfc658d057b1",
+          "title": "文件传输",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "4",
           "title": "图形创意",
           "href": "#图形创意",
@@ -645,14 +653,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "b15a36da-6a74-497b-b81f-cfc658d057b1",
-          "title": "文件传输",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
