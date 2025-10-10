@@ -632,6 +632,14 @@
               "description": "皮皮妖提供最新最快的视频分享数据",
               "icon": "/assets/favicon_1760100274167.png",
               "enabled": true
+            },
+            {
+              "id": "1760102718048",
+              "title": "豆瓣高分电影1080P下载",
+              "href": "https://www.cilixiong.org/",
+              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
+              "icon": "/assets/favicon_1760102723002.png",
+              "enabled": true
             }
           ]
         },
