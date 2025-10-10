@@ -30,14 +30,6 @@
           "enabled": true
         },
         {
-          "id": "1759995164245",
-          "title": "MusicPlayer",
-          "href": "http://music.alger.fun/",
-          "description": "AlgerMusicPlayer 网抑云音乐 基于 API 的一款免费的在线音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
-          "icon": "/assets/img_1759998989508.png",
-          "enabled": true
-        },
-        {
           "id": "item-1754218579319",
           "title": "DeepSeek",
           "href": "https://chat.deepseek.com/",
@@ -575,46 +567,6 @@
               "href": "https://www.tbox.fun/huo/",
               "description": "发送阅后即焚消息",
               "icon": "/assets/favicon_1760105000402.ico",
-              "enabled": true
-            },
-            {
-              "id": "3_1",
-              "title": "TableConvert",
-              "href": "https://tableconvert.com/",
-              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
-              "icon": "/assets/images/logos/tableconvert.png",
-              "enabled": true
-            },
-            {
-              "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.png",
-              "enabled": true
-            },
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
-            },
-            {
-              "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.ico",
-              "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.png",
               "enabled": true
             },
             {
@@ -1170,6 +1122,14 @@
           "description": "",
           "enabled": true,
           "items": [
+            {
+              "id": "1759995164245",
+              "title": "MusicPlayer",
+              "href": "http://music.alger.fun/",
+              "description": "AlgerMusicPlayer 网抑云音乐 基于 API 的一款免费的在线音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
+              "icon": "/assets/img_1759998989508.png",
+              "enabled": true
+            },
             {
               "id": "1760099357545",
               "title": "一起听歌吧",
