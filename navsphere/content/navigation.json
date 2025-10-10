@@ -556,6 +556,14 @@
               "description": "局域网文件传输",
               "icon": "/assets/favicon_1760104438815.png",
               "enabled": true
+            },
+            {
+              "id": "1760104471842",
+              "title": "微信文件传输助手网页版",
+              "href": "https://filehelper.weixin.qq.com/",
+              "description": "微信文件传输助手网页版",
+              "icon": "/assets/favicon_1760104478616.ico",
+              "enabled": true
             }
           ]
         },
