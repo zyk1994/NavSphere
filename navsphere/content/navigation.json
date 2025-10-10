@@ -88,6 +88,14 @@
               "description": "Sharedchat公益站",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=sharedchat.fun",
               "enabled": true
+            },
+            {
+              "id": "1760109358256",
+              "title": "Nano Banana免费AI图像生成器",
+              "href": "https://nanobananafree.ai/",
+              "description": "Nano Banana免费AI图像生成器，Nano Banana是最好的AI图像生成器，使用最新的AI图像处理技术，使用Nano Banana AI，您可以轻松创建令人惊叹的图像。",
+              "icon": "/assets/favicon_1760109363904.ico",
+              "enabled": true
             }
           ]
         },
