@@ -653,7 +653,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760108622071",
+              "title": "果核剥壳",
+              "href": "https://www.ghxi.com/",
+              "description": "绿色软件分享站",
+              "icon": "/assets/favicon_1760108628716.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "30d997ab-0165-48b8-9bd2-d61c4d2312ef",
