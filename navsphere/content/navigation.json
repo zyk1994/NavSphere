@@ -588,6 +588,14 @@
               "description": "AI人工智能图片放大",
               "icon": "/assets/favicon_1760106936398.png",
               "enabled": true
+            },
+            {
+              "id": "1760106961796",
+              "title": "免费正版高清图片素材库",
+              "href": "https://pixabay.com/zh/",
+              "description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
+              "icon": "/assets/favicon_1760106966847.png",
+              "enabled": true
             }
           ]
         },
