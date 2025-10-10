@@ -268,6 +268,14 @@
               "description": "有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
               "icon": "/assets/favicon_1760107281609.png",
               "enabled": true
+            },
+            {
+              "id": "1760107342350",
+              "title": "GitHub中文项目排行榜",
+              "href": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts?tab=readme-ov-file",
+              "description": "GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+              "icon": "/assets/favicon_1760107348007.png",
+              "enabled": true
             }
           ]
         },
