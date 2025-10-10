@@ -617,6 +617,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1760099239608",
+      "title": "影音娱乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
