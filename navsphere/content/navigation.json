@@ -648,6 +648,14 @@
           ]
         },
         {
+          "id": "4202677a-27e1-4ef6-b2df-db5242f85bcb",
+          "title": "绿色软件",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "30d997ab-0165-48b8-9bd2-d61c4d2312ef",
           "title": "图片编辑",
           "icon": "Image",
@@ -860,14 +868,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "4202677a-27e1-4ef6-b2df-db5242f85bcb",
-          "title": "绿色软件",
-          "icon": "Laptop",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
