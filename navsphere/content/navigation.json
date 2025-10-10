@@ -734,6 +734,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "9d81fc30-fdbf-497d-b6ef-7dc5429af433",
+          "title": "其他工具",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
