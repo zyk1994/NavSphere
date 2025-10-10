@@ -219,6 +219,14 @@
               "description": "为开发人员提供的方便的在线工具集合，具有出色的用户体验。IT Tools是一个免费的开源集合，为开发人员和IT工作人员提供方便的在线工具。",
               "icon": "/assets/favicon_1760104099420.ico",
               "enabled": true
+            },
+            {
+              "id": "1760104191706",
+              "title": "Ghubstar",
+              "href": "https://ghubstar.com/",
+              "description": "发现优秀的Github开源项目",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ghubstar.com",
+              "enabled": true
             }
           ]
         },
