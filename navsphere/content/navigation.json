@@ -260,6 +260,14 @@
               "description": "Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...",
               "icon": "/assets/favicon_1760107201974.png",
               "enabled": true
+            },
+            {
+              "id": "1760107272909",
+              "title": "现代 JavaScript 教程",
+              "href": "https://zh.javascript.info/",
+              "description": "有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
+              "icon": "/assets/favicon_1760107281609.png",
+              "enabled": true
             }
           ]
         },
