@@ -75,6 +75,31 @@
           "items": []
         },
         {
+          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
+          "title": "UI框架",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760089077743",
+              "title": " Element Plus",
+              "href": "https://element-plus.org/zh-CN/",
+              "description": "A Vue 3 based component library for designers and developers",
+              "icon": "/assets/favicon_1760089083231.svg",
+              "enabled": true
+            },
+            {
+              "id": "1760089177625",
+              "title": "Ant Design Vue",
+              "href": "https://www.antdv.com/docs/vue/introduce-cn",
+              "description": "An enterprise-class UI components based on Ant Design and Vue",
+              "icon": "/assets/favicon_1760089182914.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "6a242635-d864-48d1-aa2c-6e0a107a9cfa",
           "title": "激活工具",
           "icon": "Folder",
@@ -128,31 +153,6 @@
               "href": "https://edgeone.ai/zh",
               "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
               "icon": "/assets/favicon_1755225933031.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760089077743",
-              "title": " Element Plus",
-              "href": "https://element-plus.org/zh-CN/",
-              "description": "A Vue 3 based component library for designers and developers",
-              "icon": "/assets/favicon_1760089083231.svg",
-              "enabled": true
-            },
-            {
-              "id": "1760089177625",
-              "title": "Ant Design Vue",
-              "href": "https://www.antdv.com/docs/vue/introduce-cn",
-              "description": "An enterprise-class UI components based on Ant Design and Vue",
-              "icon": "/assets/favicon_1760089182914.ico",
               "enabled": true
             }
           ]
