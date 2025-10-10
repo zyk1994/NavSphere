@@ -629,7 +629,16 @@
           "icon": "Zap",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760105644422",
+              "title": "浏览器插件",
+              "href": "https://www.tbox.fun/tool/plugins/saynoad/#/",
+              "description": "浏览器插件",
+              "icon": "/assets/favicon_1760105650312.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4",
