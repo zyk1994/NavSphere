@@ -120,6 +120,14 @@
               "description": "访客密钥 s6Log9w5gMjs",
               "icon": "/assets/favicon_1760109780429.png",
               "enabled": true
+            },
+            {
+              "id": "1760114791104",
+              "title": "runAnyTime公益API",
+              "href": "https://veloera.wenwen12345.top/app/dashboard",
+              "description": "runAnyTime公益API",
+              "icon": "/assets/favicon_1760114797228.png",
+              "enabled": true
             }
           ]
         },
