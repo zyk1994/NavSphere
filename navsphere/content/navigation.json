@@ -640,6 +640,14 @@
               "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
               "icon": "/assets/favicon_1760102723002.png",
               "enabled": true
+            },
+            {
+              "id": "1760102770800",
+              "title": "BT世界网",
+              "href": "https://www.btsj6.com/",
+              "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
+              "icon": "/assets/favicon_1760102776433.ico",
+              "enabled": true
             }
           ]
         },
