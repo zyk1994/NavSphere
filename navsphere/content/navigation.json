@@ -540,7 +540,16 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760104353952",
+              "title": "皮皮直连",
+              "href": "https://www.ppzhilian.com/",
+              "description": "皮皮直连",
+              "icon": "/assets/favicon_1760104360375.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4",
