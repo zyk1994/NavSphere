@@ -80,6 +80,14 @@
               "description": "Vue.js - 渐进式的 JavaScript 框架",
               "icon": "/assets/favicon_1760098089686.svg",
               "enabled": true
+            },
+            {
+              "id": "1760098132270",
+              "title": "Vue2中文文档",
+              "href": "https://v2.cn.vuejs.org/v2/guide/",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "icon": "/assets/favicon_1760098137741.png",
+              "enabled": true
             }
           ]
         },
