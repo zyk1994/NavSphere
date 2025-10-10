@@ -692,6 +692,14 @@
               "description": "Office Tool Plus 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。无论您是个体还是团队，Office Tool Plus 都是您的 Office 小助手",
               "icon": "/assets/favicon_1760108277378.png",
               "enabled": true
+            },
+            {
+              "id": "1760110043425",
+              "title": "Smallpdf工具",
+              "href": "https://smallpdf.com/cn/pdf-tools",
+              "description": "在线转换、压缩、编辑、签署PDF文档。",
+              "icon": "/assets/favicon_1760110049976.ico",
+              "enabled": true
             }
           ]
         },
