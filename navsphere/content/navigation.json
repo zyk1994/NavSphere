@@ -741,6 +741,14 @@
               "description": "晨钟工具集",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=jamcz.com",
               "enabled": true
+            },
+            {
+              "id": "1760115805235",
+              "title": "电视安卓APP软件",
+              "href": "https://docs.qq.com/doc/DWU1NTHlEWXNKWFBk",
+              "description": "电视安卓APP软件--每天更新",
+              "icon": "/assets/favicon_1760115812336.png",
+              "enabled": true
             }
           ]
         },
