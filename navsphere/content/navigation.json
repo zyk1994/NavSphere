@@ -588,6 +588,14 @@
               "description": "开箱即用的文件快传系统",
               "icon": "/assets/favicon_1760104792750.png",
               "enabled": true
+            },
+            {
+              "id": "1760104817181",
+              "title": "PairDrop",
+              "href": "https://pairdrop.net/",
+              "description": "立即与附近的人共享图像、视频、PDF和链接。Peer2Peer和开源。无设置，无注册。",
+              "icon": "/assets/favicon_1760104824018.png",
+              "enabled": true
             }
           ]
         },
