@@ -80,6 +80,14 @@
               "description": "公益AI API",
               "icon": "/assets/favicon_1760099721710.png",
               "enabled": true
+            },
+            {
+              "id": "1760109292846",
+              "title": "Sharedchat公益站",
+              "href": "https://sharedchat.fun/",
+              "description": "Sharedchat公益站",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sharedchat.fun",
+              "enabled": true
             }
           ]
         },
