@@ -721,6 +721,14 @@
               "description": "在线听歌房",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=happy.alang.run",
               "enabled": true
+            },
+            {
+              "id": "1760103627657",
+              "title": "歌曲宝",
+              "href": "https://www.gequbao.com/",
+              "description": "歌曲宝在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
+              "icon": "/assets/favicon_1760103633739.ico",
+              "enabled": true
             }
           ]
         }
