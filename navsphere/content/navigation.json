@@ -72,7 +72,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760099708760",
+              "title": "红石公益API",
+              "href": "https://hongshi1024-l-api.hf.space/app/dashboard",
+              "description": "公益AI API",
+              "icon": "/assets/favicon_1760099721710.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "7941b8ef-d37b-467d-9711-3f427505319d",
