@@ -120,6 +120,14 @@
               "description": "Ollama可用服务",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=ollama.vincentko.top",
               "enabled": true
+            },
+            {
+              "id": "1760109773831",
+              "title": "硅基API Key聚合管理系统",
+              "href": "https://sili-api.killerbest.com/",
+              "description": "访客密钥 s6Log9w5gMjs",
+              "icon": "/assets/favicon_1760109780429.png",
+              "enabled": true
             }
           ]
         },
