@@ -284,6 +284,14 @@
               "description": "免费在线字帖生成器。本站提供免费的田字、米字、口字、回字格字帖生成及在线打印功能，可生成汉字字帖、汉字拼音字帖、汉字拼音笔顺字帖、拼音字帖、英文字母、英文单词、英文文章、数字及四则运算字帖等。",
               "icon": "/assets/favicon_1760107433487.ico",
               "enabled": true
+            },
+            {
+              "id": "1760107502536",
+              "title": "免费编程书籍",
+              "href": "https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html",
+              "description": "免费提供的编程书籍",
+              "icon": "/assets/favicon_1760107507835.ico",
+              "enabled": true
             }
           ]
         },
