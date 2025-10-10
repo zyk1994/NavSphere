@@ -179,6 +179,14 @@
               "description": "HTML/CSS/Javascript 在线代码运行工具用于在线进行代码测试，你可以在将你的 HTML/CSS/Javascript 代码复制到以下输入框中，点击“运行”按钮即可查看代码执行结果。",
               "icon": "/assets/favicon_1760102949827.ico",
               "enabled": true
+            },
+            {
+              "id": "1760103084339",
+              "title": "阿里云云原生应用脚手架",
+              "href": "https://start.aliyun.com/bootstrap.html",
+              "description": "阿里云云原生应用脚手架",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=start.aliyun.com",
+              "enabled": true
             }
           ]
         },
