@@ -564,6 +564,14 @@
               "description": "微信文件传输助手网页版",
               "icon": "/assets/favicon_1760104478616.ico",
               "enabled": true
+            },
+            {
+              "id": "1760104551700",
+              "title": "简单私密的文件共享",
+              "href": "https://wormhole.app/",
+              "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
+              "icon": "/assets/favicon_1760104557705.png",
+              "enabled": true
             }
           ]
         },
