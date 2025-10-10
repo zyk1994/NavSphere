@@ -359,6 +359,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1760102142068",
+              "title": "影音在线转换工具",
+              "href": "https://123apps.com/cn/",
+              "description": "用于影片、音频、PDF 与档案转换的线上工具",
+              "icon": "/assets/favicon_1760102147535.svg",
+              "enabled": true
             }
           ],
           "enabled": true
