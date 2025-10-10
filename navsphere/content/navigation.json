@@ -542,6 +542,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1760104906759",
+              "title": "文叔叔",
+              "href": "https://www.wenshushu.cn/",
+              "description": "传文件，找文叔叔",
+              "icon": "/assets/favicon_1760104914327.png",
+              "enabled": true
+            },
+            {
               "id": "1760104353952",
               "title": "皮皮直连",
               "href": "https://www.ppzhilian.com/",
@@ -603,14 +611,6 @@
               "href": "https://easychuan.cn/",
               "description": "只需打开网页，手机、电脑、平板... 跨设备快速传文件、传文本、传屏幕、传实时视频，64T超大文件传输，无限速无扫描。",
               "icon": "/assets/favicon_1760104869018.png",
-              "enabled": true
-            },
-            {
-              "id": "1760104906759",
-              "title": "文叔叔",
-              "href": "https://www.wenshushu.cn/",
-              "description": "传文件，找文叔叔",
-              "icon": "/assets/favicon_1760104914327.png",
               "enabled": true
             }
           ]
