@@ -165,6 +165,14 @@
               "enabled": true
             },
             {
+              "id": "1760103228152",
+              "title": "Spring脚手架",
+              "href": "https://start.spring.io/",
+              "description": "脚手架生成spring boot项目，只需快速启动即可！",
+              "icon": "/assets/favicon_1760103233184.svg",
+              "enabled": true
+            },
+            {
               "id": "1760100964214",
               "title": "Linux命令搜索引擎",
               "href": "https://wangchujiang.com/linux-command/",
@@ -194,14 +202,6 @@
               "href": "https://java.bejson.com/generator/",
               "description": "JAVA在线代码生成",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=java.bejson.com",
-              "enabled": true
-            },
-            {
-              "id": "1760103228152",
-              "title": "Spring脚手架",
-              "href": "https://start.spring.io/",
-              "description": "脚手架生成spring boot项目，只需快速启动即可！",
-              "icon": "/assets/favicon_1760103233184.svg",
               "enabled": true
             }
           ]
