@@ -865,6 +865,14 @@
               "description": "KMS激活脚本无需繁琐的操作即可一键激活Windows或Office。KMS激活会自动续期直到永远！KMS激活无需担心病毒或者捆绑软件，它是windows系统自带的功能，安全可靠。",
               "icon": "/assets/favicon_1760108358529.ico",
               "enabled": true
+            },
+            {
+              "id": "1760108989598",
+              "title": "Windows系统下载仓储站",
+              "href": "https://hellowindows.cn/",
+              "description": "HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。",
+              "icon": "/assets/favicon_1760108994886.png",
+              "enabled": true
             }
           ]
         },
