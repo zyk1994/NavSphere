@@ -708,6 +708,14 @@
               "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
               "icon": "/assets/favicon_1760110199528.png",
               "enabled": true
+            },
+            {
+              "id": "1760110221382",
+              "title": "免费在线二维码生成器",
+              "href": "https://cn.online-qrcode-generator.com/",
+              "description": "在线二维码生成器条形码生成器是全国最好二维码条形码在线生成器网站。在线二维码条形码生成器是一个免费, 在线, 实时生成二维码条形码。它是功能强大的免费二维码和条形码解决方案,现在开始创建你的二维码条形码吧!",
+              "icon": "/assets/favicon_1760110226914.png",
+              "enabled": true
             }
           ]
         },
