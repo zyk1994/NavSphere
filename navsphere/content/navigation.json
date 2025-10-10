@@ -403,6 +403,14 @@
               "description": "在线pdf处理工具",
               "icon": "/assets/favicon_1760100387448.png",
               "enabled": true
+            },
+            {
+              "id": "1760100700911",
+              "title": "白描网页版",
+              "href": "https://web.baimiaoapp.com/",
+              "description": "图片转文字 - 图片转Excel表格 - PDF转Word",
+              "icon": "/assets/favicon_1760100708150.png",
+              "enabled": true
             }
           ]
         },
