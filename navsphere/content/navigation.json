@@ -130,7 +130,16 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760089077743",
+              "title": " Element Plus",
+              "href": "https://element-plus.org/zh-CN/",
+              "description": "A Vue 3 based component library for designers and developers",
+              "icon": "/assets/favicon_1760089083231.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
