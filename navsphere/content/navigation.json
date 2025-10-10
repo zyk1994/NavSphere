@@ -572,6 +572,14 @@
               "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
               "icon": "/assets/favicon_1760104557705.png",
               "enabled": true
+            },
+            {
+              "id": "1760104663134",
+              "title": "云鸽",
+              "href": "https://yunge.in/",
+              "description": "云鸽是一款方便、快速、安全的文件传输助手。让您可以在不同设备之间轻松共享文件，它提供了简单直观的界面和高速稳定的传输速度，无需下载或登录，非常适合在日常生活和工作中共享文件。",
+              "icon": "/assets/favicon_1760104669289.png",
+              "enabled": true
             }
           ]
         },
