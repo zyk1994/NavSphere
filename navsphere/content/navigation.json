@@ -636,6 +636,14 @@
               "description": "图片转文字 - 图片转Excel表格 - PDF转Word",
               "icon": "/assets/favicon_1760100708150.png",
               "enabled": true
+            },
+            {
+              "id": "1760108270934",
+              "title": "Office 部署工具",
+              "href": "https://otp.landian.vip/zh-cn/",
+              "description": "Office Tool Plus 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。无论您是个体还是团队，Office Tool Plus 都是您的 Office 小助手",
+              "icon": "/assets/favicon_1760108277378.png",
+              "enabled": true
             }
           ]
         },
