@@ -257,7 +257,16 @@
           "icon": "Music",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760099357545",
+              "title": "一起听歌吧",
+              "href": "https://happy.alang.run/#/",
+              "description": "在线听歌房",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=happy.alang.run",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
