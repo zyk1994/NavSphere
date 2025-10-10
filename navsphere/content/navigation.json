@@ -399,6 +399,14 @@
               "enabled": true
             },
             {
+              "id": "1760112773196",
+              "title": "Zeabur",
+              "href": "https://zeabur.com/projects",
+              "description": "Zeabur 是一个可以帮助你部署服务的平台，无论你使用什么编程语言或开发框架，你都只需要通过几个简单的按钮进行部署。",
+              "icon": "/assets/favicon_1760112920485.png",
+              "enabled": true
+            },
+            {
               "id": "1735612588184",
               "title": "Vercel",
               "href": "https://vercel.com/",
@@ -428,14 +436,6 @@
               "href": "https://ap-northeast-1.run.claw.cloud/",
               "description": "爪云",
               "icon": "/assets/favicon_1760112633859.png",
-              "enabled": true
-            },
-            {
-              "id": "1760112773196",
-              "title": "Zeabur",
-              "href": "https://zeabur.com/projects",
-              "description": "Zeabur 是一个可以帮助你部署服务的平台，无论你使用什么编程语言或开发框架，你都只需要通过几个简单的按钮进行部署。",
-              "icon": "/assets/favicon_1760112920485.png",
               "enabled": true
             }
           ]
