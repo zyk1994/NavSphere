@@ -324,6 +324,14 @@
               "description": "C语言教程",
               "icon": "/assets/favicon_1760107708508.png",
               "enabled": true
+            },
+            {
+              "id": "1760107892644",
+              "title": "软考达人",
+              "href": "https://ruankaodaren.com/",
+              "description": "免费专业高效的软考刷题工具,刷题备考更轻松",
+              "icon": "/assets/favicon_1760107899818.png",
+              "enabled": true
             }
           ]
         },
