@@ -51,6 +51,202 @@
       "enabled": true
     },
     {
+      "id": "1760099239608",
+      "title": "影音娱乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
+          "title": "影视站",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760099286118",
+              "title": "最全免费在线影视网站",
+              "href": "https://www.tbox.fun/tool/plugins/movie/#/",
+              "description": "最全免费在线影视网站",
+              "icon": "/assets/favicon_1760099291629.png",
+              "enabled": true
+            },
+            {
+              "id": "1760103694503",
+              "title": "网飞猫",
+              "href": "https://dl.ncat24.com/",
+              "description": "网飞猫",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.ncat24.com",
+              "enabled": true
+            },
+            {
+              "id": "1760100132277",
+              "title": "低端影视",
+              "href": "https://ddys.pro/",
+              "description": "超清在线视频",
+              "icon": "/assets/favicon_1760100137463.png",
+              "enabled": true
+            },
+            {
+              "id": "1760100268230",
+              "title": "皮皮妖",
+              "href": "https://www.pipiyao.cc/",
+              "description": "皮皮妖提供最新最快的视频分享数据",
+              "icon": "/assets/favicon_1760100274167.png",
+              "enabled": true
+            },
+            {
+              "id": "1760102718048",
+              "title": "磁力熊",
+              "href": "https://www.cilixiong.org/",
+              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
+              "icon": "/assets/favicon_1760102723002.png",
+              "enabled": true
+            },
+            {
+              "id": "1760115455330",
+              "title": "好好看",
+              "href": "https://www.hhkan0.com/",
+              "description": "最新Netflix新剧_韩国电影免费在线观看",
+              "icon": "/assets/favicon_1760115462253.png",
+              "enabled": true
+            },
+            {
+              "id": "1760102770800",
+              "title": "BT世界网",
+              "href": "https://www.btsj6.com/",
+              "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
+              "icon": "/assets/favicon_1760102776433.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760103481165",
+              "title": "Omofun动漫",
+              "href": "https://cn.211dm.com/",
+              "description": "Omofun动漫为您免费提供最新的动漫番剧哦~专注于动漫卡通资源收集整理，海量无修动漫卡通资源免费在线观看下载。",
+              "icon": "/assets/favicon_1760103486393.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760103554164",
+              "title": "可可影视",
+              "href": "https://dl.kkys04.com/",
+              "description": "可可影视",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.kkys04.com",
+              "enabled": true
+            },
+            {
+              "id": "1760103727896",
+              "title": "播剧网",
+              "href": "https://www.ysxq.cc/",
+              "description": "播剧影视提供海量高清电影、电视剧、短剧、动漫免费在线观看服务，每日更新2025最新院线大片、热门美剧韩剧、国产剧集。无需注册即可享受无广告播放体验，支持中英字幕切换与多画质选择，热门资源实时更新！点击进入，畅享全网影视资源！",
+              "icon": "/assets/favicon_1760103735009.png",
+              "enabled": true
+            },
+            {
+              "id": "1760103872917",
+              "title": "观影网",
+              "href": "https://www.gying.page/",
+              "description": "观影网地址发布页",
+              "icon": "/assets/favicon_1760103879287.png",
+              "enabled": true
+            },
+            {
+              "id": "1760103962594",
+              "title": "中国蓝光网",
+              "href": "https://www.languangdy.com/",
+              "description": "蓝光电影",
+              "icon": "/assets/favicon_1760103969225.png",
+              "enabled": true
+            },
+            {
+              "id": "1760104024973",
+              "title": "好片网",
+              "href": "https://www.cnwml.com/",
+              "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
+              "icon": "/assets/favicon_1760104030255.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760105131279",
+              "title": "VIP视频解析",
+              "href": "https://www.tbox.fun/tool/plugins/vip/",
+              "description": "VIP视频解析",
+              "icon": "/assets/favicon_1760105137722.png",
+              "enabled": true
+            },
+            {
+              "id": "1760105439164",
+              "title": "TVBOX接口搜集",
+              "href": "https://www.tbox.fun/tool/plugins/tv/#/",
+              "description": "TVBOX接口搜集",
+              "icon": "/assets/favicon_1760105465694.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "40646dd0-5f16-4dea-9a39-35c59e86c37d",
+          "title": "音乐站",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1759995164245",
+              "title": "MusicPlayer",
+              "href": "http://music.alger.fun/",
+              "description": "AlgerMusicPlayer 网抑云音乐 基于 API 的一款免费的在线音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
+              "icon": "/assets/img_1759998989508.png",
+              "enabled": true
+            },
+            {
+              "id": "1760099357545",
+              "title": "一起听歌吧",
+              "href": "https://happy.alang.run/#/",
+              "description": "在线听歌房",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=happy.alang.run",
+              "enabled": true
+            },
+            {
+              "id": "1760115672917",
+              "title": "5song无损音乐网",
+              "href": "https://www.5song.xyz/",
+              "description": "5song无损音乐网是一个免费提供全网无损音乐及mp3歌曲免费下载网站,为广大音乐爱好者提供音乐资源分享平台。",
+              "icon": "/assets/favicon_1760115679831.png",
+              "enabled": true
+            },
+            {
+              "id": "1760115699162",
+              "title": "爱听音乐网",
+              "href": "https://www.2t58.com/",
+              "description": "爱听音乐网Mp3歌曲免费下载,DJ舞曲下载,MP3免费下载,音乐免费下载,mp3歌曲免费下载,mp3下载,音乐免费下载,MP4下载,视频下载,DJ舞曲排行,网络音乐排行,网络热门歌曲,酷我音乐排行,非主流音乐,经典老歌,劲舞团歌曲,搞笑歌曲,儿童歌曲,网络歌曲,MP4视频下载.收录了网上最新歌曲和流行音乐,网络歌曲,好听的歌,非主流音乐,经典老歌,搞笑歌曲,儿童歌曲,英文歌曲等。是您寻找好听的歌首选网站",
+              "icon": "/assets/favicon_1760115705904.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760103627657",
+              "title": "歌曲宝",
+              "href": "https://www.gequbao.com/",
+              "description": "歌曲宝在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
+              "icon": "/assets/favicon_1760103633739.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760103670999",
+              "title": "歌曲海",
+              "href": "https://www.gequhai.com/",
+              "description": "歌曲海是一个专业免费的在线音乐搜索与下载平台，致力于为用户提供全网最全面的MP3歌曲资源。无论是付费歌曲、流行音乐，还是经典老歌，这里都能轻松找到。",
+              "icon": "/assets/favicon_1760103676460.ico",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1735265493940",
       "title": "开发工具",
       "icon": "Box",
@@ -1025,202 +1221,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1760099239608",
-      "title": "影音娱乐",
-      "icon": "Music",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
-          "title": "影视站",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760099286118",
-              "title": "最全免费在线影视网站",
-              "href": "https://www.tbox.fun/tool/plugins/movie/#/",
-              "description": "最全免费在线影视网站",
-              "icon": "/assets/favicon_1760099291629.png",
-              "enabled": true
-            },
-            {
-              "id": "1760103694503",
-              "title": "网飞猫",
-              "href": "https://dl.ncat24.com/",
-              "description": "网飞猫",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.ncat24.com",
-              "enabled": true
-            },
-            {
-              "id": "1760100132277",
-              "title": "低端影视",
-              "href": "https://ddys.pro/",
-              "description": "超清在线视频",
-              "icon": "/assets/favicon_1760100137463.png",
-              "enabled": true
-            },
-            {
-              "id": "1760100268230",
-              "title": "皮皮妖",
-              "href": "https://www.pipiyao.cc/",
-              "description": "皮皮妖提供最新最快的视频分享数据",
-              "icon": "/assets/favicon_1760100274167.png",
-              "enabled": true
-            },
-            {
-              "id": "1760102718048",
-              "title": "磁力熊",
-              "href": "https://www.cilixiong.org/",
-              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
-              "icon": "/assets/favicon_1760102723002.png",
-              "enabled": true
-            },
-            {
-              "id": "1760115455330",
-              "title": "好好看",
-              "href": "https://www.hhkan0.com/",
-              "description": "最新Netflix新剧_韩国电影免费在线观看",
-              "icon": "/assets/favicon_1760115462253.png",
-              "enabled": true
-            },
-            {
-              "id": "1760102770800",
-              "title": "BT世界网",
-              "href": "https://www.btsj6.com/",
-              "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
-              "icon": "/assets/favicon_1760102776433.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760103481165",
-              "title": "Omofun动漫",
-              "href": "https://cn.211dm.com/",
-              "description": "Omofun动漫为您免费提供最新的动漫番剧哦~专注于动漫卡通资源收集整理，海量无修动漫卡通资源免费在线观看下载。",
-              "icon": "/assets/favicon_1760103486393.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760103554164",
-              "title": "可可影视",
-              "href": "https://dl.kkys04.com/",
-              "description": "可可影视",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.kkys04.com",
-              "enabled": true
-            },
-            {
-              "id": "1760103727896",
-              "title": "播剧网",
-              "href": "https://www.ysxq.cc/",
-              "description": "播剧影视提供海量高清电影、电视剧、短剧、动漫免费在线观看服务，每日更新2025最新院线大片、热门美剧韩剧、国产剧集。无需注册即可享受无广告播放体验，支持中英字幕切换与多画质选择，热门资源实时更新！点击进入，畅享全网影视资源！",
-              "icon": "/assets/favicon_1760103735009.png",
-              "enabled": true
-            },
-            {
-              "id": "1760103872917",
-              "title": "观影网",
-              "href": "https://www.gying.page/",
-              "description": "观影网地址发布页",
-              "icon": "/assets/favicon_1760103879287.png",
-              "enabled": true
-            },
-            {
-              "id": "1760103962594",
-              "title": "中国蓝光网",
-              "href": "https://www.languangdy.com/",
-              "description": "蓝光电影",
-              "icon": "/assets/favicon_1760103969225.png",
-              "enabled": true
-            },
-            {
-              "id": "1760104024973",
-              "title": "好片网",
-              "href": "https://www.cnwml.com/",
-              "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
-              "icon": "/assets/favicon_1760104030255.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760105131279",
-              "title": "VIP视频解析",
-              "href": "https://www.tbox.fun/tool/plugins/vip/",
-              "description": "VIP视频解析",
-              "icon": "/assets/favicon_1760105137722.png",
-              "enabled": true
-            },
-            {
-              "id": "1760105439164",
-              "title": "TVBOX接口搜集",
-              "href": "https://www.tbox.fun/tool/plugins/tv/#/",
-              "description": "TVBOX接口搜集",
-              "icon": "/assets/favicon_1760105465694.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "40646dd0-5f16-4dea-9a39-35c59e86c37d",
-          "title": "音乐站",
-          "icon": "Music",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759995164245",
-              "title": "MusicPlayer",
-              "href": "http://music.alger.fun/",
-              "description": "AlgerMusicPlayer 网抑云音乐 基于 API 的一款免费的在线音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
-              "icon": "/assets/img_1759998989508.png",
-              "enabled": true
-            },
-            {
-              "id": "1760099357545",
-              "title": "一起听歌吧",
-              "href": "https://happy.alang.run/#/",
-              "description": "在线听歌房",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=happy.alang.run",
-              "enabled": true
-            },
-            {
-              "id": "1760115672917",
-              "title": "5song无损音乐网",
-              "href": "https://www.5song.xyz/",
-              "description": "5song无损音乐网是一个免费提供全网无损音乐及mp3歌曲免费下载网站,为广大音乐爱好者提供音乐资源分享平台。",
-              "icon": "/assets/favicon_1760115679831.png",
-              "enabled": true
-            },
-            {
-              "id": "1760115699162",
-              "title": "爱听音乐网",
-              "href": "https://www.2t58.com/",
-              "description": "爱听音乐网Mp3歌曲免费下载,DJ舞曲下载,MP3免费下载,音乐免费下载,mp3歌曲免费下载,mp3下载,音乐免费下载,MP4下载,视频下载,DJ舞曲排行,网络音乐排行,网络热门歌曲,酷我音乐排行,非主流音乐,经典老歌,劲舞团歌曲,搞笑歌曲,儿童歌曲,网络歌曲,MP4视频下载.收录了网上最新歌曲和流行音乐,网络歌曲,好听的歌,非主流音乐,经典老歌,搞笑歌曲,儿童歌曲,英文歌曲等。是您寻找好听的歌首选网站",
-              "icon": "/assets/favicon_1760115705904.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760103627657",
-              "title": "歌曲宝",
-              "href": "https://www.gequbao.com/",
-              "description": "歌曲宝在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
-              "icon": "/assets/favicon_1760103633739.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760103670999",
-              "title": "歌曲海",
-              "href": "https://www.gequhai.com/",
-              "description": "歌曲海是一个专业免费的在线音乐搜索与下载平台，致力于为用户提供全网最全面的MP3歌曲资源。无论是付费歌曲、流行音乐，还是经典老歌，这里都能轻松找到。",
-              "icon": "/assets/favicon_1760103676460.ico",
-              "enabled": true
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8",
