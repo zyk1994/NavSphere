@@ -543,6 +543,14 @@
           ]
         },
         {
+          "id": "30d997ab-0165-48b8-9bd2-d61c4d2312ef",
+          "title": "图片编辑",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "b15a36da-6a74-497b-b81f-cfc658d057b1",
           "title": "文件传输",
           "icon": "Link",
@@ -657,14 +665,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "30d997ab-0165-48b8-9bd2-d61c4d2312ef",
-          "title": "图片编辑",
-          "icon": "Image",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
