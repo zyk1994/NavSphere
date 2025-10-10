@@ -112,6 +112,14 @@
               "description": "使用先进的 Flux.1-dev 模型，完全免费将你的想象力转化为惊艳的艺术作品，由全国50台家用电脑的4090显卡分布式算力提供支持",
               "icon": "/assets/favicon_1760109617734.png",
               "enabled": true
+            },
+            {
+              "id": "1760109718587",
+              "title": "Ollama可用服务",
+              "href": "https://ollama.vincentko.top/zh",
+              "description": "Ollama可用服务",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ollama.vincentko.top",
+              "enabled": true
             }
           ]
         },
