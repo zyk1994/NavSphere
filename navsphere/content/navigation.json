@@ -299,6 +299,14 @@
           "enabled": true
         },
         {
+          "id": "71d88019-037b-4fdb-baae-de49e1ac577d",
+          "title": "游戏工具",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "4",
           "title": "图形创意",
           "href": "#图形创意",
@@ -409,14 +417,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "71d88019-037b-4fdb-baae-de49e1ac577d",
-          "title": "游戏工具",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
