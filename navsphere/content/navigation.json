@@ -244,66 +244,6 @@
       ]
     },
     {
-      "id": "1760099239608",
-      "title": "影音娱乐",
-      "icon": "Music",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
-          "title": "影视站",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760099286118",
-              "title": "最全免费在线影视网站",
-              "href": "https://www.tbox.fun/tool/plugins/movie/#/",
-              "description": "最全免费在线影视网站",
-              "icon": "/assets/favicon_1760099291629.png",
-              "enabled": true
-            },
-            {
-              "id": "1760100132277",
-              "title": "低端影视",
-              "href": "https://ddys.pro/",
-              "description": "超清在线视频",
-              "icon": "/assets/favicon_1760100137463.png",
-              "enabled": true
-            },
-            {
-              "id": "1760100268230",
-              "title": "皮皮妖",
-              "href": "https://www.pipiyao.cc/",
-              "description": "皮皮妖提供最新最快的视频分享数据",
-              "icon": "/assets/favicon_1760100274167.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "40646dd0-5f16-4dea-9a39-35c59e86c37d",
-          "title": "音乐站",
-          "icon": "Music",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760099357545",
-              "title": "一起听歌吧",
-              "href": "https://happy.alang.run/#/",
-              "description": "在线听歌房",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=happy.alang.run",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -556,6 +496,66 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1760099239608",
+      "title": "影音娱乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
+          "title": "影视站",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760099286118",
+              "title": "最全免费在线影视网站",
+              "href": "https://www.tbox.fun/tool/plugins/movie/#/",
+              "description": "最全免费在线影视网站",
+              "icon": "/assets/favicon_1760099291629.png",
+              "enabled": true
+            },
+            {
+              "id": "1760100132277",
+              "title": "低端影视",
+              "href": "https://ddys.pro/",
+              "description": "超清在线视频",
+              "icon": "/assets/favicon_1760100137463.png",
+              "enabled": true
+            },
+            {
+              "id": "1760100268230",
+              "title": "皮皮妖",
+              "href": "https://www.pipiyao.cc/",
+              "description": "皮皮妖提供最新最快的视频分享数据",
+              "icon": "/assets/favicon_1760100274167.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "40646dd0-5f16-4dea-9a39-35c59e86c37d",
+          "title": "音乐站",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760099357545",
+              "title": "一起听歌吧",
+              "href": "https://happy.alang.run/#/",
+              "description": "在线听歌房",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=happy.alang.run",
+              "enabled": true
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8",
