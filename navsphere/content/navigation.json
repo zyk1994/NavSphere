@@ -233,7 +233,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
+          "title": "影视站",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "2",
