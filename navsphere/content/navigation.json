@@ -346,6 +346,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1760099534080",
+              "title": "短视频免费去水印解析下载工具",
+              "href": "https://www.tiantianjiexi.com/",
+              "description": "天天解析是一个支持抖音快手小红书微博TikTok国际版抖音等网页APP短视频在线免费去水印解析下载的工具网站",
+              "icon": "/assets/favicon_1760099539446.ico",
+              "enabled": true
             }
           ],
           "enabled": true
