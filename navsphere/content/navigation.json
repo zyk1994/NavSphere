@@ -171,6 +171,14 @@
               "description": "Linux命令搜索引擎:最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。",
               "icon": "/assets/favicon_1760100972464.png",
               "enabled": true
+            },
+            {
+              "id": "1760102942272",
+              "title": "HTML/CSS/Javascript在线代码运行工具",
+              "href": "https://www.runoob.com/runcode",
+              "description": "HTML/CSS/Javascript 在线代码运行工具用于在线进行代码测试，你可以在将你的 HTML/CSS/Javascript 代码复制到以下输入框中，点击“运行”按钮即可查看代码执行结果。",
+              "icon": "/assets/favicon_1760102949827.ico",
+              "enabled": true
             }
           ]
         },
