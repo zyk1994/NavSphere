@@ -308,6 +308,14 @@
               "description": "一个简洁实用的英语单词学习工具",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wordforest.cn",
               "enabled": true
+            },
+            {
+              "id": "1760107635920",
+              "title": "考试酷在线考试系统云平台",
+              "href": "https://www.examcoo.com/index/ku",
+              "description": "考试酷的公共题库中心页面,提供海量试题库资源.考试酷网站是由广州创讯软件有限公司开发和运营的一个永久免费的在线考试系统,网络考试系统,提供在线考试,电子作业,自测练习和模拟考试,智能组卷,试卷分享,试题库等考试系统和考试相关服务.",
+              "icon": "/assets/favicon_1760107645121.png",
+              "enabled": true
             }
           ]
         },
