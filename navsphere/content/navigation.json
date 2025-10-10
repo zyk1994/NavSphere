@@ -616,6 +616,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1760110540963",
+              "title": "在线工具",
+              "href": "https://tool.lu/",
+              "description": "在线工具",
+              "icon": "/assets/favicon_1760110547957.png",
+              "enabled": true
             }
           ],
           "enabled": true
