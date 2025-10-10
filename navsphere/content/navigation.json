@@ -700,6 +700,14 @@
               "description": "在线转换、压缩、编辑、签署PDF文档。",
               "icon": "/assets/favicon_1760110049976.ico",
               "enabled": true
+            },
+            {
+              "id": "1760110188374",
+              "title": "PDF文件在线处理工具",
+              "href": "https://www.ilovepdf.com/zh-cn",
+              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
+              "icon": "/assets/favicon_1760110199528.png",
+              "enabled": true
             }
           ]
         },
