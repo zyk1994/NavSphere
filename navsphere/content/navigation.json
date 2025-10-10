@@ -67,6 +67,23 @@
       "items": [],
       "subCategories": [
         {
+          "id": "6a242635-d864-48d1-aa2c-6e0a107a9cfa",
+          "title": "激活工具",
+          "icon": "Folder",
+          "description": "激活工具",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760084162093",
+              "title": "JetBrains全家桶激活",
+              "href": "https://ckey.run/",
+              "description": "JetBrains全家桶激活工具",
+              "icon": "/assets/favicon_1760084168779.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
           "title": "ICON",
           "icon": "BookOpen",
@@ -169,23 +186,6 @@
               "href": "https://excalidraw.com/",
               "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
               "icon": "/assets/img_1736922499401.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "6a242635-d864-48d1-aa2c-6e0a107a9cfa",
-          "title": "激活工具",
-          "icon": "Folder",
-          "description": "激活工具",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760084162093",
-              "title": "JetBrains全家桶激活",
-              "href": "https://ckey.run/",
-              "description": "JetBrains全家桶激活工具",
-              "icon": "/assets/favicon_1760084168779.png",
               "enabled": true
             }
           ]
