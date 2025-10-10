@@ -937,6 +937,14 @@
               "description": "开源的Windows和Office激活工具，支持HWID、Ohook、TSforge、KMS38和在线KMS激活方法，以及高级故障排除。",
               "icon": "/assets/favicon_1760109539178.png",
               "enabled": true
+            },
+            {
+              "id": "1760109831203",
+              "title": "KMS全球激活服务器",
+              "href": "http://kmserver.micaesoft.com/",
+              "description": "KMS全球激活服务器",
+              "icon": "/assets/favicon_1760109837901.ico",
+              "enabled": true
             }
           ]
         },
