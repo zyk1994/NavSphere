@@ -580,6 +580,14 @@
               "description": "更快更安全，100%免费并且对文件数量无限制",
               "icon": "/assets/favicon_1760106630228.ico",
               "enabled": true
+            },
+            {
+              "id": "1760106929830",
+              "title": "AI人工智能图片放大",
+              "href": "https://bigjpg.com/",
+              "description": "AI人工智能图片放大",
+              "icon": "/assets/favicon_1760106936398.png",
+              "enabled": true
             }
           ]
         },
