@@ -292,6 +292,14 @@
               "description": "免费提供的编程书籍",
               "icon": "/assets/favicon_1760107507835.ico",
               "enabled": true
+            },
+            {
+              "id": "1760107553451",
+              "title": "JAVA知识学习",
+              "href": "https://how2j.cn/",
+              "description": "JAVA知识学习",
+              "icon": "/assets/favicon_1760107559895.png",
+              "enabled": true
             }
           ]
         },
