@@ -661,6 +661,14 @@
               "description": "绿色软件分享站",
               "icon": "/assets/favicon_1760108628716.png",
               "enabled": true
+            },
+            {
+              "id": "1760108685199",
+              "title": "423Down",
+              "href": "https://www.423down.com/",
+              "description": "更新快、专注去广告类软件、软件分享站",
+              "icon": "/assets/favicon_1760108694168.ico",
+              "enabled": true
             }
           ]
         },
