@@ -492,6 +492,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "a38d695e-aee9-4b60-8c58-ae4539e84392",
+          "title": "文档工具",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
