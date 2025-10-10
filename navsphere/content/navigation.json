@@ -320,6 +320,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "c536f943-d613-4798-b983-a56156b4160f",
+          "title": "学习资料",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
