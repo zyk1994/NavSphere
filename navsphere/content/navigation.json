@@ -736,6 +736,14 @@
               "description": "蓝光电影",
               "icon": "/assets/favicon_1760103969225.png",
               "enabled": true
+            },
+            {
+              "id": "1760104024973",
+              "title": "好片网",
+              "href": "https://www.cnwml.com/",
+              "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
+              "icon": "/assets/favicon_1760104030255.ico",
+              "enabled": true
             }
           ]
         },
