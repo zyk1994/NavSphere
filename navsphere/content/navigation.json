@@ -244,6 +244,14 @@
               "description": "JavaGuide面试指南",
               "icon": "/assets/favicon_1760107072609.png",
               "enabled": true
+            },
+            {
+              "id": "1760107103104",
+              "title": "mall学习教程",
+              "href": "https://www.macrozheng.com/#/",
+              "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。",
+              "icon": "/assets/favicon_1760107109995.png",
+              "enabled": true
             }
           ]
         },
