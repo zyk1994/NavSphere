@@ -832,6 +832,14 @@
               "description": "浏览器插件",
               "icon": "/assets/favicon_1760105650312.png",
               "enabled": true
+            },
+            {
+              "id": "1760108352683",
+              "title": "KMS激活脚本",
+              "href": "https://kms.cangshui.net/",
+              "description": "KMS激活脚本无需繁琐的操作即可一键激活Windows或Office。KMS激活会自动续期直到永远！KMS激活无需担心病毒或者捆绑软件，它是windows系统自带的功能，安全可靠。",
+              "icon": "/assets/favicon_1760108358529.ico",
+              "enabled": true
             }
           ]
         },
