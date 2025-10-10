@@ -231,6 +231,14 @@
           ]
         },
         {
+          "id": "c536f943-d613-4798-b983-a56156b4160f",
+          "title": "学习资料",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
           "title": "托管平台",
           "icon": "Book",
@@ -320,14 +328,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "c536f943-d613-4798-b983-a56156b4160f",
-          "title": "学习资料",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
