@@ -72,7 +72,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760098084874",
+              "title": "Vue3中文文档",
+              "href": "https://cn.vuejs.org/guide/introduction",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "icon": "/assets/favicon_1760098089686.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
