@@ -375,6 +375,14 @@
               "description": "用于影片、音频、PDF 与档案转换的线上工具",
               "icon": "/assets/favicon_1760102147535.svg",
               "enabled": true
+            },
+            {
+              "id": "1760102347768",
+              "title": "不同设备间剪切板同步",
+              "href": "https://gcopy.llaoj.cn/zh",
+              "description": "GCopy是一个不同设备间的剪切板同步服务, 它支持文字, 截图和文件. 只需要点击两下就实现数据同步.",
+              "icon": "/assets/favicon_1760102355250.ico",
+              "enabled": true
             }
           ],
           "enabled": true
