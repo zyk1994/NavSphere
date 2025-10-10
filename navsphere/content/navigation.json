@@ -624,6 +624,14 @@
           ]
         },
         {
+          "id": "9d81fc30-fdbf-497d-b6ef-7dc5429af433",
+          "title": "其他工具",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "4",
           "title": "图形创意",
           "href": "#图形创意",
@@ -734,14 +742,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "9d81fc30-fdbf-497d-b6ef-7dc5429af433",
-          "title": "其他工具",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
