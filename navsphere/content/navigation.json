@@ -300,6 +300,14 @@
               "description": "JAVA知识学习",
               "icon": "/assets/favicon_1760107559895.png",
               "enabled": true
+            },
+            {
+              "id": "1760107600179",
+              "title": "单词森林",
+              "href": "https://wordforest.cn/",
+              "description": "一个简洁实用的英语单词学习工具",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wordforest.cn",
+              "enabled": true
             }
           ]
         },
