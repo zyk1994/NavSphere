@@ -147,6 +147,14 @@
               "description": "JetBrains全家桶激活工具",
               "icon": "/assets/favicon_1760084168779.png",
               "enabled": true
+            },
+            {
+              "id": "1760100555992",
+              "title": "JAVA JDK下载",
+              "href": "https://www.injdk.cn/",
+              "description": "各种Java JDK的镜像分发",
+              "icon": "/assets/favicon_1760100563722.png",
+              "enabled": true
             }
           ]
         },
