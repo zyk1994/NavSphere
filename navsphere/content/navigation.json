@@ -67,6 +67,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "b50febd1-d639-4208-97fe-9aac734b6c2e",
+          "title": "AI公益站",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "7941b8ef-d37b-467d-9711-3f427505319d",
           "title": "前端框架",
           "icon": "Folder",
@@ -223,14 +231,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "b50febd1-d639-4208-97fe-9aac734b6c2e",
-          "title": "AI公益站",
-          "icon": "Brain",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
