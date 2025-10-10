@@ -905,6 +905,14 @@
               "description": "开源 Win10/Win11 数字权利（数字许可证）激活工具！",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=cmwtat.cloudmoe.com",
               "enabled": true
+            },
+            {
+              "id": "1760109533042",
+              "title": "微软激活脚本（MAS）",
+              "href": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+              "description": "开源的Windows和Office激活工具，支持HWID、Ohook、TSforge、KMS38和在线KMS激活方法，以及高级故障排除。",
+              "icon": "/assets/favicon_1760109539178.png",
+              "enabled": true
             }
           ]
         },
