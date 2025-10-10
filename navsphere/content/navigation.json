@@ -387,7 +387,16 @@
           "icon": "FileText",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760100381117",
+              "title": "超级pdf",
+              "href": "https://xpdf.cn/",
+              "description": "在线pdf处理工具",
+              "icon": "/assets/favicon_1760100387448.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4",
