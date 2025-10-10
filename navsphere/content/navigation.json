@@ -198,6 +198,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "7941b8ef-d37b-467d-9711-3f427505319d",
+          "title": "前端框架",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
