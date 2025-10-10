@@ -135,8 +135,8 @@
         },
         {
           "id": "6a242635-d864-48d1-aa2c-6e0a107a9cfa",
-          "title": "激活工具",
-          "icon": "Folder",
+          "title": "开发工具",
+          "icon": "Box",
           "description": "激活工具",
           "enabled": true,
           "items": [
