@@ -67,6 +67,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "7941b8ef-d37b-467d-9711-3f427505319d",
+          "title": "前端框架",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "6a242635-d864-48d1-aa2c-6e0a107a9cfa",
           "title": "激活工具",
           "icon": "Folder",
@@ -198,14 +206,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "7941b8ef-d37b-467d-9711-3f427505319d",
-          "title": "前端框架",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
