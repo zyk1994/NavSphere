@@ -417,6 +417,14 @@
           ]
         },
         {
+          "id": "1023c264-d8c1-436e-aee2-ad3248323189",
+          "title": "网络工具",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "4",
           "title": "图形创意",
           "href": "#图形创意",
@@ -527,14 +535,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "1023c264-d8c1-436e-aee2-ad3248323189",
-          "title": "网络工具",
-          "icon": "Network",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
