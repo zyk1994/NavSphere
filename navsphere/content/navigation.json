@@ -548,6 +548,14 @@
               "description": "皮皮直连",
               "icon": "/assets/favicon_1760104360375.png",
               "enabled": true
+            },
+            {
+              "id": "1760104432455",
+              "title": "局域网文件传输",
+              "href": "https://drop.ioiox.com/",
+              "description": "局域网文件传输",
+              "icon": "/assets/favicon_1760104438815.png",
+              "enabled": true
             }
           ]
         },
