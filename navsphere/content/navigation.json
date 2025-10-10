@@ -227,6 +227,15 @@
       ]
     },
     {
+      "id": "1760099239608",
+      "title": "影音娱乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -617,15 +626,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1760099239608",
-      "title": "影音娱乐",
-      "icon": "Music",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
