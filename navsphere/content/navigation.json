@@ -304,7 +304,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760099050467",
+              "title": "风灵月影",
+              "href": "https://flingtrainer.com/",
+              "description": "风灵月影PC游戏修改器与模组",
+              "icon": "/assets/favicon_1760099055327.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4",
