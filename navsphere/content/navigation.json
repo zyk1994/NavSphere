@@ -1136,6 +1136,14 @@
               "description": "TVBOX接口搜集",
               "icon": "/assets/favicon_1760105465694.png",
               "enabled": true
+            },
+            {
+              "id": "1760115455330",
+              "title": "好好看",
+              "href": "https://www.hhkan0.com/",
+              "description": "最新Netflix新剧_韩国电影免费在线观看",
+              "icon": "/assets/favicon_1760115462253.png",
+              "enabled": true
             }
           ]
         },
