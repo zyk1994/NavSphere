@@ -442,6 +442,14 @@
               "description": "Sakura Frp 是一个免费的内网穿透工具专业为您提供内网穿透,内网穿透服务,内网穿透软件,frp内网穿透,内网映射,Nat映射,端口映射,NAS,Minecraft的相关信息",
               "icon": "/assets/favicon_1760100199593.ico",
               "enabled": true
+            },
+            {
+              "id": "1760102559378",
+              "title": "网络测速",
+              "href": "https://net.netart.cn/",
+              "description": "网络测速工具",
+              "icon": "/assets/favicon_1760102566042.png",
+              "enabled": true
             }
           ]
         },
