@@ -211,6 +211,14 @@
               "description": "Cron在线表达式生成器",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=cron.ciding.cc",
               "enabled": true
+            },
+            {
+              "id": "1760104094270",
+              "title": "IT Tools",
+              "href": "https://it-tools.tech/",
+              "description": "为开发人员提供的方便的在线工具集合，具有出色的用户体验。IT Tools是一个免费的开源集合，为开发人员和IT工作人员提供方便的在线工具。",
+              "icon": "/assets/favicon_1760104099420.ico",
+              "enabled": true
             }
           ]
         },
