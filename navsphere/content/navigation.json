@@ -704,6 +704,14 @@
               "description": "可可影视",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.kkys04.com",
               "enabled": true
+            },
+            {
+              "id": "1760103694503",
+              "title": "网飞猫",
+              "href": "https://dl.ncat24.com/",
+              "description": "网飞猫",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.ncat24.com",
+              "enabled": true
             }
           ]
         },
