@@ -421,6 +421,14 @@
               "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
               "icon": "/assets/favicon_1755225933031.ico",
               "enabled": true
+            },
+            {
+              "id": "1760112628321",
+              "title": "ClawCloud",
+              "href": "https://ap-northeast-1.run.claw.cloud/",
+              "description": "爪云",
+              "icon": "/assets/favicon_1760112633859.png",
+              "enabled": true
             }
           ]
         },
