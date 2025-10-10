@@ -584,6 +584,14 @@
           ]
         },
         {
+          "id": "d3f53748-a028-4ea3-92a9-a7e40be4f462",
+          "title": "视频编辑",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "b15a36da-6a74-497b-b81f-cfc658d057b1",
           "title": "文件传输",
           "icon": "Link",
@@ -698,14 +706,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "d3f53748-a028-4ea3-92a9-a7e40be4f462",
-          "title": "视频编辑",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
