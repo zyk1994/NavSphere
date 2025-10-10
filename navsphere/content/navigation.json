@@ -84,39 +84,6 @@
           ]
         },
         {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760088890027",
-              "title": "Lucide",
-              "href": "https://lucide.dev/",
-              "description": "Beautiful & consistent icon toolkit made by the community.",
-              "icon": "/assets/favicon_1760088895505.png",
-              "enabled": true
-            },
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
           "title": "托管平台",
           "icon": "Book",
@@ -156,6 +123,39 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
+          "title": "ICON",
+          "icon": "BookOpen",
+          "description": "站点图标",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760088890027",
+              "title": "Lucide",
+              "href": "https://lucide.dev/",
+              "description": "Beautiful & consistent icon toolkit made by the community.",
+              "icon": "/assets/favicon_1760088895505.png",
+              "enabled": true
+            },
+            {
+              "id": "1750831228317",
+              "title": "lucide",
+              "href": "https://lucide.dev/icons/house",
+              "description": "Beautiful &\nconsistent icons",
+              "icon": "/assets/img_1750831362985.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
+          "title": "UI框架",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         },
         {
           "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
