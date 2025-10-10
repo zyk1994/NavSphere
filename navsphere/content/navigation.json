@@ -589,7 +589,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760106802493",
+              "title": "Video Compressor",
+              "href": "https://tools.rotato.app/compress",
+              "description": "在线视频压缩",
+              "icon": "/assets/favicon_1760106807976.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "b15a36da-6a74-497b-b81f-cfc658d057b1",
