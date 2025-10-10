@@ -382,6 +382,14 @@
           ]
         },
         {
+          "id": "a38d695e-aee9-4b60-8c58-ae4539e84392",
+          "title": "文档工具",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "4",
           "title": "图形创意",
           "href": "#图形创意",
@@ -492,14 +500,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "a38d695e-aee9-4b60-8c58-ae4539e84392",
-          "title": "文档工具",
-          "icon": "FileText",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
