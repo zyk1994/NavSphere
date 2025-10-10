@@ -728,6 +728,14 @@
               "description": "观影网地址发布页",
               "icon": "/assets/favicon_1760103879287.png",
               "enabled": true
+            },
+            {
+              "id": "1760103962594",
+              "title": "中国蓝光网",
+              "href": "https://www.languangdy.com/",
+              "description": "蓝光电影",
+              "icon": "/assets/favicon_1760103969225.png",
+              "enabled": true
             }
           ]
         },
