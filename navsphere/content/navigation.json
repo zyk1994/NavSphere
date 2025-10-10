@@ -596,6 +596,14 @@
               "description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
               "icon": "/assets/favicon_1760106966847.png",
               "enabled": true
+            },
+            {
+              "id": "1760106985878",
+              "title": "最优图像优化",
+              "href": "https://zh.recompressor.com/",
+              "description": "优化 PNG、JPG 和 SVG 图像的压缩 — 100% 免费 — 完全在浏览器中完成 — 选择文件大小和质量之间的完美平衡。",
+              "icon": "/assets/favicon_1760106991303.png",
+              "enabled": true
             }
           ]
         },
