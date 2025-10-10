@@ -383,6 +383,14 @@
               "description": "GCopy是一个不同设备间的剪切板同步服务, 它支持文字, 截图和文件. 只需要点击两下就实现数据同步.",
               "icon": "/assets/favicon_1760102355250.ico",
               "enabled": true
+            },
+            {
+              "id": "1760102460930",
+              "title": "在线打字练习",
+              "href": "http://www.daziba.cn/default.aspx",
+              "description": "在线打字吧，专业练习打字",
+              "icon": "/assets/favicon_1760102469489.png",
+              "enabled": true
             }
           ],
           "enabled": true
