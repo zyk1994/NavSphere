@@ -96,7 +96,7 @@
           "title": "UI框架",
           "icon": "Files",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": []
         },
         {
