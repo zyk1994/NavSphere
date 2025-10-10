@@ -38,14 +38,6 @@
           "enabled": true
         },
         {
-          "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
-          "enabled": false
-        },
-        {
           "id": "item-1754218579319",
           "enabled": true,
           "title": "DeepSeek - 探索未至之境",
