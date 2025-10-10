@@ -82,19 +82,19 @@
           "enabled": true,
           "items": [
             {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            },
-            {
               "id": "1760088890027",
               "title": "Lucide",
               "href": "https://lucide.dev/",
               "description": "Beautiful & consistent icon toolkit made by the community.",
               "icon": "/assets/favicon_1760088895505.png",
+              "enabled": true
+            },
+            {
+              "id": "1750831228317",
+              "title": "lucide",
+              "href": "https://lucide.dev/icons/house",
+              "description": "Beautiful &\nconsistent icons",
+              "icon": "/assets/img_1750831362985.png",
               "enabled": true
             }
           ]
