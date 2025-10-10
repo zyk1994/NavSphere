@@ -59,7 +59,7 @@
           "href": "https://lucide.dev/",
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": true
+          "enabled": false
         }
       ],
       "subCategories": [],
