@@ -391,6 +391,14 @@
               "description": "在线打字吧，专业练习打字",
               "icon": "/assets/favicon_1760102469489.png",
               "enabled": true
+            },
+            {
+              "id": "1760102514106",
+              "title": "在线屏幕检测工具",
+              "href": "https://screen.bmcx.com/#welcome",
+              "description": "免费在线屏幕测试工具。在线屏幕检测 - 显示器检测 - 显示器坏点检测工具",
+              "icon": "/assets/favicon_1760102523687.png",
+              "enabled": true
             }
           ],
           "enabled": true
