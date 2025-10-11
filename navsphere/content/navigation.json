@@ -467,6 +467,14 @@
               "description": "开拓韩迷、韩饭の新世界！",
               "icon": "/assets/favicon_1760197426862.png",
               "enabled": true
+            },
+            {
+              "id": "1760198810405",
+              "title": "港剧网",
+              "href": "https://www.939394.xyz/",
+              "description": "粤语电影、电视剧",
+              "icon": "/assets/favicon_1760198822936.png",
+              "enabled": true
             }
           ]
         },
