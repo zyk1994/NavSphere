@@ -241,6 +241,14 @@
               "description": "提供最新最快的影视资讯和在线播放-免费电影-全网最全视频库-全网最全免费影院-免费影视-免费电视剧-免费影院",
               "icon": "/assets/favicon_1760195642438.ico",
               "enabled": true
+            },
+            {
+              "id": "1760195652766",
+              "title": "稀饭影视",
+              "href": "https://www.xifanys.com",
+              "description": "稀饭影视 - 免费的手机在线视频分享网站",
+              "icon": "/assets/favicon_1760195659773.png",
+              "enabled": true
             }
           ]
         },
