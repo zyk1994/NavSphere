@@ -152,6 +152,14 @@
               "description": "Auete影视为您提供蓝光超清热门电影,热门美剧热门韩剧最近热播电影电视剧推荐,精品动漫,好看的综艺节目在线观看百度云免费下载!",
               "icon": "/assets/favicon_1760195082689.png",
               "enabled": true
+            },
+            {
+              "id": "1760195107314",
+              "title": "两个BT",
+              "href": "https://www.bttwo.me/",
+              "description": "两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。",
+              "icon": "/assets/favicon_1760195113736.ico",
+              "enabled": true
             }
           ]
         },
