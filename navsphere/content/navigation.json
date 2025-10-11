@@ -458,6 +458,14 @@
               "enabled": true
             },
             {
+              "id": "1760167862863",
+              "title": "Maven仓库",
+              "href": "https://mvnrepository.com/",
+              "description": "Maven仓库",
+              "icon": "/assets/favicon_1760167868678.ico",
+              "enabled": true
+            },
+            {
               "id": "1760100555992",
               "title": "JAVA JDK下载",
               "href": "https://www.injdk.cn/",
@@ -535,14 +543,6 @@
               "href": "https://www.txttool.com/",
               "description": "TXT文本处理工具 - 在线文本工具",
               "icon": "/assets/favicon_1760110478374.png",
-              "enabled": true
-            },
-            {
-              "id": "1760167862863",
-              "title": "Maven仓库",
-              "href": "https://mvnrepository.com/",
-              "description": "Maven仓库",
-              "icon": "/assets/favicon_1760167868678.ico",
               "enabled": true
             }
           ]
