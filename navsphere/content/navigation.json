@@ -160,6 +160,14 @@
               "description": "两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。",
               "icon": "/assets/favicon_1760195113736.ico",
               "enabled": true
+            },
+            {
+              "id": "1760195228102",
+              "title": "饺子影院",
+              "href": "https://www.jiaozi.me/",
+              "description": "超清在线视频站",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.jiaozi.me",
+              "enabled": true
             }
           ]
         },
