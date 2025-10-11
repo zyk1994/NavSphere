@@ -394,6 +394,14 @@
               "description": "本页面预设以更新顺序排序，最近更新的动画会在最上面。...",
               "icon": "/assets/favicon_1760196834916.png",
               "enabled": true
+            },
+            {
+              "id": "1760196887167",
+              "title": "饭团动漫",
+              "href": "https://acgfta.com/",
+              "description": "免费动漫,免费视频,免费看动漫,在线看动漫,在线看漫画,在线看番,饭团动漫,ACG饭团,新番在线",
+              "icon": "/assets/favicon_1760196893361.png",
+              "enabled": true
             }
           ]
         },
