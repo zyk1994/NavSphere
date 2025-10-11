@@ -338,6 +338,14 @@
               "description": "OmoFun动漫视频网提供最新最快的动漫新番资讯和在线播放，开心看动漫，无圣骑、无暗牧。",
               "icon": "/assets/favicon_1760196244882.ico",
               "enabled": true
+            },
+            {
+              "id": "1760196434210",
+              "title": "次元动漫",
+              "href": "https://icydmw.com",
+              "description": "收集并整理优质的动漫资源，每天更新，无需注册，无需登录，无需下载即可免费在线观看。",
+              "icon": "/assets/favicon_1760196441485.ico",
+              "enabled": true
             }
           ]
         },
