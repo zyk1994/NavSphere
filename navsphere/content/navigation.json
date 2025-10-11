@@ -884,6 +884,14 @@
               "description": "微PE工具箱",
               "icon": "/assets/favicon_1760109914542.png",
               "enabled": true
+            },
+            {
+              "id": "1760188424465",
+              "title": "极简插件官网",
+              "href": "https://chrome.zzzmh.cn/index",
+              "description": "极简插件是一个优质Chrome插件下载商店，收录热门好用的Chrome插件扩展，国内最方便的Chrome插件下载网站。一键下载谷歌扩展插件，无套路下载插件。",
+              "icon": "/assets/favicon_1760188429395.ico",
+              "enabled": true
             }
           ]
         },
