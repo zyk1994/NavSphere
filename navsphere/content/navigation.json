@@ -60,14 +60,6 @@
           "description": "一个聚合的网盘搜索工具。它可以聚合多个优质资源站和公开频道,一次搜索即可覆盖阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。",
           "icon": "/assets/favicon_1760074947695.ico",
           "enabled": true
-        },
-        {
-          "id": "1760082534083",
-          "title": "豆包",
-          "href": "https://www.doubao.com/chat",
-          "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
-          "icon": "/assets/favicon_1760082539831.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
