@@ -249,6 +249,14 @@
               "description": "稀饭影视 - 免费的手机在线视频分享网站",
               "icon": "/assets/favicon_1760195659773.png",
               "enabled": true
+            },
+            {
+              "id": "1760195722660",
+              "title": "蛋蛋鸡",
+              "href": "https://www.dandanji.cc",
+              "description": "最新电影电视剧手机免费在线观看",
+              "icon": "/assets/favicon_1760195728851.png",
+              "enabled": true
             }
           ]
         },
