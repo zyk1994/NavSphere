@@ -528,7 +528,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760165054916",
+              "title": "GitHub",
+              "href": "https://github.com/",
+              "description": "加入这个世界上应用最广泛的AI开发者平台，数百万开发者、企业和最大的开源社区在这里构建促进人类发展的软件。",
+              "icon": "/assets/favicon_1760165060479.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c536f943-d613-4798-b983-a56156b4160f",
