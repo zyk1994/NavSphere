@@ -290,7 +290,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760185516771",
+              "title": "鸠摩文档搜索引擎",
+              "href": "https://www.jiumodiary.com/",
+              "description": "鸠摩搜索引擎",
+              "icon": "/assets/favicon_1760185524001.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
