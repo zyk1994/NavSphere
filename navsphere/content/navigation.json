@@ -812,6 +812,14 @@
               "description": "在线工具",
               "icon": "/assets/favicon_1760110547957.png",
               "enabled": true
+            },
+            {
+              "id": "1760143733719",
+              "title": "CookLikeHOC",
+              "href": "https://cooklikehoc.soilzhu.su/",
+              "description": "像老乡鸡那样做饭",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cooklikehoc.soilzhu.su",
+              "enabled": true
             }
           ],
           "enabled": true
