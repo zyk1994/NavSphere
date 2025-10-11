@@ -325,6 +325,14 @@
           ]
         },
         {
+          "id": "c9c2d3bb-0de1-4dec-b0a2-85c1735628fe",
+          "title": "短剧",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "1bf2b98a-4bc1-44b0-922b-12b4845b6862",
           "title": "动漫番剧",
           "icon": "Video",
@@ -696,14 +704,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "c9c2d3bb-0de1-4dec-b0a2-85c1735628fe",
-          "title": "短剧",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
