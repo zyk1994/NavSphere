@@ -569,6 +569,14 @@
               "description": "TXT文本处理工具 - 在线文本工具",
               "icon": "/assets/favicon_1760110478374.png",
               "enabled": true
+            },
+            {
+              "id": "1760185606163",
+              "title": "免费公共 MQTT 服务器",
+              "href": "https://www.emqx.com/zh/mqtt/public-mqtt5-broker",
+              "description": "试用基于高可用、高性能的 EMQX 创建的免费公共 MQTT 服务器。无需部署，立即开始您的 MQTT 测试、学习！",
+              "icon": "/assets/favicon_1760185611489.png",
+              "enabled": true
             }
           ]
         },
