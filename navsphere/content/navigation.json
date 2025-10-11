@@ -224,6 +224,14 @@
               "description": "和你的家人朋友一起在线看视频，无论相隔多远",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=videotogether.github.io",
               "enabled": true
+            },
+            {
+              "id": "1760189504268",
+              "title": "网飞猫",
+              "href": "https://www.ncat21.com/",
+              "description": "网飞猫-奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
+              "icon": "/assets/favicon_1760189510984.ico",
+              "enabled": true
             }
           ]
         },
