@@ -80,24 +80,7 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760191714872",
-              "title": "低端影视",
-              "href": "https://ddys.pro/",
-              "description": "超清在线视频",
-              "icon": "/assets/favicon_1760100137463.png",
-              "enabled": true
-            },
-            {
-              "id": "1760194381570",
-              "title": "修罗影视",
-              "href": "https://xl01.com.de/",
-              "description": "修罗影视，热门电影，最新电影，最新电视剧，免费下载，迅雷下载，磁力下载，电驴下载，超清原画免费在线观看!",
-              "icon": "/assets/favicon_1760194390793.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
@@ -128,22 +111,6 @@
               "href": "https://www.tbox.fun/tool/plugins/movie/#/",
               "description": "最全免费在线影视网站",
               "icon": "/assets/favicon_1760099291629.png",
-              "enabled": true
-            },
-            {
-              "id": "1760100132277",
-              "title": "低端影视",
-              "href": "https://ddys.pro/",
-              "description": "超清在线视频",
-              "icon": "/assets/favicon_1760100137463.png",
-              "enabled": true
-            },
-            {
-              "id": "1760190971115",
-              "title": "修罗影视",
-              "href": "https://xl01.com.de/",
-              "description": "修罗影视，热门电影，最新电影，最新电视剧，免费下载，迅雷下载，磁力下载，电驴下载，超清原画免费在线观看!",
-              "icon": "/assets/favicon_1760190976594.png",
               "enabled": true
             },
             {
