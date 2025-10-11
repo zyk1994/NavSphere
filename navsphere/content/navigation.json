@@ -136,6 +136,14 @@
               "description": "努力打造在线之家为最好的海外热门影视剧在线观看站点!",
               "icon": "/assets/favicon_1760194963018.ico",
               "enabled": true
+            },
+            {
+              "id": "1760195020064",
+              "title": "注视影视",
+              "href": "https://gaze.run/",
+              "description": "流畅简洁的观影体验，高清热门剧、番剧、冷门电影免费在线观看，尽享优质影视内容。",
+              "icon": "/assets/favicon_1760195026043.png",
+              "enabled": true
             }
           ]
         },
