@@ -558,6 +558,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "1bf2b98a-4bc1-44b0-922b-12b4845b6862",
+          "title": "动漫番剧",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
