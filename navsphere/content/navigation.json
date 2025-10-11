@@ -289,6 +289,14 @@
               "description": "全网VIP点映免费观看",
               "icon": "/assets/favicon_1760195914477.png",
               "enabled": true
+            },
+            {
+              "id": "1760195956885",
+              "title": "天堂电影网",
+              "href": "https://tiantangdianyingw.com/",
+              "description": "最新的天堂电影网有成千上万的高清电影。包括剧集，动漫，综艺，短剧一体的在线观看平台。",
+              "icon": "/assets/favicon_1760195966292.jpg",
+              "enabled": true
             }
           ]
         },
