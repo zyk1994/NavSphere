@@ -631,6 +631,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8dc00e9b-4a10-4288-93da-5e285addbb17",
+          "title": "特色站点",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
