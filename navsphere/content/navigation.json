@@ -251,6 +251,14 @@
               "enabled": true
             },
             {
+              "id": "1760189349090",
+              "title": "枫叶音乐盒",
+              "href": "https://mu-jie.cc/musicBox/#/",
+              "description": "枫叶音乐盒，一个在线音乐播放器。点开就能听音乐，随时随地享受音乐，支持在线播放、搜索、收藏、导入音乐APP歌单、自建歌单、歌单推荐/分类等功能。",
+              "icon": "/assets/favicon_1760189356098.ico",
+              "enabled": true
+            },
+            {
               "id": "1760099357545",
               "title": "一起听歌吧",
               "href": "https://happy.alang.run/#/",
@@ -296,14 +304,6 @@
               "href": "https://www.gequhai.com/",
               "description": "歌曲海是一个专业免费的在线音乐搜索与下载平台，致力于为用户提供全网最全面的MP3歌曲资源。无论是付费歌曲、流行音乐，还是经典老歌，这里都能轻松找到。",
               "icon": "/assets/favicon_1760103676460.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760189349090",
-              "title": "枫叶音乐盒",
-              "href": "https://mu-jie.cc/musicBox/#/",
-              "description": "枫叶音乐盒，一个在线音乐播放器。点开就能听音乐，随时随地享受音乐，支持在线播放、搜索、收藏、导入音乐APP歌单、自建歌单、歌单推荐/分类等功能。",
-              "icon": "/assets/favicon_1760189356098.ico",
               "enabled": true
             }
           ]
