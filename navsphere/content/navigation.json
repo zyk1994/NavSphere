@@ -386,6 +386,14 @@
               "description": "您追番的最佳归属",
               "icon": "/assets/favicon_1760196800888.png",
               "enabled": true
+            },
+            {
+              "id": "1760196829385",
+              "title": "Anime1动画线上看",
+              "href": "https://anime1.me/",
+              "description": "本页面预设以更新顺序排序，最近更新的动画会在最上面。...",
+              "icon": "/assets/favicon_1760196834916.png",
+              "enabled": true
             }
           ]
         },
