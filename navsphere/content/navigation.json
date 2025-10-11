@@ -114,6 +114,14 @@
               "enabled": true
             },
             {
+              "id": "1760190971115",
+              "title": "修罗影视",
+              "href": "https://xl01.com.de/",
+              "description": "修罗影视，热门电影，最新电影，最新电视剧，免费下载，迅雷下载，磁力下载，电驴下载，超清原画免费在线观看!",
+              "icon": "/assets/favicon_1760190976594.png",
+              "enabled": true
+            },
+            {
               "id": "1760100268230",
               "title": "皮皮妖",
               "href": "https://www.pipiyao.cc/",
@@ -215,14 +223,6 @@
               "href": "https://www.tbox.fun/tool/plugins/tv/#/",
               "description": "TVBOX接口搜集",
               "icon": "/assets/favicon_1760105465694.png",
-              "enabled": true
-            },
-            {
-              "id": "1760190971115",
-              "title": "修罗影视",
-              "href": "https://xl01.com.de/",
-              "description": "修罗影视，热门电影，最新电影，最新电视剧，免费下载，迅雷下载，磁力下载，电驴下载，超清原画免费在线观看!",
-              "icon": "/assets/favicon_1760190976594.png",
               "enabled": true
             }
           ]
