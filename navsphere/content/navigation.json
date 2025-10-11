@@ -443,6 +443,14 @@
               "description": "91美剧网，一个可在线观看美剧的视频网站，美剧爱好者的在线美剧天堂。提供高清、流畅、无广告的观看体验。",
               "icon": "/assets/favicon_1760197161727.png",
               "enabled": true
+            },
+            {
+              "id": "1760197210371",
+              "title": "天天韩剧",
+              "href": "https://www.tthj.cc/",
+              "description": "天天韩剧",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tthj.cc",
+              "enabled": true
             }
           ]
         },
