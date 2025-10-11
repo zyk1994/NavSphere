@@ -713,6 +713,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8ace4b06-8656-4b84-9baa-78d6f6bff6e9",
+          "title": "下载站",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
