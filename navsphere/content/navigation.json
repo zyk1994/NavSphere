@@ -144,6 +144,14 @@
               "description": "流畅简洁的观影体验，高清热门剧、番剧、冷门电影免费在线观看，尽享优质影视内容。",
               "icon": "/assets/favicon_1760195026043.png",
               "enabled": true
+            },
+            {
+              "id": "1760195076049",
+              "title": "Au1080影视",
+              "href": "https://auete.top/",
+              "description": "Auete影视为您提供蓝光超清热门电影,热门美剧热门韩剧最近热播电影电视剧推荐,精品动漫,好看的综艺节目在线观看百度云免费下载!",
+              "icon": "/assets/favicon_1760195082689.png",
+              "enabled": true
             }
           ]
         },
