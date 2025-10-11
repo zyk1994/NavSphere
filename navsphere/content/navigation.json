@@ -427,6 +427,14 @@
               "description": "最新热门泰剧、泰影免费在线看！",
               "icon": "/assets/favicon_1760197015434.png",
               "enabled": true
+            },
+            {
+              "id": "1760197073609",
+              "title": "美剧天堂",
+              "href": "https://www.imeijutt.tv",
+              "description": "海量好看的美剧在线观看、最新美剧下载",
+              "icon": "/assets/favicon_1760197078920.ico",
+              "enabled": true
             }
           ]
         },
