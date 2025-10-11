@@ -682,6 +682,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "808a6ed0-44bc-4d9b-b5f8-dcc9ea8cfed6",
+          "title": "TVBOX",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
