@@ -378,6 +378,14 @@
               "description": "动漫巴士为您提供最新动漫、好看的动漫排行榜、热门动漫推荐；国产动漫、日本动漫、欧美动漫免费在线观看；无广告、高速播放、不卡顿，是广大动漫迷最喜爱的动漫网站。",
               "icon": "/assets/favicon_1760196637135.png",
               "enabled": true
+            },
+            {
+              "id": "1760196794226",
+              "title": "番薯动漫",
+              "href": "https://www.fsdm02.com",
+              "description": "您追番的最佳归属",
+              "icon": "/assets/favicon_1760196800888.png",
+              "enabled": true
             }
           ]
         },
