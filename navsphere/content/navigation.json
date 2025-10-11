@@ -1205,6 +1205,14 @@
               "description": "优化 PNG、JPG 和 SVG 图像的压缩 — 100% 免费 — 完全在浏览器中完成 — 选择文件大小和质量之间的完美平衡。",
               "icon": "/assets/favicon_1760106991303.png",
               "enabled": true
+            },
+            {
+              "id": "1760185727790",
+              "title": "小番茄图片混淆",
+              "href": "https://xfqtphx.netlify.app/",
+              "description": "小番茄图片混淆",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xfqtphx.netlify.app",
+              "enabled": true
             }
           ]
         },
