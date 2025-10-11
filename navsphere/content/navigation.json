@@ -225,6 +225,14 @@
               "description": "蛋蛋鱼提供最新最快的视频分享数据",
               "icon": "/assets/favicon_1760195583611.ico",
               "enabled": true
+            },
+            {
+              "id": "1760195609484",
+              "title": "真狼影视",
+              "href": "https://www.zhenlang.cc/",
+              "description": "真狼为您提供蓝光和超高清的专享影音体验，汇聚国内外最新最全的电影、电视剧、动漫和综艺等热门视频资源。我们实时更新、多线路支持，确保流畅在线播放。此外，您还可以同步在线观看美剧、英剧、韩剧和日剧等众多海外剧集。",
+              "icon": "/assets/favicon_1760195615220.png",
+              "enabled": true
             }
           ]
         },
