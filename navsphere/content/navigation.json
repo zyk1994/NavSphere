@@ -138,6 +138,14 @@
               "enabled": true
             },
             {
+              "id": "1760187882416",
+              "title": "一起看视频",
+              "href": "https://videotogether.github.io/zh-cn/",
+              "description": "和你的家人朋友一起在线看视频，无论相隔多远",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=videotogether.github.io",
+              "enabled": true
+            },
+            {
               "id": "1760102718048",
               "title": "磁力熊",
               "href": "https://www.cilixiong.org/",
@@ -223,14 +231,6 @@
               "href": "https://www.tbox.fun/tool/plugins/tv/#/",
               "description": "TVBOX接口搜集",
               "icon": "/assets/favicon_1760105465694.png",
-              "enabled": true
-            },
-            {
-              "id": "1760187882416",
-              "title": "一起看视频",
-              "href": "https://videotogether.github.io/zh-cn/",
-              "description": "和你的家人朋友一起在线看视频，无论相隔多远",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=videotogether.github.io",
               "enabled": true
             }
           ]
