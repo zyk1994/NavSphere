@@ -75,6 +75,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "b97c79a0-bd11-4b8a-939f-c1aed8bd6989",
+          "title": "优质影视",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
           "title": "影视站",
           "icon": "Video",
@@ -316,14 +324,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "b97c79a0-bd11-4b8a-939f-c1aed8bd6989",
-          "title": "优质影视",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
