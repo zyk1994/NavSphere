@@ -338,6 +338,14 @@
               "description": "短剧爱好者的天堂，免费观看",
               "icon": "/assets/favicon_1760198909487.png",
               "enabled": true
+            },
+            {
+              "id": "1760198932030",
+              "title": "短剧粉",
+              "href": "https://www.djfen.cc",
+              "description": "短剧粉 - 汇聚全网热门影视短剧，精彩剧情短小精悍，轻松追剧无压力！提供丰富多样的短剧资源，包括红果免费短剧在内的精彩内容，随时随地畅享高质量观影体验，满足您的追剧热情！",
+              "icon": "/assets/favicon_1760198937481.png",
+              "enabled": true
             }
           ]
         },
