@@ -164,6 +164,14 @@
           ]
         },
         {
+          "id": "b1548cf2-b5ee-4a16-a14b-f72017f8a7f5",
+          "title": "在线影院",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
           "title": "影视站",
           "icon": "Video",
@@ -405,14 +413,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "b1548cf2-b5ee-4a16-a14b-f72017f8a7f5",
-          "title": "在线影院",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
