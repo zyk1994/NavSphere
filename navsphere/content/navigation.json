@@ -227,6 +227,14 @@
               "enabled": true
             },
             {
+              "id": "1760202980655",
+              "title": "聚合影视",
+              "href": "https://www.juheyingshi.com",
+              "description": "聚合影视及时收录互联网最新高清无删减版电影大片,同步更新热播电视剧,全网热播综艺,热播网剧,短剧,动漫,体育赛事在线免费观看。",
+              "icon": "/assets/favicon_1760202983870.png",
+              "enabled": true
+            },
+            {
               "id": "1760195462288",
               "title": "袋鼠影视",
               "href": "https://dsdytv.com/",
@@ -368,14 +376,6 @@
               "href": "https://www.ysxq.cc",
               "description": "播剧影视提供海量高清电影、电视剧、短剧、动漫免费在线观看服务，每日更新2025最新院线大片、热门美剧韩剧、国产剧集。无需注册即可享受无广告播放体验，支持中英字幕切换与多画质选择，热门资源实时更新！点击进入，畅享全网影视资源！",
               "icon": "/assets/favicon_1760103735009.png",
-              "enabled": true
-            },
-            {
-              "id": "1760202980655",
-              "title": "聚合影视",
-              "href": "https://www.juheyingshi.com",
-              "description": "聚合影视及时收录互联网最新高清无删减版电影大片,同步更新热播电视剧,全网热播综艺,热播网剧,短剧,动漫,体育赛事在线免费观看。",
-              "icon": "/assets/favicon_1760202983870.png",
               "enabled": true
             }
           ]
