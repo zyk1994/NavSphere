@@ -112,6 +112,14 @@
               "description": "高品质在线影视资源",
               "icon": "/assets/favicon_1760194503996.png",
               "enabled": true
+            },
+            {
+              "id": "1760194767941",
+              "title": "No视频",
+              "href": "https://www.novipnoad.net/",
+              "description": "No视频 - 不负追剧好时光",
+              "icon": "/assets/favicon_1760194773542.png",
+              "enabled": true
             }
           ]
         },
