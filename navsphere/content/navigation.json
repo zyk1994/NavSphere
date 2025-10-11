@@ -187,6 +187,14 @@
               "enabled": true
             },
             {
+              "id": "1760200876016",
+              "title": "好好看",
+              "href": "https://www.hhkan1.com/",
+              "description": "最新Netflix新剧_韩国电影免费在线观看",
+              "icon": "/assets/favicon_1760115462253.png",
+              "enabled": true
+            },
+            {
               "id": "1760195427127",
               "title": "Gimy TV 剧迷",
               "href": "https://gimy.tv/",
@@ -328,6 +336,14 @@
               "href": "https://www.chinatownfilm.com",
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
+              "enabled": true
+            },
+            {
+              "id": "1760201779260",
+              "title": "可可影视",
+              "href": "https://www.kkys01.com",
+              "description": "可可影视-奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
+              "icon": "/assets/favicon_1760201782337.ico",
               "enabled": true
             }
           ]
@@ -540,6 +556,14 @@
               "href": "https://videotogether.github.io/zh-cn/",
               "description": "和你的家人朋友一起在线看视频，无论相隔多远",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=videotogether.github.io",
+              "enabled": true
+            },
+            {
+              "id": "1760115455330",
+              "title": "好好看",
+              "href": "https://www.hhkan0.com/",
+              "description": "最新Netflix新剧_韩国电影免费在线观看",
+              "icon": "/assets/favicon_1760115462253.png",
               "enabled": true
             },
             {
