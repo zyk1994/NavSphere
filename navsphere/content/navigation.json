@@ -273,6 +273,14 @@
               "description": "人人影视聚合全网影片，你想看的全都有！人人影视每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。",
               "icon": "/assets/favicon_1760195813124.png",
               "enabled": true
+            },
+            {
+              "id": "1760195846853",
+              "title": "5点电影",
+              "href": "https://www.5.movie",
+              "description": "最新电影、电视剧、综艺、动漫在线看",
+              "icon": "/assets/favicon_1760195852952.png",
+              "enabled": true
             }
           ]
         },
