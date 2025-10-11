@@ -273,6 +273,14 @@
               "description": "歌曲海是一个专业免费的在线音乐搜索与下载平台，致力于为用户提供全网最全面的MP3歌曲资源。无论是付费歌曲、流行音乐，还是经典老歌，这里都能轻松找到。",
               "icon": "/assets/favicon_1760103676460.ico",
               "enabled": true
+            },
+            {
+              "id": "1760180353145",
+              "title": "网易云音乐无损解析",
+              "href": "https://www.kanxizai.cn/163_music/",
+              "description": "网易云音乐无损解析工具，支持FLAC、Hi-Res、杜比全景声等多种音质格式，免费在线解析下载网易云音乐高品质歌曲。",
+              "icon": "/assets/favicon_1760180358875.png",
+              "enabled": true
             }
           ]
         }
