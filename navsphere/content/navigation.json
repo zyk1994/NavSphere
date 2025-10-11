@@ -316,6 +316,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "b97c79a0-bd11-4b8a-939f-c1aed8bd6989",
+          "title": "优质影视",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
