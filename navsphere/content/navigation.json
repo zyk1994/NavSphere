@@ -304,538 +304,6 @@
       ]
     },
     {
-      "id": "1735265493940",
-      "title": "开发工具",
-      "icon": "Box",
-      "description": "开发者工具，工具包",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "b50febd1-d639-4208-97fe-9aac734b6c2e",
-          "title": "AI相关",
-          "icon": "Brain",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760099708760",
-              "title": "红石公益API",
-              "href": "https://hongshi1024-l-api.hf.space/app/dashboard",
-              "description": "公益AI API",
-              "icon": "/assets/favicon_1760099721710.png",
-              "enabled": true
-            },
-            {
-              "id": "1760114791104",
-              "title": "runAnyTime公益API",
-              "href": "https://veloera.wenwen12345.top/app/dashboard",
-              "description": "runAnyTime公益API",
-              "icon": "/assets/favicon_1760114797228.png",
-              "enabled": true
-            },
-            {
-              "id": "1760109292846",
-              "title": "Sharedchat公益站",
-              "href": "https://sharedchat.fun/",
-              "description": "Sharedchat公益站",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sharedchat.fun",
-              "enabled": true
-            },
-            {
-              "id": "1760109358256",
-              "title": "Nano Banana免费AI图像生成器",
-              "href": "https://nanobananafree.ai/",
-              "description": "Nano Banana免费AI图像生成器，Nano Banana是最好的AI图像生成器，使用最新的AI图像处理技术，使用Nano Banana AI，您可以轻松创建令人惊叹的图像。",
-              "icon": "/assets/favicon_1760109363904.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760109452660",
-              "title": "第三方 MCP 市场",
-              "href": "https://mcp.so/zh",
-              "description": "最大的 MCP Server（MCP 服务器）集合，包括优秀的 MCP Server（MCP 服务器）和 Claude MCP 集成。搜索和发现 MCP Server（MCP 服务器）以增强您的 AI 能力。",
-              "icon": "/assets/favicon_1760109459025.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760109610664",
-              "title": "FluxEz图像生成",
-              "href": "https://flux.comnergy.com/zh",
-              "description": "使用先进的 Flux.1-dev 模型，完全免费将你的想象力转化为惊艳的艺术作品，由全国50台家用电脑的4090显卡分布式算力提供支持",
-              "icon": "/assets/favicon_1760109617734.png",
-              "enabled": true
-            },
-            {
-              "id": "1760109718587",
-              "title": "Ollama可用服务",
-              "href": "https://ollama.vincentko.top/zh",
-              "description": "Ollama可用服务",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ollama.vincentko.top",
-              "enabled": true
-            },
-            {
-              "id": "1760109773831",
-              "title": "硅基API Key聚合管理系统",
-              "href": "https://sili-api.killerbest.com/",
-              "description": "访客密钥 s6Log9w5gMjs",
-              "icon": "/assets/favicon_1760109780429.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "7941b8ef-d37b-467d-9711-3f427505319d",
-          "title": "前端文档",
-          "icon": "FileText",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760098084874",
-              "title": "Vue3中文文档",
-              "href": "https://cn.vuejs.org/guide/introduction",
-              "description": "Vue.js - 渐进式的 JavaScript 框架",
-              "icon": "/assets/favicon_1760098089686.svg",
-              "enabled": true
-            },
-            {
-              "id": "1760098132270",
-              "title": "Vue2中文文档",
-              "href": "https://v2.cn.vuejs.org/v2/guide/",
-              "description": "Vue.js - 渐进式的 JavaScript 框架",
-              "icon": "/assets/favicon_1760098137741.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "9477b64d-b4ab-4579-b764-938fe5a428cd",
-          "title": "后端文档",
-          "icon": "FileText",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760165331538",
-              "title": "Hutool",
-              "href": "https://doc.hutool.cn/",
-              "description": "Hutool 官方文档",
-              "icon": "/assets/favicon_1760165339261.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760089077743",
-              "title": " Element Plus",
-              "href": "https://element-plus.org/zh-CN/",
-              "description": "基于 Vue 3，面向设计师和开发者的组件库",
-              "icon": "/assets/favicon_1760089083231.svg",
-              "enabled": true
-            },
-            {
-              "id": "1760165394439",
-              "title": "Element UI",
-              "href": "https://element.eleme.cn/#/zh-CN",
-              "description": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
-              "icon": "/assets/favicon_1760165401203.png",
-              "enabled": true
-            },
-            {
-              "id": "1760089177625",
-              "title": "Ant Design Vue",
-              "href": "https://www.antdv.com/docs/vue/introduce-cn",
-              "description": "Ant Design 的 Vue 实现，开发和服务于企业级后台产品。",
-              "icon": "/assets/favicon_1760089182914.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "6a242635-d864-48d1-aa2c-6e0a107a9cfa",
-          "title": "开发工具",
-          "icon": "Box",
-          "description": "激活工具",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760084162093",
-              "title": "JetBrains全家桶激活",
-              "href": "https://ckey.run/",
-              "description": "JetBrains全家桶激活工具",
-              "icon": "/assets/favicon_1760084168779.png",
-              "enabled": true
-            },
-            {
-              "id": "1760102298352",
-              "title": "JetBrains许可证激活",
-              "href": "https://jetbrains.asiones.com/",
-              "description": "专注于JetBrains许可服务器的网络空间分布分析和安全态势研究。仅供学术研究和教育用途。",
-              "icon": "/assets/favicon_1760102304807.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760167862863",
-              "title": "Maven仓库",
-              "href": "https://mvnrepository.com/",
-              "description": "Maven仓库",
-              "icon": "/assets/favicon_1760167868678.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760100555992",
-              "title": "JAVA JDK下载",
-              "href": "https://www.injdk.cn/",
-              "description": "各种Java JDK的镜像分发",
-              "icon": "/assets/favicon_1760100563722.png",
-              "enabled": true
-            },
-            {
-              "id": "1760103228152",
-              "title": "Spring脚手架",
-              "href": "https://start.spring.io/",
-              "description": "脚手架生成spring boot项目，只需快速启动即可！",
-              "icon": "/assets/favicon_1760103233184.svg",
-              "enabled": true
-            },
-            {
-              "id": "1760103084339",
-              "title": "阿里云云原生应用脚手架",
-              "href": "https://start.aliyun.com/bootstrap.html",
-              "description": "阿里云云原生应用脚手架",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=start.aliyun.com",
-              "enabled": true
-            },
-            {
-              "id": "1760100964214",
-              "title": "Linux命令搜索引擎",
-              "href": "https://wangchujiang.com/linux-command/",
-              "description": "Linux命令搜索引擎:最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。",
-              "icon": "/assets/favicon_1760100972464.png",
-              "enabled": true
-            },
-            {
-              "id": "1760102942272",
-              "title": "HTML/CSS/Javascript在线代码运行工具",
-              "href": "https://www.runoob.com/runcode",
-              "description": "HTML/CSS/Javascript 在线代码运行工具用于在线进行代码测试，你可以在将你的 HTML/CSS/Javascript 代码复制到以下输入框中，点击“运行”按钮即可查看代码执行结果。",
-              "icon": "/assets/favicon_1760102949827.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760103195923",
-              "title": "JAVA在线代码生成",
-              "href": "https://java.bejson.com/generator/",
-              "description": "JAVA在线代码生成",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=java.bejson.com",
-              "enabled": true
-            },
-            {
-              "id": "1760103388327",
-              "title": "Cron在线表达式生成器",
-              "href": "https://cron.ciding.cc/",
-              "description": "Cron在线表达式生成器",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cron.ciding.cc",
-              "enabled": true
-            },
-            {
-              "id": "1760104094270",
-              "title": "IT Tools",
-              "href": "https://it-tools.tech/",
-              "description": "为开发人员提供的方便的在线工具集合，具有出色的用户体验。IT Tools是一个免费的开源集合，为开发人员和IT工作人员提供方便的在线工具。",
-              "icon": "/assets/favicon_1760104099420.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760104191706",
-              "title": "Ghubstar",
-              "href": "https://ghubstar.com/",
-              "description": "发现优秀的Github开源项目",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ghubstar.com",
-              "enabled": true
-            },
-            {
-              "id": "1760110471733",
-              "title": "TXT文本处理工具",
-              "href": "https://www.txttool.com/",
-              "description": "TXT文本处理工具 - 在线文本工具",
-              "icon": "/assets/favicon_1760110478374.png",
-              "enabled": true
-            },
-            {
-              "id": "1760185606163",
-              "title": "免费公共 MQTT 服务器",
-              "href": "https://www.emqx.com/zh/mqtt/public-mqtt5-broker",
-              "description": "试用基于高可用、高性能的 EMQX 创建的免费公共 MQTT 服务器。无需部署，立即开始您的 MQTT 测试、学习！",
-              "icon": "/assets/favicon_1760185611489.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "63f5eaf8-f0b8-4bf3-b054-86b2c9e6e096",
-          "title": "代码库",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760165054916",
-              "title": "GitHub",
-              "href": "https://github.com/",
-              "description": "加入这个世界上应用最广泛的AI开发者平台，数百万开发者、企业和最大的开源社区在这里构建促进人类发展的软件。",
-              "icon": "/assets/favicon_1760165060479.png",
-              "enabled": true
-            },
-            {
-              "id": "1760165162504",
-              "title": "Gitee",
-              "href": "https://gitee.com/",
-              "description": "基于 Git 的代码托管和研发协作平台，支持第三方仓库一键导入，无缝迁移至 Gitee 安全可靠的代码资产保障",
-              "icon": "/assets/favicon_1760165171253.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "c536f943-d613-4798-b983-a56156b4160f",
-          "title": "学习资料",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760107066011",
-              "title": "JavaGuide面试指南",
-              "href": "https://javaguide.cn/",
-              "description": "JavaGuide面试指南",
-              "icon": "/assets/favicon_1760107072609.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107103104",
-              "title": "mall学习教程",
-              "href": "https://www.macrozheng.com/#/",
-              "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。",
-              "icon": "/assets/favicon_1760107109995.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107194954",
-              "title": "Java 全栈知识体系",
-              "href": "https://pdai.tech/",
-              "description": "Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...",
-              "icon": "/assets/favicon_1760107201974.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107272909",
-              "title": "现代 JavaScript 教程",
-              "href": "https://zh.javascript.info/",
-              "description": "有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
-              "icon": "/assets/favicon_1760107281609.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107342350",
-              "title": "GitHub中文项目排行榜",
-              "href": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts?tab=readme-ov-file",
-              "description": "GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
-              "icon": "/assets/favicon_1760107348007.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107425824",
-              "title": "简明字帖",
-              "href": "https://www.babawar.com/",
-              "description": "免费在线字帖生成器。本站提供免费的田字、米字、口字、回字格字帖生成及在线打印功能，可生成汉字字帖、汉字拼音字帖、汉字拼音笔顺字帖、拼音字帖、英文字母、英文单词、英文文章、数字及四则运算字帖等。",
-              "icon": "/assets/favicon_1760107433487.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760107502536",
-              "title": "免费编程书籍",
-              "href": "https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html",
-              "description": "免费提供的编程书籍",
-              "icon": "/assets/favicon_1760107507835.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760107553451",
-              "title": "JAVA知识学习",
-              "href": "https://how2j.cn/",
-              "description": "JAVA知识学习",
-              "icon": "/assets/favicon_1760107559895.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107600179",
-              "title": "单词森林",
-              "href": "https://wordforest.cn/",
-              "description": "一个简洁实用的英语单词学习工具",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wordforest.cn",
-              "enabled": true
-            },
-            {
-              "id": "1760107635920",
-              "title": "考试酷在线考试系统云平台",
-              "href": "https://www.examcoo.com/index/ku",
-              "description": "考试酷的公共题库中心页面,提供海量试题库资源.考试酷网站是由广州创讯软件有限公司开发和运营的一个永久免费的在线考试系统,网络考试系统,提供在线考试,电子作业,自测练习和模拟考试,智能组卷,试卷分享,试题库等考试系统和考试相关服务.",
-              "icon": "/assets/favicon_1760107645121.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107703440",
-              "title": "C 语言教程",
-              "href": "https://wangdoc.com/clang/",
-              "description": "C语言教程",
-              "icon": "/assets/favicon_1760107708508.png",
-              "enabled": true
-            },
-            {
-              "id": "1760107892644",
-              "title": "软考达人",
-              "href": "https://ruankaodaren.com/",
-              "description": "免费专业高效的软考刷题工具,刷题备考更轻松",
-              "icon": "/assets/favicon_1760107899818.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
-          "title": "托管平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735612561958",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-              "icon": "/assets/images/logos/cloudflar.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760112773196",
-              "title": "Zeabur",
-              "href": "https://zeabur.com/projects",
-              "description": "Zeabur 是一个可以帮助你部署服务的平台，无论你使用什么编程语言或开发框架，你都只需要通过几个简单的按钮进行部署。",
-              "icon": "/assets/favicon_1760112920485.png",
-              "enabled": true
-            },
-            {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            },
-            {
-              "id": "1735612629450",
-              "title": "netlify",
-              "href": "https://www.netlify.com/",
-              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
-              "icon": "/assets/img_1735612745862.png",
-              "enabled": true
-            },
-            {
-              "id": "1760144191478",
-              "title": "Upstash",
-              "href": "https://console.upstash.com",
-              "description": "专为无服务器服务而设计，按请求计价，基于持久存储的Redis API。",
-              "icon": "/assets/favicon_1760144195465.png",
-              "enabled": true
-            },
-            {
-              "id": "1760112628321",
-              "title": "ClawCloud",
-              "href": "https://ap-northeast-1.run.claw.cloud/",
-              "description": "爪云",
-              "icon": "/assets/favicon_1760112633859.png",
-              "enabled": true
-            },
-            {
-              "id": "1760165985943",
-              "title": "Leaflow",
-              "href": "https://leaflow.net/dashboard",
-              "description": "欢迎回来 Leaflow利飞 ，我们提供高效的容器化部署解决方案。这里提供按需付费，内置自动扩缩容服务，拥有高可用性的多地集群。让您把钱花在刀刃上，为自己使用的资源付费。",
-              "icon": "/assets/favicon_1760165991420.svg",
-              "enabled": true
-            },
-            {
-              "id": "1755225929754",
-              "title": "Tencent EdgeOne",
-              "href": "https://edgeone.ai/zh",
-              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
-              "icon": "/assets/favicon_1755225933031.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
-          "title": "画图工具",
-          "icon": "Book",
-          "description": "架构图，流程图",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736921962115",
-              "title": "draw.io",
-              "href": "https://www.drawio.com/",
-              "description": "可以绘制架构图、流程图，软件周期内的其它设计图。为团队绘制安全第一的图表。\n将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
-              "icon": "/assets/img_1736922080517.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922183993",
-              "title": "ProccessOn",
-              "href": "https://www.processon.com/",
-              "description": "ProccessOn是一款优秀的国产在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
-              "icon": "/assets/img_1736922262462.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922380901",
-              "title": "Excalidraw",
-              "href": "https://excalidraw.com/",
-              "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
-              "icon": "/assets/img_1736922499401.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760088890027",
-              "title": "Lucide",
-              "href": "https://lucide.dev/",
-              "description": "Beautiful & consistent icon toolkit made by the community.",
-              "icon": "/assets/favicon_1760088895505.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -1408,6 +876,538 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1735265493940",
+      "title": "开发工具",
+      "icon": "Box",
+      "description": "开发者工具，工具包",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "b50febd1-d639-4208-97fe-9aac734b6c2e",
+          "title": "AI相关",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760099708760",
+              "title": "红石公益API",
+              "href": "https://hongshi1024-l-api.hf.space/app/dashboard",
+              "description": "公益AI API",
+              "icon": "/assets/favicon_1760099721710.png",
+              "enabled": true
+            },
+            {
+              "id": "1760114791104",
+              "title": "runAnyTime公益API",
+              "href": "https://veloera.wenwen12345.top/app/dashboard",
+              "description": "runAnyTime公益API",
+              "icon": "/assets/favicon_1760114797228.png",
+              "enabled": true
+            },
+            {
+              "id": "1760109292846",
+              "title": "Sharedchat公益站",
+              "href": "https://sharedchat.fun/",
+              "description": "Sharedchat公益站",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sharedchat.fun",
+              "enabled": true
+            },
+            {
+              "id": "1760109358256",
+              "title": "Nano Banana免费AI图像生成器",
+              "href": "https://nanobananafree.ai/",
+              "description": "Nano Banana免费AI图像生成器，Nano Banana是最好的AI图像生成器，使用最新的AI图像处理技术，使用Nano Banana AI，您可以轻松创建令人惊叹的图像。",
+              "icon": "/assets/favicon_1760109363904.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760109452660",
+              "title": "第三方 MCP 市场",
+              "href": "https://mcp.so/zh",
+              "description": "最大的 MCP Server（MCP 服务器）集合，包括优秀的 MCP Server（MCP 服务器）和 Claude MCP 集成。搜索和发现 MCP Server（MCP 服务器）以增强您的 AI 能力。",
+              "icon": "/assets/favicon_1760109459025.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760109610664",
+              "title": "FluxEz图像生成",
+              "href": "https://flux.comnergy.com/zh",
+              "description": "使用先进的 Flux.1-dev 模型，完全免费将你的想象力转化为惊艳的艺术作品，由全国50台家用电脑的4090显卡分布式算力提供支持",
+              "icon": "/assets/favicon_1760109617734.png",
+              "enabled": true
+            },
+            {
+              "id": "1760109718587",
+              "title": "Ollama可用服务",
+              "href": "https://ollama.vincentko.top/zh",
+              "description": "Ollama可用服务",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ollama.vincentko.top",
+              "enabled": true
+            },
+            {
+              "id": "1760109773831",
+              "title": "硅基API Key聚合管理系统",
+              "href": "https://sili-api.killerbest.com/",
+              "description": "访客密钥 s6Log9w5gMjs",
+              "icon": "/assets/favicon_1760109780429.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "7941b8ef-d37b-467d-9711-3f427505319d",
+          "title": "前端文档",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760098084874",
+              "title": "Vue3中文文档",
+              "href": "https://cn.vuejs.org/guide/introduction",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "icon": "/assets/favicon_1760098089686.svg",
+              "enabled": true
+            },
+            {
+              "id": "1760098132270",
+              "title": "Vue2中文文档",
+              "href": "https://v2.cn.vuejs.org/v2/guide/",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "icon": "/assets/favicon_1760098137741.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "9477b64d-b4ab-4579-b764-938fe5a428cd",
+          "title": "后端文档",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760165331538",
+              "title": "Hutool",
+              "href": "https://doc.hutool.cn/",
+              "description": "Hutool 官方文档",
+              "icon": "/assets/favicon_1760165339261.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
+          "title": "UI框架",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760089077743",
+              "title": " Element Plus",
+              "href": "https://element-plus.org/zh-CN/",
+              "description": "基于 Vue 3，面向设计师和开发者的组件库",
+              "icon": "/assets/favicon_1760089083231.svg",
+              "enabled": true
+            },
+            {
+              "id": "1760165394439",
+              "title": "Element UI",
+              "href": "https://element.eleme.cn/#/zh-CN",
+              "description": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+              "icon": "/assets/favicon_1760165401203.png",
+              "enabled": true
+            },
+            {
+              "id": "1760089177625",
+              "title": "Ant Design Vue",
+              "href": "https://www.antdv.com/docs/vue/introduce-cn",
+              "description": "Ant Design 的 Vue 实现，开发和服务于企业级后台产品。",
+              "icon": "/assets/favicon_1760089182914.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "6a242635-d864-48d1-aa2c-6e0a107a9cfa",
+          "title": "开发工具",
+          "icon": "Box",
+          "description": "激活工具",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760084162093",
+              "title": "JetBrains全家桶激活",
+              "href": "https://ckey.run/",
+              "description": "JetBrains全家桶激活工具",
+              "icon": "/assets/favicon_1760084168779.png",
+              "enabled": true
+            },
+            {
+              "id": "1760102298352",
+              "title": "JetBrains许可证激活",
+              "href": "https://jetbrains.asiones.com/",
+              "description": "专注于JetBrains许可服务器的网络空间分布分析和安全态势研究。仅供学术研究和教育用途。",
+              "icon": "/assets/favicon_1760102304807.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760167862863",
+              "title": "Maven仓库",
+              "href": "https://mvnrepository.com/",
+              "description": "Maven仓库",
+              "icon": "/assets/favicon_1760167868678.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760100555992",
+              "title": "JAVA JDK下载",
+              "href": "https://www.injdk.cn/",
+              "description": "各种Java JDK的镜像分发",
+              "icon": "/assets/favicon_1760100563722.png",
+              "enabled": true
+            },
+            {
+              "id": "1760103228152",
+              "title": "Spring脚手架",
+              "href": "https://start.spring.io/",
+              "description": "脚手架生成spring boot项目，只需快速启动即可！",
+              "icon": "/assets/favicon_1760103233184.svg",
+              "enabled": true
+            },
+            {
+              "id": "1760103084339",
+              "title": "阿里云云原生应用脚手架",
+              "href": "https://start.aliyun.com/bootstrap.html",
+              "description": "阿里云云原生应用脚手架",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=start.aliyun.com",
+              "enabled": true
+            },
+            {
+              "id": "1760100964214",
+              "title": "Linux命令搜索引擎",
+              "href": "https://wangchujiang.com/linux-command/",
+              "description": "Linux命令搜索引擎:最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。",
+              "icon": "/assets/favicon_1760100972464.png",
+              "enabled": true
+            },
+            {
+              "id": "1760102942272",
+              "title": "HTML/CSS/Javascript在线代码运行工具",
+              "href": "https://www.runoob.com/runcode",
+              "description": "HTML/CSS/Javascript 在线代码运行工具用于在线进行代码测试，你可以在将你的 HTML/CSS/Javascript 代码复制到以下输入框中，点击“运行”按钮即可查看代码执行结果。",
+              "icon": "/assets/favicon_1760102949827.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760103195923",
+              "title": "JAVA在线代码生成",
+              "href": "https://java.bejson.com/generator/",
+              "description": "JAVA在线代码生成",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=java.bejson.com",
+              "enabled": true
+            },
+            {
+              "id": "1760103388327",
+              "title": "Cron在线表达式生成器",
+              "href": "https://cron.ciding.cc/",
+              "description": "Cron在线表达式生成器",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cron.ciding.cc",
+              "enabled": true
+            },
+            {
+              "id": "1760104094270",
+              "title": "IT Tools",
+              "href": "https://it-tools.tech/",
+              "description": "为开发人员提供的方便的在线工具集合，具有出色的用户体验。IT Tools是一个免费的开源集合，为开发人员和IT工作人员提供方便的在线工具。",
+              "icon": "/assets/favicon_1760104099420.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760104191706",
+              "title": "Ghubstar",
+              "href": "https://ghubstar.com/",
+              "description": "发现优秀的Github开源项目",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ghubstar.com",
+              "enabled": true
+            },
+            {
+              "id": "1760110471733",
+              "title": "TXT文本处理工具",
+              "href": "https://www.txttool.com/",
+              "description": "TXT文本处理工具 - 在线文本工具",
+              "icon": "/assets/favicon_1760110478374.png",
+              "enabled": true
+            },
+            {
+              "id": "1760185606163",
+              "title": "免费公共 MQTT 服务器",
+              "href": "https://www.emqx.com/zh/mqtt/public-mqtt5-broker",
+              "description": "试用基于高可用、高性能的 EMQX 创建的免费公共 MQTT 服务器。无需部署，立即开始您的 MQTT 测试、学习！",
+              "icon": "/assets/favicon_1760185611489.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "63f5eaf8-f0b8-4bf3-b054-86b2c9e6e096",
+          "title": "代码库",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760165054916",
+              "title": "GitHub",
+              "href": "https://github.com/",
+              "description": "加入这个世界上应用最广泛的AI开发者平台，数百万开发者、企业和最大的开源社区在这里构建促进人类发展的软件。",
+              "icon": "/assets/favicon_1760165060479.png",
+              "enabled": true
+            },
+            {
+              "id": "1760165162504",
+              "title": "Gitee",
+              "href": "https://gitee.com/",
+              "description": "基于 Git 的代码托管和研发协作平台，支持第三方仓库一键导入，无缝迁移至 Gitee 安全可靠的代码资产保障",
+              "icon": "/assets/favicon_1760165171253.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "c536f943-d613-4798-b983-a56156b4160f",
+          "title": "学习资料",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760107066011",
+              "title": "JavaGuide面试指南",
+              "href": "https://javaguide.cn/",
+              "description": "JavaGuide面试指南",
+              "icon": "/assets/favicon_1760107072609.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107103104",
+              "title": "mall学习教程",
+              "href": "https://www.macrozheng.com/#/",
+              "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。",
+              "icon": "/assets/favicon_1760107109995.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107194954",
+              "title": "Java 全栈知识体系",
+              "href": "https://pdai.tech/",
+              "description": "Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...",
+              "icon": "/assets/favicon_1760107201974.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107272909",
+              "title": "现代 JavaScript 教程",
+              "href": "https://zh.javascript.info/",
+              "description": "有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
+              "icon": "/assets/favicon_1760107281609.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107342350",
+              "title": "GitHub中文项目排行榜",
+              "href": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts?tab=readme-ov-file",
+              "description": "GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+              "icon": "/assets/favicon_1760107348007.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107425824",
+              "title": "简明字帖",
+              "href": "https://www.babawar.com/",
+              "description": "免费在线字帖生成器。本站提供免费的田字、米字、口字、回字格字帖生成及在线打印功能，可生成汉字字帖、汉字拼音字帖、汉字拼音笔顺字帖、拼音字帖、英文字母、英文单词、英文文章、数字及四则运算字帖等。",
+              "icon": "/assets/favicon_1760107433487.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760107502536",
+              "title": "免费编程书籍",
+              "href": "https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html",
+              "description": "免费提供的编程书籍",
+              "icon": "/assets/favicon_1760107507835.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760107553451",
+              "title": "JAVA知识学习",
+              "href": "https://how2j.cn/",
+              "description": "JAVA知识学习",
+              "icon": "/assets/favicon_1760107559895.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107600179",
+              "title": "单词森林",
+              "href": "https://wordforest.cn/",
+              "description": "一个简洁实用的英语单词学习工具",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wordforest.cn",
+              "enabled": true
+            },
+            {
+              "id": "1760107635920",
+              "title": "考试酷在线考试系统云平台",
+              "href": "https://www.examcoo.com/index/ku",
+              "description": "考试酷的公共题库中心页面,提供海量试题库资源.考试酷网站是由广州创讯软件有限公司开发和运营的一个永久免费的在线考试系统,网络考试系统,提供在线考试,电子作业,自测练习和模拟考试,智能组卷,试卷分享,试题库等考试系统和考试相关服务.",
+              "icon": "/assets/favicon_1760107645121.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107703440",
+              "title": "C 语言教程",
+              "href": "https://wangdoc.com/clang/",
+              "description": "C语言教程",
+              "icon": "/assets/favicon_1760107708508.png",
+              "enabled": true
+            },
+            {
+              "id": "1760107892644",
+              "title": "软考达人",
+              "href": "https://ruankaodaren.com/",
+              "description": "免费专业高效的软考刷题工具,刷题备考更轻松",
+              "icon": "/assets/favicon_1760107899818.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
+          "title": "托管平台",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1735612561958",
+              "title": "Cloudflare",
+              "href": "https://dash.cloudflare.com/",
+              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
+              "icon": "/assets/images/logos/cloudflar.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760112773196",
+              "title": "Zeabur",
+              "href": "https://zeabur.com/projects",
+              "description": "Zeabur 是一个可以帮助你部署服务的平台，无论你使用什么编程语言或开发框架，你都只需要通过几个简单的按钮进行部署。",
+              "icon": "/assets/favicon_1760112920485.png",
+              "enabled": true
+            },
+            {
+              "id": "1735612588184",
+              "title": "Vercel",
+              "href": "https://vercel.com/",
+              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+              "icon": "/assets/images/logos/vercel.png",
+              "enabled": true
+            },
+            {
+              "id": "1735612629450",
+              "title": "netlify",
+              "href": "https://www.netlify.com/",
+              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
+              "icon": "/assets/img_1735612745862.png",
+              "enabled": true
+            },
+            {
+              "id": "1760144191478",
+              "title": "Upstash",
+              "href": "https://console.upstash.com",
+              "description": "专为无服务器服务而设计，按请求计价，基于持久存储的Redis API。",
+              "icon": "/assets/favicon_1760144195465.png",
+              "enabled": true
+            },
+            {
+              "id": "1760112628321",
+              "title": "ClawCloud",
+              "href": "https://ap-northeast-1.run.claw.cloud/",
+              "description": "爪云",
+              "icon": "/assets/favicon_1760112633859.png",
+              "enabled": true
+            },
+            {
+              "id": "1760165985943",
+              "title": "Leaflow",
+              "href": "https://leaflow.net/dashboard",
+              "description": "欢迎回来 Leaflow利飞 ，我们提供高效的容器化部署解决方案。这里提供按需付费，内置自动扩缩容服务，拥有高可用性的多地集群。让您把钱花在刀刃上，为自己使用的资源付费。",
+              "icon": "/assets/favicon_1760165991420.svg",
+              "enabled": true
+            },
+            {
+              "id": "1755225929754",
+              "title": "Tencent EdgeOne",
+              "href": "https://edgeone.ai/zh",
+              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
+              "icon": "/assets/favicon_1755225933031.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
+          "title": "画图工具",
+          "icon": "Book",
+          "description": "架构图，流程图",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1736921962115",
+              "title": "draw.io",
+              "href": "https://www.drawio.com/",
+              "description": "可以绘制架构图、流程图，软件周期内的其它设计图。为团队绘制安全第一的图表。\n将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
+              "icon": "/assets/img_1736922080517.png",
+              "enabled": true
+            },
+            {
+              "id": "1736922183993",
+              "title": "ProccessOn",
+              "href": "https://www.processon.com/",
+              "description": "ProccessOn是一款优秀的国产在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
+              "icon": "/assets/img_1736922262462.png",
+              "enabled": true
+            },
+            {
+              "id": "1736922380901",
+              "title": "Excalidraw",
+              "href": "https://excalidraw.com/",
+              "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
+              "icon": "/assets/img_1736922499401.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
+          "title": "ICON",
+          "icon": "BookOpen",
+          "description": "站点图标",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760088890027",
+              "title": "Lucide",
+              "href": "https://lucide.dev/",
+              "description": "Beautiful & consistent icon toolkit made by the community.",
+              "icon": "/assets/favicon_1760088895505.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8",
