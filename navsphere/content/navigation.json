@@ -960,6 +960,14 @@
               "description": "switch游戏下载-PC游戏下载-switch破解游戏下载-PC破解游戏下载-Switch520-gamer520",
               "icon": "/assets/favicon_1760143788676.jpg",
               "enabled": true
+            },
+            {
+              "id": "1760180569925",
+              "title": "幻兽帕鲁育种计算器",
+              "href": "https://www.palworldbreeding.top/",
+              "description": "幻兽帕鲁育种计算器",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.palworldbreeding.top",
+              "enabled": true
             }
           ]
         },
