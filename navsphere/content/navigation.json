@@ -80,7 +80,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760191714872",
+              "title": "低端影视",
+              "href": "https://ddys.pro/",
+              "description": "超清在线视频",
+              "icon": "/assets/favicon_1760100137463.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
