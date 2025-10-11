@@ -321,6 +321,14 @@
               "description": "免费在线观看最新热门电影电视剧",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=hanjtv.cc",
               "enabled": true
+            },
+            {
+              "id": "1760198992399",
+              "title": "唐人街影院",
+              "href": "https://www.chinatownfilm.com",
+              "description": "免费在线影院",
+              "icon": "/assets/favicon_1760198998158.png",
+              "enabled": true
             }
           ]
         },
