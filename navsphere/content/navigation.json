@@ -414,6 +414,14 @@
           ]
         },
         {
+          "id": "8dc00e9b-4a10-4288-93da-5e285addbb17",
+          "title": "特色站点",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
           "title": "影视站",
           "icon": "Video",
@@ -631,14 +639,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "8dc00e9b-4a10-4288-93da-5e285addbb17",
-          "title": "特色站点",
-          "icon": "Globe",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
