@@ -1005,6 +1005,14 @@
               "description": "Hutool 官方文档",
               "icon": "/assets/favicon_1760165339261.ico",
               "enabled": true
+            },
+            {
+              "id": "1760187961478",
+              "title": "Liteflow",
+              "href": "https://liteflow.cc/",
+              "description": "轻量，快速，稳定可编排的组件式规则引擎",
+              "icon": "/assets/favicon_1760187975054.png",
+              "enabled": true
             }
           ]
         },
