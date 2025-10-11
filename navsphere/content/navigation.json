@@ -187,38 +187,6 @@
               "enabled": true
             },
             {
-              "id": "1760202527160",
-              "title": "茶杯狐",
-              "href": "https://cupfox.love",
-              "description": "片荒剧荒就来茶杯狐",
-              "icon": "/assets/favicon_1760202530090.png",
-              "enabled": true
-            },
-            {
-              "id": "1760202485305",
-              "title": "网飞猫",
-              "href": "https://www.ncat21.com",
-              "description": "网飞猫-奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
-              "icon": "/assets/favicon_1760202488967.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760200876016",
-              "title": "好好看",
-              "href": "https://www.hhkan1.com/",
-              "description": "最新Netflix新剧_韩国电影免费在线观看",
-              "icon": "/assets/favicon_1760115462253.png",
-              "enabled": true
-            },
-            {
-              "id": "1760201779260",
-              "title": "可可影视",
-              "href": "https://www.kkys01.com",
-              "description": "可可影视-奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
-              "icon": "/assets/favicon_1760201782337.ico",
-              "enabled": true
-            },
-            {
               "id": "1760195427127",
               "title": "Gimy TV 剧迷",
               "href": "https://gimy.tv/",
@@ -360,14 +328,6 @@
               "href": "https://www.chinatownfilm.com",
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
-              "enabled": true
-            },
-            {
-              "id": "1760202616456",
-              "title": "播剧网",
-              "href": "https://www.ysxq.cc",
-              "description": "播剧影视提供海量高清电影、电视剧、短剧、动漫免费在线观看服务，每日更新2025最新院线大片、热门美剧韩剧、国产剧集。无需注册即可享受无广告播放体验，支持中英字幕切换与多画质选择，热门资源实时更新！点击进入，畅享全网影视资源！",
-              "icon": "/assets/favicon_1760103735009.png",
               "enabled": true
             }
           ]
@@ -583,35 +543,11 @@
               "enabled": true
             },
             {
-              "id": "1760115455330",
-              "title": "好好看",
-              "href": "https://www.hhkan0.com/",
-              "description": "最新Netflix新剧_韩国电影免费在线观看",
-              "icon": "/assets/favicon_1760115462253.png",
-              "enabled": true
-            },
-            {
               "id": "1760102770800",
               "title": "BT世界网",
               "href": "https://www.btsj6.com/",
               "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
               "icon": "/assets/favicon_1760102776433.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760103554164",
-              "title": "可可影视",
-              "href": "https://dl.kkys04.com/",
-              "description": "可可影视",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.kkys04.com",
-              "enabled": true
-            },
-            {
-              "id": "1760103727896",
-              "title": "播剧网",
-              "href": "https://www.ysxq.cc/",
-              "description": "播剧影视提供海量高清电影、电视剧、短剧、动漫免费在线观看服务，每日更新2025最新院线大片、热门美剧韩剧、国产剧集。无需注册即可享受无广告播放体验，支持中英字幕切换与多画质选择，热门资源实时更新！点击进入，畅享全网影视资源！",
-              "icon": "/assets/favicon_1760103735009.png",
               "enabled": true
             },
             {
