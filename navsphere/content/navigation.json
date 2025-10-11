@@ -559,14 +559,6 @@
               "enabled": true
             },
             {
-              "id": "1760105131279",
-              "title": "VIP视频解析",
-              "href": "https://www.tbox.fun/tool/plugins/vip/",
-              "description": "VIP视频解析",
-              "icon": "/assets/favicon_1760105137722.png",
-              "enabled": true
-            },
-            {
               "id": "1760105439164",
               "title": "TVBOX接口搜集",
               "href": "https://www.tbox.fun/tool/plugins/tv/#/",
