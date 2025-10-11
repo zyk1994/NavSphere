@@ -519,14 +519,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1760099286118",
-              "title": "最全免费在线影视网站",
-              "href": "https://www.tbox.fun/tool/plugins/movie/#/",
-              "description": "最全免费在线影视网站",
-              "icon": "/assets/favicon_1760099291629.png",
-              "enabled": true
-            },
-            {
               "id": "1760102770800",
               "title": "BT世界网",
               "href": "https://www.btsj6.com/",
