@@ -649,6 +649,14 @@
               "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
               "icon": "/assets/favicon_1755225933031.ico",
               "enabled": true
+            },
+            {
+              "id": "1760144191478",
+              "title": "Upstash",
+              "href": "https://console.upstash.com",
+              "description": "专为无服务器服务而设计，按请求计价，基于持久存储的Redis API。",
+              "icon": "/assets/favicon_1760144195465.png",
+              "enabled": true
             }
           ]
         },
