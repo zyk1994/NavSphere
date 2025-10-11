@@ -362,6 +362,14 @@
               "description": "新番在线观看",
               "icon": "/assets/favicon_1760196518910.png",
               "enabled": true
+            },
+            {
+              "id": "1760196554909",
+              "title": "西瓜卡通",
+              "href": "https://cn.xgcartoon.com/",
+              "description": "海量热门高清动漫，卡通，动画线上免费看。",
+              "icon": "/assets/favicon_1760196561272.ico",
+              "enabled": true
             }
           ]
         },
