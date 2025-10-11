@@ -523,6 +523,14 @@
           ]
         },
         {
+          "id": "63f5eaf8-f0b8-4bf3-b054-86b2c9e6e096",
+          "title": "代码库",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "c536f943-d613-4798-b983-a56156b4160f",
           "title": "学习资料",
           "icon": "Book",
@@ -741,14 +749,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "63f5eaf8-f0b8-4bf3-b054-86b2c9e6e096",
-          "title": "代码库",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
