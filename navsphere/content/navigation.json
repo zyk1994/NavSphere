@@ -195,6 +195,14 @@
               "enabled": true
             },
             {
+              "id": "1760200007346",
+              "title": "皮皮妖",
+              "href": "https://www.pipiyao.cc",
+              "description": "皮皮妖提供最新最快的视频分享数据",
+              "icon": "/assets/favicon_1760100274167.png",
+              "enabled": true
+            },
+            {
               "id": "1760195427127",
               "title": "Gimy TV 剧迷",
               "href": "https://gimy.tv/",
@@ -336,14 +344,6 @@
               "href": "https://www.chinatownfilm.com",
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
-              "enabled": true
-            },
-            {
-              "id": "1760200007346",
-              "title": "皮皮妖",
-              "href": "https://www.pipiyao.cc",
-              "description": "皮皮妖提供最新最快的视频分享数据",
-              "icon": "/assets/favicon_1760100274167.png",
               "enabled": true
             }
           ]
