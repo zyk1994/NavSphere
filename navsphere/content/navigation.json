@@ -680,6 +680,14 @@
               "description": "和你的家人朋友一起在线看视频，无论相隔多远",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=videotogether.github.io",
               "enabled": true
+            },
+            {
+              "id": "1760203125769",
+              "title": "VIP视频解析",
+              "href": "https://www.tbox.fun/tool/plugins/vip",
+              "description": "VIP视频解析",
+              "icon": "/assets/favicon_1760203128546.png",
+              "enabled": true
             }
           ]
         }
