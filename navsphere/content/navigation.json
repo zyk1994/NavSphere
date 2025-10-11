@@ -459,6 +459,14 @@
               "description": "天天韩剧",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tthj.cc",
               "enabled": true
+            },
+            {
+              "id": "1760197419765",
+              "title": "迷韩网",
+              "href": "https://www.mihanw.com/",
+              "description": "开拓韩迷、韩饭の新世界！",
+              "icon": "/assets/favicon_1760197426862.png",
+              "enabled": true
             }
           ]
         },
