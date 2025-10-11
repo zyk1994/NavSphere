@@ -346,6 +346,14 @@
               "description": "收集并整理优质的动漫资源，每天更新，无需注册，无需登录，无需下载即可免费在线观看。",
               "icon": "/assets/favicon_1760196441485.ico",
               "enabled": true
+            },
+            {
+              "id": "1760196463590",
+              "title": "E站弹幕网",
+              "href": "https://www.ezdmw.site",
+              "description": "E站弹幕网是国内专业的二次元（ACG）社区. 在线动漫&下载、GALGAME、动漫图集、漫评影视等，E站弹幕网为您一网打尽。",
+              "icon": "/assets/favicon_1760196469408.png",
+              "enabled": true
             }
           ]
         },
