@@ -297,6 +297,14 @@
               "description": "最新的天堂电影网有成千上万的高清电影。包括剧集，动漫，综艺，短剧一体的在线观看平台。",
               "icon": "/assets/favicon_1760195966292.jpg",
               "enabled": true
+            },
+            {
+              "id": "1760195995618",
+              "title": "爱看影视",
+              "href": "https://www.akysw.pro",
+              "description": "优质影视资源分享",
+              "icon": "/assets/favicon_1760196003487.png",
+              "enabled": true
             }
           ]
         },
