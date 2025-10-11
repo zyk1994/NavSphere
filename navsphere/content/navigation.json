@@ -557,14 +557,6 @@
               "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
               "icon": "/assets/favicon_1760104030255.ico",
               "enabled": true
-            },
-            {
-              "id": "1760105439164",
-              "title": "TVBOX接口搜集",
-              "href": "https://www.tbox.fun/tool/plugins/tv/#/",
-              "description": "TVBOX接口搜集",
-              "icon": "/assets/favicon_1760105465694.png",
-              "enabled": true
             }
           ]
         },
