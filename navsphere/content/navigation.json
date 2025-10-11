@@ -120,6 +120,14 @@
               "description": "No视频 - 不负追剧好时光",
               "icon": "/assets/favicon_1760194773542.png",
               "enabled": true
+            },
+            {
+              "id": "1760194814239",
+              "title": "厂长资源",
+              "href": "https://www.czzymovie.com/",
+              "description": "厂长影视官网 | 超清视频站",
+              "icon": "/assets/favicon_1760194820380.png",
+              "enabled": true
             }
           ]
         },
