@@ -317,6 +317,14 @@
           ]
         },
         {
+          "id": "1bf2b98a-4bc1-44b0-922b-12b4845b6862",
+          "title": "动漫番剧",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
           "title": "影视站",
           "icon": "Video",
@@ -558,14 +566,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "1bf2b98a-4bc1-44b0-922b-12b4845b6862",
-          "title": "动漫番剧",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
