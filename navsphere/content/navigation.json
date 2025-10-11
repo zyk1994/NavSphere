@@ -128,6 +128,14 @@
               "description": "厂长影视官网 | 超清视频站",
               "icon": "/assets/favicon_1760194820380.png",
               "enabled": true
+            },
+            {
+              "id": "1760194957282",
+              "title": "在线之家",
+              "href": "https://www.zxzjhd.com/",
+              "description": "努力打造在线之家为最好的海外热门影视剧在线观看站点!",
+              "icon": "/assets/favicon_1760194963018.ico",
+              "enabled": true
             }
           ]
         },
