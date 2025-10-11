@@ -455,6 +455,47 @@
           ]
         },
         {
+          "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
+          "title": "下载站",
+          "icon": "Flag",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760102770800",
+              "title": "BT世界网",
+              "href": "https://www.btsj6.com/",
+              "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
+              "icon": "/assets/favicon_1760102776433.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760103872917",
+              "title": "观影网",
+              "href": "https://www.gying.page/",
+              "description": "观影网地址发布页",
+              "icon": "/assets/favicon_1760103879287.png",
+              "enabled": true
+            },
+            {
+              "id": "1760103962594",
+              "title": "中国蓝光网",
+              "href": "https://www.languangdy.com/",
+              "description": "蓝光电影",
+              "icon": "/assets/favicon_1760103969225.png",
+              "enabled": true
+            },
+            {
+              "id": "1760104024973",
+              "title": "好片网",
+              "href": "https://www.cnwml.com/",
+              "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
+              "icon": "/assets/favicon_1760104030255.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "8dc00e9b-4a10-4288-93da-5e285addbb17",
           "title": "特色站点",
           "icon": "Globe",
@@ -507,47 +548,6 @@
               "href": "https://www.939394.xyz/",
               "description": "粤语电影、电视剧",
               "icon": "/assets/favicon_1760198822936.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
-          "title": "下载站",
-          "icon": "Flag",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760102770800",
-              "title": "BT世界网",
-              "href": "https://www.btsj6.com/",
-              "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
-              "icon": "/assets/favicon_1760102776433.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760103872917",
-              "title": "观影网",
-              "href": "https://www.gying.page/",
-              "description": "观影网地址发布页",
-              "icon": "/assets/favicon_1760103879287.png",
-              "enabled": true
-            },
-            {
-              "id": "1760103962594",
-              "title": "中国蓝光网",
-              "href": "https://www.languangdy.com/",
-              "description": "蓝光电影",
-              "icon": "/assets/favicon_1760103969225.png",
-              "enabled": true
-            },
-            {
-              "id": "1760104024973",
-              "title": "好片网",
-              "href": "https://www.cnwml.com/",
-              "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
-              "icon": "/assets/favicon_1760104030255.ico",
               "enabled": true
             }
           ]
