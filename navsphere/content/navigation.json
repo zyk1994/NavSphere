@@ -179,6 +179,14 @@
               "enabled": true
             },
             {
+              "id": "1760199785914",
+              "title": "网飞猫",
+              "href": "https://www.ncat21.com",
+              "description": "网飞猫-奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
+              "icon": "/assets/favicon_1760189510984.ico",
+              "enabled": true
+            },
+            {
               "id": "1760195402646",
               "title": "大师兄影视",
               "href": "https://dsxys.com/",
@@ -328,14 +336,6 @@
               "href": "https://www.chinatownfilm.com",
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
-              "enabled": true
-            },
-            {
-              "id": "1760199785914",
-              "title": "网飞猫",
-              "href": "https://www.ncat21.com",
-              "description": "网飞猫-奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
-              "icon": "/assets/favicon_1760189510984.ico",
               "enabled": true
             }
           ]
