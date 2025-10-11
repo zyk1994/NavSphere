@@ -330,7 +330,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760198903517",
+              "title": "速剧",
+              "href": "https://suju.cc",
+              "description": "短剧爱好者的天堂，免费观看",
+              "icon": "/assets/favicon_1760198909487.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "1bf2b98a-4bc1-44b0-922b-12b4845b6862",
