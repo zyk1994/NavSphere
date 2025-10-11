@@ -104,6 +104,14 @@
               "description": "LIBVIO提供免费观看最新电影热播电视剧,综艺,动漫,高清无广告蓝光1080P画质在线播放,流畅秒播不卡顿!",
               "icon": "/assets/favicon_1760194462030.ico",
               "enabled": true
+            },
+            {
+              "id": "1760194497827",
+              "title": "Hdmoli",
+              "href": "https://www.hdmoli.pro/",
+              "description": "高品质在线影视资源",
+              "icon": "/assets/favicon_1760194503996.png",
+              "enabled": true
             }
           ]
         },
