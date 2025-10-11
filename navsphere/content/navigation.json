@@ -341,6 +341,14 @@
               "enabled": true
             },
             {
+              "id": "1760188212523",
+              "title": "头条热榜聚合",
+              "href": "https://www.yoodb.com/slack-off/home.html",
+              "description": "头条热榜聚合",
+              "icon": "/assets/favicon_1760188220023.png",
+              "enabled": true
+            },
+            {
               "id": "1760099784879",
               "title": "百度网盘公益解析",
               "href": "https://analysis.icy6.cn/user/parse",
@@ -434,14 +442,6 @@
               "href": "https://tool.lu/",
               "description": "在线工具",
               "icon": "/assets/favicon_1760110547957.png",
-              "enabled": true
-            },
-            {
-              "id": "1760188212523",
-              "title": "头条热榜聚合",
-              "href": "https://www.yoodb.com/slack-off/home.html",
-              "description": "头条热榜聚合",
-              "icon": "/assets/favicon_1760188220023.png",
               "enabled": true
             }
           ],
