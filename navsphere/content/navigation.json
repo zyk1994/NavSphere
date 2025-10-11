@@ -354,6 +354,14 @@
               "description": "E站弹幕网是国内专业的二次元（ACG）社区. 在线动漫&下载、GALGAME、动漫图集、漫评影视等，E站弹幕网为您一网打尽。",
               "icon": "/assets/favicon_1760196469408.png",
               "enabled": true
+            },
+            {
+              "id": "1760196513133",
+              "title": "花子动漫",
+              "href": "https://www.huazidm.com",
+              "description": "新番在线观看",
+              "icon": "/assets/favicon_1760196518910.png",
+              "enabled": true
             }
           ]
         },
