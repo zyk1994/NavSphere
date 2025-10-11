@@ -283,6 +283,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "82ddd761-f5c5-4f91-8c5b-aa06c7333934",
+          "title": "小说站",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
