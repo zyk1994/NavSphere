@@ -169,7 +169,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760195382921",
+              "title": "多瑙影院",
+              "href": "https://www.duonaovod.com/",
+              "description": "多瑙影院提供电影电视剧综艺动漫在线播放",
+              "icon": "/assets/favicon_1760195388646.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
