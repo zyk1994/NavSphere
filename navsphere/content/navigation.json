@@ -696,6 +696,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "c9c2d3bb-0de1-4dec-b0a2-85c1735628fe",
+          "title": "短剧",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
