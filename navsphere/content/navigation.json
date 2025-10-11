@@ -370,6 +370,14 @@
               "description": "海量热门高清动漫，卡通，动画线上免费看。",
               "icon": "/assets/favicon_1760196561272.ico",
               "enabled": true
+            },
+            {
+              "id": "1760196629462",
+              "title": "动漫巴士",
+              "href": "https://dm84.net/",
+              "description": "动漫巴士为您提供最新动漫、好看的动漫排行榜、热门动漫推荐；国产动漫、日本动漫、欧美动漫免费在线观看；无广告、高速播放、不卡顿，是广大动漫迷最喜爱的动漫网站。",
+              "icon": "/assets/favicon_1760196637135.png",
+              "enabled": true
             }
           ]
         },
