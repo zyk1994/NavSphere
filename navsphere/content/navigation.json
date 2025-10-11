@@ -680,7 +680,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760203053657",
+              "title": "一起看视频",
+              "href": "https://videotogether.github.io/zh-cn/",
+              "description": "和你的家人朋友一起在线看视频，无论相隔多远",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=videotogether.github.io",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
