@@ -390,7 +390,16 @@
           "icon": "FileText",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760165331538",
+              "title": "Hutool",
+              "href": "https://doc.hutool.cn/",
+              "description": "Hutool 官方文档",
+              "icon": "/assets/favicon_1760165339261.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
