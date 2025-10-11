@@ -1134,6 +1134,14 @@
               "enabled": true
             },
             {
+              "id": "1760166480980",
+              "title": "Pexels免费素材图片",
+              "href": "https://www.pexels.com/zh-cn/",
+              "description": "才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。",
+              "icon": "/assets/favicon_1760166486974.png",
+              "enabled": true
+            },
+            {
               "id": "1760106961796",
               "title": "免费正版高清图片素材库",
               "href": "https://pixabay.com/zh/",
@@ -1147,14 +1155,6 @@
               "href": "https://zh.recompressor.com/",
               "description": "优化 PNG、JPG 和 SVG 图像的压缩 — 100% 免费 — 完全在浏览器中完成 — 选择文件大小和质量之间的完美平衡。",
               "icon": "/assets/favicon_1760106991303.png",
-              "enabled": true
-            },
-            {
-              "id": "1760166480980",
-              "title": "Pexels免费素材图片",
-              "href": "https://www.pexels.com/zh-cn/",
-              "description": "才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。",
-              "icon": "/assets/favicon_1760166486974.png",
               "enabled": true
             }
           ]
