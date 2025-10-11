@@ -358,6 +358,14 @@
           ]
         },
         {
+          "id": "8ace4b06-8656-4b84-9baa-78d6f6bff6e9",
+          "title": "下载站",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "1bf2b98a-4bc1-44b0-922b-12b4845b6862",
           "title": "动漫番剧",
           "icon": "Video",
@@ -713,14 +721,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "8ace4b06-8656-4b84-9baa-78d6f6bff6e9",
-          "title": "下载站",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
