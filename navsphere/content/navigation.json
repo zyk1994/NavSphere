@@ -830,6 +830,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1760188759813",
+              "title": "图吧工具箱",
+              "href": "https://www.tbtool.cn/",
+              "description": "图吧工具箱全名图拉丁吧硬件检测工具箱，是开源、免费、绿色、纯净的硬件检测工具合集，专为图钉及所有DIY爱好者制作，包含常用硬件测试和检测工具，月工JS必备！",
+              "icon": "/assets/favicon_1760188765848.ico",
+              "enabled": true
+            },
+            {
               "id": "1760105644422",
               "title": "浏览器插件",
               "href": "https://www.tbox.fun/tool/plugins/saynoad/#/",
@@ -899,14 +907,6 @@
               "href": "https://www.wepe.com.cn/",
               "description": "微PE工具箱",
               "icon": "/assets/favicon_1760109914542.png",
-              "enabled": true
-            },
-            {
-              "id": "1760188759813",
-              "title": "图吧工具箱",
-              "href": "https://www.tbtool.cn/",
-              "description": "图吧工具箱全名图拉丁吧硬件检测工具箱，是开源、免费、绿色、纯净的硬件检测工具合集，专为图钉及所有DIY爱好者制作，包含常用硬件测试和检测工具，月工JS必备！",
-              "icon": "/assets/favicon_1760188765848.ico",
               "enabled": true
             }
           ]
