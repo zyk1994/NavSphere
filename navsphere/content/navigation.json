@@ -98,6 +98,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1760188024696",
+              "title": "影视森林",
+              "href": "http://549.tv/",
+              "description": "影视森林是一个资源极其丰富的聚合影视导航网站，涵盖了各种各样的影视类型，无论是热门的电影、电视剧，还是深受欢迎的动漫、综艺，亦或是网络短剧，以及纪录片等，应有尽有！",
+              "icon": "/assets/favicon_1760188030468.png",
+              "enabled": true
+            },
+            {
               "id": "1760099286118",
               "title": "最全免费在线影视网站",
               "href": "https://www.tbox.fun/tool/plugins/movie/#/",
@@ -223,14 +231,6 @@
               "href": "https://videotogether.github.io/zh-cn/",
               "description": "和你的家人朋友一起在线看视频，无论相隔多远",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=videotogether.github.io",
-              "enabled": true
-            },
-            {
-              "id": "1760188024696",
-              "title": "影视森林",
-              "href": "http://549.tv/",
-              "description": "影视森林是一个资源极其丰富的聚合影视导航网站，涵盖了各种各样的影视类型，无论是热门的电影、电视剧，还是深受欢迎的动漫、综艺，亦或是网络短剧，以及纪录片等，应有尽有！",
-              "icon": "/assets/favicon_1760188030468.png",
               "enabled": true
             }
           ]
