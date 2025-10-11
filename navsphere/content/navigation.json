@@ -513,8 +513,8 @@
         },
         {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
-          "title": "影视站",
-          "icon": "Video",
+          "title": "下载站",
+          "icon": "Flag",
           "description": "",
           "enabled": true,
           "items": [
@@ -689,16 +689,7 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760203272693",
-              "title": "TVBOX接口合集",
-              "href": "https://www.tbox.fun/tool/plugins/tv/#/",
-              "description": "TVBOX接口合集",
-              "icon": "/assets/favicon_1760203275204.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
