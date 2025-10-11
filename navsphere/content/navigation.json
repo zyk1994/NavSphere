@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "1760144842482",
+          "title": "YkTV1",
+          "href": "http://tv1.ykzhang.top/",
+          "description": "备用站点1，开放注册，与主站数据不同步，选择访问速度快的即可",
+          "icon": "/assets/favicon_1760144848613.png",
+          "enabled": true
+        },
+        {
           "id": "1760015419233",
           "title": "YkMusic",
           "href": "https://music.ykzhang.top",
@@ -43,14 +51,6 @@
           "href": "https://www.doubao.com/chat",
           "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
           "icon": "/assets/favicon_1760082539831.png",
-          "enabled": true
-        },
-        {
-          "id": "1760144842482",
-          "title": "YkTV1",
-          "href": "http://tv1.ykzhang.top/",
-          "description": "备用站点1，开放注册，与主站数据不同步，选择访问速度快的即可",
-          "icon": "/assets/favicon_1760144848613.png",
           "enabled": true
         }
       ],
