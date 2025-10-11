@@ -305,6 +305,14 @@
               "description": "优质影视资源分享",
               "icon": "/assets/favicon_1760196003487.png",
               "enabled": true
+            },
+            {
+              "id": "1760196058431",
+              "title": "八古影视",
+              "href": "https://bagu.cc",
+              "description": "八古影视每天更新最新免费电影，热播电视剧免费在线观看，所有资源均可在线播放无需播放器，支持手机直接观看。",
+              "icon": "/assets/favicon_1760196066816.png",
+              "enabled": true
             }
           ]
         },
