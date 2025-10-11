@@ -838,6 +838,14 @@
               "enabled": true
             },
             {
+              "id": "1760109907985",
+              "title": "微PE工具箱",
+              "href": "https://www.wepe.com.cn/",
+              "description": "微PE工具箱",
+              "icon": "/assets/favicon_1760109914542.png",
+              "enabled": true
+            },
+            {
               "id": "1760105644422",
               "title": "浏览器插件",
               "href": "https://www.tbox.fun/tool/plugins/saynoad/#/",
@@ -899,14 +907,6 @@
               "href": "https://www.coolhub.top/tech-articles/kms_list.html",
               "description": "列表数据不定期进行更新。建议使用成功率高且延迟低的 KMS 主机进行激活。所有 KMS 主机均为第三方提供。数据仅供参考，实际使用情况会受网络因素影响而不同。",
               "icon": "/assets/favicon_1760109868336.png",
-              "enabled": true
-            },
-            {
-              "id": "1760109907985",
-              "title": "微PE工具箱",
-              "href": "https://www.wepe.com.cn/",
-              "description": "微PE工具箱",
-              "icon": "/assets/favicon_1760109914542.png",
               "enabled": true
             }
           ]
