@@ -1047,19 +1047,19 @@
               "enabled": true
             },
             {
-              "id": "1760187961478",
-              "title": "Liteflow",
-              "href": "https://liteflow.cc/",
-              "description": "轻量，快速，稳定可编排的组件式规则引擎",
-              "icon": "/assets/favicon_1760187975054.png",
-              "enabled": true
-            },
-            {
               "id": "1760188599669",
               "title": "Quick Reference",
               "href": "https://quickref.me/zh-CN/",
               "description": "为开发人员分享快速参考备忘清单【速查表】。目的是为了方便自己的技术栈查阅",
               "icon": "/assets/favicon_1760188603790.png",
+              "enabled": true
+            },
+            {
+              "id": "1760187961478",
+              "title": "Liteflow",
+              "href": "https://liteflow.cc/",
+              "description": "轻量，快速，稳定可编排的组件式规则引擎",
+              "icon": "/assets/favicon_1760187975054.png",
               "enabled": true
             }
           ]
