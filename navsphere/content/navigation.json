@@ -281,6 +281,14 @@
               "description": "最新电影、电视剧、综艺、动漫在线看",
               "icon": "/assets/favicon_1760195852952.png",
               "enabled": true
+            },
+            {
+              "id": "1760195908306",
+              "title": "百思派电影网",
+              "href": "https://www.bestpipe.cn",
+              "description": "全网VIP点映免费观看",
+              "icon": "/assets/favicon_1760195914477.png",
+              "enabled": true
             }
           ]
         },
