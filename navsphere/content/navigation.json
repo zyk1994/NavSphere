@@ -477,6 +477,14 @@
               "description": "幻兽帕鲁育种计算器",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.palworldbreeding.top",
               "enabled": true
+            },
+            {
+              "id": "1760188100063",
+              "title": "免费在线小游戏",
+              "href": "https://poki.com/zh",
+              "description": "与Poki (宝玩)一起探索免费在线游戏的世界！即刻玩耍，无需下载，享受与所有设备兼容的游戏。",
+              "icon": "/assets/favicon_1760188105838.png",
+              "enabled": true
             }
           ]
         },
