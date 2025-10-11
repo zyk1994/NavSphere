@@ -257,6 +257,14 @@
               "description": "最新电影电视剧手机免费在线观看",
               "icon": "/assets/favicon_1760195728851.png",
               "enabled": true
+            },
+            {
+              "id": "1760195786168",
+              "title": "老王电影",
+              "href": "https://laowang.co/",
+              "description": "老王电影是一个提供各种国内外影视剧的在线观看平台，包括美剧、韩剧、国产剧、日剧等。网站更新速度快，画质清晰，内容丰富，是电影爱好者的不错选择",
+              "icon": "/assets/favicon_1760195791742.ico",
+              "enabled": true
             }
           ]
         },
