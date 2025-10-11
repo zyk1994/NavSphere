@@ -750,6 +750,14 @@
               "enabled": true
             },
             {
+              "id": "1760143430431",
+              "title": "工作价值计算器",
+              "href": "https://worthjob.zippland.com/",
+              "description": "这b班上得值不值 - 计算你的工作性价比",
+              "icon": "/assets/favicon_1760143435650.ico",
+              "enabled": true
+            },
+            {
               "id": "1760098974091",
               "title": "小红书无水印下载",
               "href": "https://xiaohongshu.day/zh/",
@@ -803,14 +811,6 @@
               "href": "https://tool.lu/",
               "description": "在线工具",
               "icon": "/assets/favicon_1760110547957.png",
-              "enabled": true
-            },
-            {
-              "id": "1760143430431",
-              "title": "工作价值计算器",
-              "href": "https://worthjob.zippland.com/",
-              "description": "这b班上得值不值 - 计算你的工作性价比",
-              "icon": "/assets/favicon_1760143435650.ico",
               "enabled": true
             }
           ],
