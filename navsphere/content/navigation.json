@@ -419,7 +419,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760197008163",
+              "title": "泰剧网",
+              "href": "https://i.taijuwang.com",
+              "description": "最新热门泰剧、泰影免费在线看！",
+              "icon": "/assets/favicon_1760197015434.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
