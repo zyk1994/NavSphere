@@ -402,6 +402,14 @@
               "description": "免费动漫,免费视频,免费看动漫,在线看动漫,在线看漫画,在线看番,饭团动漫,ACG饭团,新番在线",
               "icon": "/assets/favicon_1760196893361.png",
               "enabled": true
+            },
+            {
+              "id": "1760196910535",
+              "title": "异世界动漫",
+              "href": "https://www.dmmiku.net/",
+              "description": "异世界动漫",
+              "icon": "/assets/favicon_1760196916963.png",
+              "enabled": true
             }
           ]
         },
