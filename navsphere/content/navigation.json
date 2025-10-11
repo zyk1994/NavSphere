@@ -313,6 +313,14 @@
               "description": "八古影视每天更新最新免费电影，热播电视剧免费在线观看，所有资源均可在线播放无需播放器，支持手机直接观看。",
               "icon": "/assets/favicon_1760196066816.png",
               "enabled": true
+            },
+            {
+              "id": "1760197345115",
+              "title": "零五喔影院",
+              "href": "https://hanjtv.cc",
+              "description": "免费在线观看最新热门电影电视剧",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=hanjtv.cc",
+              "enabled": true
             }
           ]
         },
