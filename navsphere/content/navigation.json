@@ -893,6 +893,14 @@
               "description": "爱恋动漫",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kisssub.org",
               "enabled": true
+            },
+            {
+              "id": "1760239653214",
+              "title": "BT之家",
+              "href": "https://www.1lou.pro",
+              "description": "BT之家1LOU站 - 回归初心，追求极简",
+              "icon": "/assets/favicon_1760239655575.png",
+              "enabled": true
             }
           ]
         },
