@@ -1111,6 +1111,14 @@
               "description": "快速搜索各大网盘资源，包括百度网盘、阿里云盘、迅雷网盘等平台的共享资源",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysxjjkl.souyisou.top",
               "enabled": true
+            },
+            {
+              "id": "1760240602692",
+              "title": "海绵小站",
+              "href": "https://www.hmxz.org",
+              "description": "专注于天翼云盘资源分享，想要免费下载最新的电影、电视剧、音乐、书籍、动漫、综艺等资源吗？海绵小站为您提供丰富的资源下载，高清4K资源，赶快加入我们，畅享资源世界！",
+              "icon": "/assets/favicon_1760240606345.ico",
+              "enabled": true
             }
           ]
         },
