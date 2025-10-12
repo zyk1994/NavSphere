@@ -361,6 +361,14 @@
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
               "enabled": true
+            },
+            {
+              "id": "1760236803194",
+              "title": "播剧网",
+              "href": "https://www.ysxq.cc",
+              "description": "播剧影视提供海量高清电影、电视剧、短剧、动漫免费在线观看服务，每日更新2025最新院线大片、热门美剧韩剧、国产剧集。无需注册即可享受无广告播放体验，支持中英字幕切换与多画质选择，热门资源实时更新！点击进入，畅享全网影视资源！",
+              "icon": "/assets/favicon_1760236806716.png",
+              "enabled": true
             }
           ]
         },
