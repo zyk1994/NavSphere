@@ -1436,6 +1436,14 @@
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
               "enabled": true
+            },
+            {
+              "id": "1760241407090",
+              "title": "漫游者哨站",
+              "href": "https://pilgrimoutpost.techlandgg.com",
+              "description": "漫游者哨站",
+              "icon": "/assets/favicon_1760241411045.png",
+              "enabled": true
             }
           ]
         },
