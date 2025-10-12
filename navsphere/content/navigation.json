@@ -765,6 +765,14 @@
               "description": "早教资源分享",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.oiabc.net",
               "enabled": true
+            },
+            {
+              "id": "1760239196707",
+              "title": "日剧跑",
+              "href": "https://www.rijupao.com",
+              "description": "日剧跑",
+              "icon": "/assets/favicon_1760239200221.png",
+              "enabled": true
             }
           ]
         },
