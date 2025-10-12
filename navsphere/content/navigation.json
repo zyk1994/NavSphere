@@ -1607,6 +1607,14 @@
               "description": "在线工具",
               "icon": "/assets/favicon_1760110547957.png",
               "enabled": true
+            },
+            {
+              "id": "1760283443662",
+              "title": "OmniTools",
+              "href": "https://www.xjbzly.com/",
+              "description": "OmniTools提供100多种免费在线工具，包括图像处理、PDF编辑、文本转换、视频编辑、音频处理等。所有工具都可以在您的浏览器中运行，保护您的隐私。提供多语言支持。",
+              "icon": "/assets/favicon_1760283463838.png",
+              "enabled": true
             }
           ],
           "enabled": true
