@@ -1022,6 +1022,14 @@
               "description": "360资源，资源实时更新，三网直连，百G宽带秒播秒拖，国内CDN，全网最全片库，一家顶三家！资源永久免费！欢迎采集。",
               "icon": "/assets/favicon_1760240049711.png",
               "enabled": true
+            },
+            {
+              "id": "1760240071581",
+              "title": "魔都资源网",
+              "href": "https://moduzy.com",
+              "description": "魔都资源网是一家优质动漫资源网，提供国内外最新动漫电影、动画片、国产动漫、日韩动漫等热门动漫资源采集，每天第一时间更新，希望您能喜欢！",
+              "icon": "/assets/favicon_1760240074661.ico",
+              "enabled": true
             }
           ]
         },
