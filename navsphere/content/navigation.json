@@ -1391,6 +1391,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "ff108919-f3ee-4a85-909f-2f86c1e58175",
+          "title": "游戏相关",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
