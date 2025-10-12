@@ -805,6 +805,14 @@
               "description": "24美剧频道,为您第一时间提供最新电影电视剧美剧的下载,高清蓝光资源的下载,致力于720P,1080P,4K,蓝光原盘资源的分享,打造最好的高清影视平台",
               "icon": "/assets/favicon_1760239321381.ico",
               "enabled": true
+            },
+            {
+              "id": "1760239334939",
+              "title": "CHAOSPACE",
+              "href": "https://www.chaospace.cc",
+              "description": "蓝光影视 热门美剧 字幕分享 最好用的影视资源站",
+              "icon": "/assets/favicon_1760239339382.ico",
+              "enabled": true
             }
           ]
         },
