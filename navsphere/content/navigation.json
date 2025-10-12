@@ -417,6 +417,14 @@
               "description": "37电影网,供最全的最新电影、电视剧，在线观看、免费高清电影资源下载，每天第一时间更新，放送最新好看的高清免费电影、电视剧(www.37dyw.com)",
               "icon": "https://www.37dyw.com/template/37dyw/img/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760238056734_mseg9w4du",
+              "title": "歪片星球",
+              "href": "https://waipian16.com",
+              "description": "最新电影、电视剧、动漫、综艺、纪录片、预告片，实时聚合全网优质影视资源，高清1080P 4K在线观看、下载、磁力。最新网址：歪片星球.com WaiPianXingQiu.com WaiPian7.com WaiPian6.com WaiPian5.com",
+              "icon": "/assets/favicon_1760238036925.png",
+              "enabled": true
             }
           ]
         },
