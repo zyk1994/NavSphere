@@ -829,6 +829,14 @@
               "description": "人人电影网和人人影视是国内最优秀的电影迅雷下载、百度云盘、阿里网盘资源网站，免费提供电影、韩剧、美剧、日剧资源，你想看的影视大片，这里都有。",
               "icon": "/assets/favicon_1760239391290.png",
               "enabled": true
+            },
+            {
+              "id": "1760239417425",
+              "title": "老电影时光",
+              "href": "https://www.ldysg.com",
+              "description": "开放数据影视馆，为喜欢看电视的人群提供精选电影下载...",
+              "icon": "/assets/favicon_1760239420066.ico",
+              "enabled": true
             }
           ]
         },
