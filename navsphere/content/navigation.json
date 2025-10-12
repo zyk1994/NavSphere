@@ -1486,6 +1486,14 @@
               "description": "TVBOX接口搜集",
               "icon": "/assets/favicon_1760236985440.png",
               "enabled": true
+            },
+            {
+              "id": "1760241654731",
+              "title": "最新IPTV直播源",
+              "href": "https://iptv.hacks.tools",
+              "description": "最新免费开源的IPTV电视直播源，支持IPv4/IPv6双栈访问，每4小时自动更新，永久免费。收录国内、海外、港澳台等上千个iptv电视直播源频道。访问 https://iptv.hacks.tools/ 获取最新直播源。",
+              "icon": "/assets/favicon_1760241657683.svg",
+              "enabled": true
             }
           ]
         }
