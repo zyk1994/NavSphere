@@ -733,6 +733,14 @@
               "description": "电影天堂_电影下载_高清首发",
               "icon": "/assets/favicon_1760238960572.png",
               "enabled": true
+            },
+            {
+              "id": "1760239054263",
+              "title": "好恐怖",
+              "href": "https://www.hkbdy.com",
+              "description": "迅雷电影下载，高清电影下载",
+              "icon": "/assets/favicon_1760239058083.png",
+              "enabled": true
             }
           ]
         },
