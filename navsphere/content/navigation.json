@@ -486,6 +486,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1760236691482_tnsn9jxxg",
+              "title": "磁力熊",
+              "href": "https://www.cilixiong.org/",
+              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
+              "icon": "/assets/favicon_1760236682215.png",
+              "enabled": true
+            },
+            {
               "id": "1760102770800",
               "title": "BT世界网",
               "href": "https://www.btsj6.com/",
@@ -515,14 +523,6 @@
               "href": "https://www.cnwml.com/",
               "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
               "icon": "/assets/favicon_1760104030255.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1760236691482_tnsn9jxxg",
-              "title": "磁力熊",
-              "href": "https://www.cilixiong.org/",
-              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
-              "icon": "/assets/favicon_1760236682215.png",
               "enabled": true
             }
           ]
