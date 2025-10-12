@@ -393,6 +393,14 @@
               "description": "Vidhub视频库为您提供4K蓝光及1080P超高清的专享影音体验，并聚合分享国内外最新最全的电影、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。",
               "icon": "/assets/favicon_1760237414279.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760237646897_bk0kjgtja",
+              "title": "旋风视频",
+              "href": "https://miao101.com",
+              "description": "旋风影院 - 最全最快的高清在线视频网站",
+              "icon": "https://miao101.com/data:;base64,=",
+              "enabled": true
             }
           ]
         },
