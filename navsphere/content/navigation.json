@@ -1798,6 +1798,14 @@
               "enabled": true
             },
             {
+              "id": "1760241609930",
+              "title": "LinuxDo",
+              "href": "https://linux.do",
+              "description": "新的理想型社区",
+              "icon": "/assets/favicon_1760241612064.png",
+              "enabled": true
+            },
+            {
               "id": "1760241575207",
               "title": "吾爱破解",
               "href": "https://www.52pojie.cn/forum-16-1.html",
@@ -1835,14 +1843,6 @@
               "href": "https://linux.do",
               "description": "访问 linux.do",
               "icon": "/assets/favicon_1760241602336.png",
-              "enabled": true
-            },
-            {
-              "id": "1760241609930",
-              "title": "LinuxDo",
-              "href": "https://linux.do",
-              "description": "新的理想型社区",
-              "icon": "/assets/favicon_1760241612064.png",
               "enabled": true
             }
           ]
