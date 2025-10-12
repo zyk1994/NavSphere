@@ -717,6 +717,14 @@
               "description": "飘花电影网－最新电影 - 每天搜集最新迅雷免费电影下载。为使用迅雷软件的用户提供最新的免费电影下载、高清电影下载等服务。",
               "icon": "/assets/favicon_1760238893422.png",
               "enabled": true
+            },
+            {
+              "id": "1760238934372",
+              "title": "菲特动漫",
+              "href": "https://fitacg.com",
+              "description": "动画,新番,音乐,日剧,下载,BT,BT下载,磁链,迅雷,免费,资源,网盘,百度盘,菲特动漫",
+              "icon": "/assets/favicon_1760238938571.ico",
+              "enabled": true
             }
           ]
         },
