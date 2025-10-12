@@ -1798,6 +1798,14 @@
               "enabled": true
             },
             {
+              "id": "1760241575207",
+              "title": "吾爱破解",
+              "href": "https://www.52pojie.cn/forum-16-1.html",
+              "description": "吾爱破解",
+              "icon": "/assets/favicon_1760241578355.png",
+              "enabled": true
+            },
+            {
               "id": "1760108685199",
               "title": "423Down",
               "href": "https://www.423down.com/",
@@ -1819,14 +1827,6 @@
               "href": "https://docs.qq.com/doc/DWU1NTHlEWXNKWFBk",
               "description": "电视安卓APP软件--每天更新",
               "icon": "/assets/favicon_1760115812336.png",
-              "enabled": true
-            },
-            {
-              "id": "1760241575207",
-              "title": "吾爱破解",
-              "href": "https://www.52pojie.cn/forum-16-1.html",
-              "description": "吾爱破解",
-              "icon": "/assets/favicon_1760241578355.png",
               "enabled": true
             }
           ]
