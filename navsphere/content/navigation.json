@@ -409,6 +409,14 @@
               "description": "看看屋提供最全的最新电视剧，2023最新电影，韩国电视剧、香港TVB电视剧、日本动漫、日剧、美剧、综艺的在线观看和剧集交流场所，西瓜影音在线观看高清电影，每天第一时间更新，放送好看的迅雷电影下载。",
               "icon": "/assets/favicon_1760237863936.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760237992018_j906eckrl",
+              "title": "37电影网",
+              "href": "https://www.37dyw.com",
+              "description": "37电影网,供最全的最新电影、电视剧，在线观看、免费高清电影资源下载，每天第一时间更新，放送最新好看的高清免费电影、电视剧(www.37dyw.com)",
+              "icon": "https://www.37dyw.com/template/37dyw/img/favicon.ico",
+              "enabled": true
             }
           ]
         },
