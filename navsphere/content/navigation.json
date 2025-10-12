@@ -837,6 +837,14 @@
               "description": "开放数据影视馆，为喜欢看电视的人群提供精选电影下载...",
               "icon": "/assets/favicon_1760239420066.ico",
               "enabled": true
+            },
+            {
+              "id": "1760239434923",
+              "title": "音范丝",
+              "href": "https://www.yinfans.me",
+              "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
+              "icon": "/assets/favicon_1760239437876.ico",
+              "enabled": true
             }
           ]
         },
