@@ -813,6 +813,14 @@
               "description": "蓝光影视 热门美剧 字幕分享 最好用的影视资源站",
               "icon": "/assets/favicon_1760239339382.ico",
               "enabled": true
+            },
+            {
+              "id": "1760239362327",
+              "title": "外剧之家",
+              "href": "https://www.121190.com",
+              "description": "美剧|韩剧|泰剧|日剧无广告下载",
+              "icon": "/assets/favicon_1760239365049.ico",
+              "enabled": true
             }
           ]
         },
