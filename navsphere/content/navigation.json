@@ -885,6 +885,14 @@
               "description": "末日动漫资源库",
               "icon": "/assets/favicon_1760239611110.png",
               "enabled": true
+            },
+            {
+              "id": "1760239635100",
+              "title": "爱恋动漫",
+              "href": "https://www.kisssub.org",
+              "description": "爱恋动漫",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kisssub.org",
+              "enabled": true
             }
           ]
         },
