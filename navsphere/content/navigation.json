@@ -853,6 +853,14 @@
               "description": "想要第一时间观看最新电影预告片吗？预告片世界提供高清在线观看和免费下载，让您不会错过任何一部精彩电影。赶快加入我们，畅享电影预告片的精彩！",
               "icon": "/assets/favicon_1760239468708.ico",
               "enabled": true
+            },
+            {
+              "id": "1760239509281",
+              "title": "人人影视分享下载站",
+              "href": "https://yyets.click/home",
+              "description": "开源，免费，人人影视",
+              "icon": "/assets/favicon_1760239512079.svg",
+              "enabled": true
             }
           ]
         },
