@@ -1152,6 +1152,14 @@
               "description": "日夸网，是目前业内唯一的一个可以在线预览字幕内容，可以自定义字幕样式字幕下载站，另设高清壁纸下载栏目，可以自定义壁纸分辨率。",
               "icon": "/assets/favicon_1760240338800.png",
               "enabled": true
+            },
+            {
+              "id": "1760240351734",
+              "title": "诸神字幕组",
+              "href": "https://subs.kamigami.org",
+              "description": "诸神字幕组 - 诸神字幕组官方发布站",
+              "icon": "/assets/favicon_1760240355005.ico",
+              "enabled": true
             }
           ]
         },
