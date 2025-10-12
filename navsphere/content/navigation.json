@@ -982,6 +982,14 @@
               "description": "红牛资源",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=hongniuzy.net",
               "enabled": true
+            },
+            {
+              "id": "1760239982770",
+              "title": "卧龙资源网",
+              "href": "https://wolongzyw.com",
+              "description": "卧龙资源网",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wolongzyw.com",
+              "enabled": true
             }
           ]
         },
