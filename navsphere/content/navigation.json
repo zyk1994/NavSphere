@@ -1120,6 +1120,14 @@
               "description": "树屋经典影视论坛-留住经典,不忘怀旧",
               "icon": "/assets/favicon_1760240181962.png",
               "enabled": true
+            },
+            {
+              "id": "1760240194712",
+              "title": "TVBT菊花台",
+              "href": "https://www.mytvbt.net",
+              "description": "TVBT菊花台",
+              "icon": "/assets/favicon_1760240199125.png",
+              "enabled": true
             }
           ]
         },
