@@ -516,6 +516,14 @@
               "description": "搜片.com 聚合全网影片，你想看的全都找得到！每天搜集最新电影、电视剧、在线观看网址、蓝光高清正版免费看！",
               "icon": "/assets/favicon_1760237113880.ico",
               "enabled": true
+            },
+            {
+              "id": "1760237145145",
+              "title": "聚合影视",
+              "href": "https://www.juheyingshi.com",
+              "description": "聚合影视及时收录互联网最新高清无删减版电影大片,同步更新热播电视剧,全网热播综艺,热播网剧,短剧,动漫,体育赛事在线免费观看。",
+              "icon": "/assets/favicon_1760237149087.png",
+              "enabled": true
             }
           ]
         },
