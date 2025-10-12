@@ -337,6 +337,14 @@
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
               "enabled": true
+            },
+            {
+              "id": "1760236559256",
+              "title": "好好看",
+              "href": "https://www.hhkan1.com",
+              "description": "好好看-奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
+              "icon": "/assets/favicon_1760236561660.ico",
+              "enabled": true
             }
           ]
         },
