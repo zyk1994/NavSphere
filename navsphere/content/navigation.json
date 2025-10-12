@@ -377,6 +377,14 @@
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
               "enabled": true
+            },
+            {
+              "id": "1760237295141",
+              "title": "不太灵",
+              "href": "https://web5.mukaku.com",
+              "description": "影视管理系统",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=web5.mukaku.com",
+              "enabled": true
             }
           ]
         },
