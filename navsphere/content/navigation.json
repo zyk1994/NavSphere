@@ -1119,6 +1119,14 @@
               "description": "专注于天翼云盘资源分享，想要免费下载最新的电影、电视剧、音乐、书籍、动漫、综艺等资源吗？海绵小站为您提供丰富的资源下载，高清4K资源，赶快加入我们，畅享资源世界！",
               "icon": "/assets/favicon_1760240606345.ico",
               "enabled": true
+            },
+            {
+              "id": "1760240646210",
+              "title": "磁力柠檬",
+              "href": "https://lemonlv.top",
+              "description": "最懂你的磁力链接搜索引擎",
+              "icon": "/assets/favicon_1760240650194.png",
+              "enabled": true
             }
           ]
         },
