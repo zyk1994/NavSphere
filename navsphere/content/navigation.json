@@ -597,6 +597,14 @@
               "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
               "icon": "/assets/favicon_1760104030255.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760237536944_l0gcfp4jt",
+              "title": "6k电影网",
+              "href": "https://www.6v520.com",
+              "description": "免费电影_高清电影_最新电视剧下载",
+              "icon": "/assets/favicon_1760237504647.png",
+              "enabled": true
             }
           ]
         },
