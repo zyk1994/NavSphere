@@ -781,6 +781,14 @@
               "description": "最新日剧，老番新番，日菁，猪猪，大河剧，经典日剧推荐",
               "icon": "/assets/favicon_1760239219833.ico",
               "enabled": true
+            },
+            {
+              "id": "1760239235857",
+              "title": "追新番",
+              "href": "https://www.fanxinzhui.com",
+              "description": "追新番",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.fanxinzhui.com",
+              "enabled": true
             }
           ]
         },
