@@ -508,7 +508,16 @@
           "icon": "Search",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760237110137",
+              "title": "搜片",
+              "href": "https://soupian.one",
+              "description": "搜片.com 聚合全网影片，你想看的全都找得到！每天搜集最新电影、电视剧、在线观看网址、蓝光高清正版免费看！",
+              "icon": "/assets/favicon_1760237113880.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c5df3eb7-361e-4ce2-80bf-1e29deb78c79",
