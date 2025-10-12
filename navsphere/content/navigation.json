@@ -1364,6 +1364,14 @@
               "description": "风灵月影PC游戏修改器与模组",
               "icon": "/assets/favicon_1760099055327.png",
               "enabled": true
+            },
+            {
+              "id": "1760100755529",
+              "title": "在线小游戏",
+              "href": "https://www.yikm.net/",
+              "description": "魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐",
+              "icon": "/assets/favicon_1760100764074.png",
+              "enabled": true
             }
           ]
         },
@@ -1546,14 +1554,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1760100755529",
-              "title": "在线小游戏",
-              "href": "https://www.yikm.net/",
-              "description": "魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐",
-              "icon": "/assets/favicon_1760100764074.png",
-              "enabled": true
-            },
             {
               "id": "1760143785352",
               "title": "Switch520",
