@@ -1412,6 +1412,14 @@
               "description": "幻兽帕鲁互动地图",
               "icon": "/assets/favicon_1760188508389.ico",
               "enabled": true
+            },
+            {
+              "id": "1760241146451",
+              "title": "flysheep资源避难所",
+              "href": "https://www.flysheep6.com",
+              "description": "一个免费的二次元风格下载站 收录steam epic 单机资源 switch游戏 ChatGPT",
+              "icon": "/assets/favicon_1760241149448.png",
+              "enabled": true
             }
           ]
         },
