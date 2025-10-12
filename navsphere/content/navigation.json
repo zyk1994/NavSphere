@@ -998,6 +998,14 @@
               "description": "麒麟资源站",
               "icon": "/assets/favicon_1760240006438.ico",
               "enabled": true
+            },
+            {
+              "id": "1760240019641",
+              "title": "闪电资源网",
+              "href": "https://shandianzy.com",
+              "description": "提供最新最快的视频分享数据",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=shandianzy.com",
+              "enabled": true
             }
           ]
         },
