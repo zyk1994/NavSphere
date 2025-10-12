@@ -1580,31 +1580,6 @@
           "enabled": true
         },
         {
-          "id": "1023c264-d8c1-436e-aee2-ad3248323189",
-          "title": "网络工具",
-          "icon": "Network",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760100194223",
-              "title": "樱花内网穿透",
-              "href": "https://www.natfrp.com/",
-              "description": "Sakura Frp 是一个免费的内网穿透工具专业为您提供内网穿透,内网穿透服务,内网穿透软件,frp内网穿透,内网映射,Nat映射,端口映射,NAS,Minecraft的相关信息",
-              "icon": "/assets/favicon_1760100199593.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760102559378",
-              "title": "网络测速",
-              "href": "https://net.netart.cn/",
-              "description": "网络测速工具",
-              "icon": "/assets/favicon_1760102566042.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "a38d695e-aee9-4b60-8c58-ae4539e84392",
           "title": "文档工具",
           "icon": "FileText",
@@ -1657,6 +1632,31 @@
               "href": "https://cn.online-qrcode-generator.com/",
               "description": "在线二维码生成器条形码生成器是全国最好二维码条形码在线生成器网站。在线二维码条形码生成器是一个免费, 在线, 实时生成二维码条形码。它是功能强大的免费二维码和条形码解决方案,现在开始创建你的二维码条形码吧!",
               "icon": "/assets/favicon_1760110226914.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "1023c264-d8c1-436e-aee2-ad3248323189",
+          "title": "网络工具",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760100194223",
+              "title": "樱花内网穿透",
+              "href": "https://www.natfrp.com/",
+              "description": "Sakura Frp 是一个免费的内网穿透工具专业为您提供内网穿透,内网穿透服务,内网穿透软件,frp内网穿透,内网映射,Nat映射,端口映射,NAS,Minecraft的相关信息",
+              "icon": "/assets/favicon_1760100199593.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760102559378",
+              "title": "网络测速",
+              "href": "https://net.netart.cn/",
+              "description": "网络测速工具",
+              "icon": "/assets/favicon_1760102566042.png",
               "enabled": true
             }
           ]
