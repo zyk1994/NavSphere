@@ -821,6 +821,14 @@
               "description": "美剧|韩剧|泰剧|日剧无广告下载",
               "icon": "/assets/favicon_1760239365049.ico",
               "enabled": true
+            },
+            {
+              "id": "1760239388697",
+              "title": "人人电影网",
+              "href": "https://www.rrdynb.com/index.html",
+              "description": "人人电影网和人人影视是国内最优秀的电影迅雷下载、百度云盘、阿里网盘资源网站，免费提供电影、韩剧、美剧、日剧资源，你想看的影视大片，这里都有。",
+              "icon": "/assets/favicon_1760239391290.png",
+              "enabled": true
             }
           ]
         },
