@@ -877,6 +877,14 @@
               "description": "悠悠MP4，每日更新最新电影电视剧，720p|1080p|4K 等超高清分辨率电影电视剧迅雷下载、bt种子网盘离线下载等资源。uump4，悠悠MP4",
               "icon": "/assets/favicon_1760239587010.ico",
               "enabled": true
+            },
+            {
+              "id": "1760239608323",
+              "title": "末日动漫资源库",
+              "href": "https://share.acgnx.cc",
+              "description": "末日动漫资源库",
+              "icon": "/assets/favicon_1760239611110.png",
+              "enabled": true
             }
           ]
         },
