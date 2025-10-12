@@ -721,7 +721,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760236982790",
+              "title": "TVBOX接口搜集",
+              "href": "https://www.tbox.fun/tool/plugins/tv/#/",
+              "description": "TVBOX接口搜集",
+              "icon": "/assets/favicon_1760236985440.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
