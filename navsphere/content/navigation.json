@@ -685,6 +685,14 @@
               "description": "最新电影，最新电视剧，免费电影下载，电视剧下载，迅雷下载",
               "icon": "/assets/favicon_1760238428766.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760238572043_t18dc8sqh",
+              "title": "电影天堂",
+              "href": "https://dydytt.net/index.htm",
+              "description": "免费电影_迅雷电影下载_电影天堂网",
+              "icon": "/assets/favicon_1760238510841.png",
+              "enabled": true
             }
           ]
         },
