@@ -1143,6 +1143,14 @@
               "description": "凌风云搜索是互联网专业的阿里云盘，百度网盘等十大网盘搜索引擎，是网盘资源搜索中心",
               "icon": "/assets/favicon_1760240702561.ico",
               "enabled": true
+            },
+            {
+              "id": "1760099162102",
+              "title": "PanSou盘搜",
+              "href": "https://so.252035.xyz/",
+              "description": "网盘聚合搜索",
+              "icon": "/assets/favicon_1760099168186.ico",
+              "enabled": true
             }
           ]
         },
@@ -1465,14 +1473,6 @@
           "description": "",
           "items": [
             {
-              "id": "1760099162102",
-              "title": "PanSou 盘搜",
-              "href": "https://so.252035.xyz/",
-              "description": "网盘聚合搜索",
-              "icon": "/assets/favicon_1760099168186.ico",
-              "enabled": true
-            },
-            {
               "id": "1760188212523",
               "title": "头条热榜聚合",
               "href": "https://www.yoodb.com/slack-off/home.html",
@@ -1578,6 +1578,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "71d88019-037b-4fdb-baae-de49e1ac577d",
+          "title": "游戏工具",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         },
         {
           "id": "1023c264-d8c1-436e-aee2-ad3248323189",
