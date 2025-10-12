@@ -1390,6 +1390,14 @@
               "enabled": true
             },
             {
+              "id": "1760241183235",
+              "title": "GameFreer资源网",
+              "href": "https://www.gamefreer.com",
+              "description": "永久免费的高质量游戏网站",
+              "icon": "/assets/favicon_1760241187135.png",
+              "enabled": true
+            },
+            {
               "id": "1760100755529",
               "title": "在线小游戏",
               "href": "https://www.yikm.net/",
@@ -1419,14 +1427,6 @@
               "href": "https://map.caimogu.cc/palworld/paru_islands.html",
               "description": "幻兽帕鲁互动地图",
               "icon": "/assets/favicon_1760188508389.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760241183235",
-              "title": "GameFreer资源网",
-              "href": "https://www.gamefreer.com",
-              "description": "永久免费的高质量游戏网站",
-              "icon": "/assets/favicon_1760241187135.png",
               "enabled": true
             }
           ]
