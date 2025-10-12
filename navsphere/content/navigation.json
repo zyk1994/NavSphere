@@ -1144,6 +1144,14 @@
               "description": "字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕",
               "icon": "/assets/favicon_1760240317105.ico",
               "enabled": true
+            },
+            {
+              "id": "1760240334373",
+              "title": "日夸网",
+              "href": "https://www.rikua.com",
+              "description": "日夸网，是目前业内唯一的一个可以在线预览字幕内容，可以自定义字幕样式字幕下载站，另设高清壁纸下载栏目，可以自定义壁纸分辨率。",
+              "icon": "/assets/favicon_1760240338800.png",
+              "enabled": true
             }
           ]
         },
