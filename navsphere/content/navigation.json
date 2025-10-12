@@ -677,6 +677,14 @@
               "description": "高清电影下载",
               "icon": "/assets/favicon_1760238379844.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760238479015_p39b5g8j9",
+              "title": "6v电影",
+              "href": "https://www.6vdyy.com",
+              "description": "最新电影，最新电视剧，免费电影下载，电视剧下载，迅雷下载",
+              "icon": "/assets/favicon_1760238428766.png",
+              "enabled": true
             }
           ]
         },
