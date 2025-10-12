@@ -1006,6 +1006,14 @@
               "description": "提供最新最快的视频分享数据",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=shandianzy.com",
               "enabled": true
+            },
+            {
+              "id": "1760240031241",
+              "title": "樱花资源",
+              "href": "https://yhzy.cc",
+              "description": "樱花资源提供腾讯爱奇艺各大平台电影电视剧,独家TVB港剧影视,美国好莱坞大片,美剧大全",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=yhzy.cc",
+              "enabled": true
             }
           ]
         },
