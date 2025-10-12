@@ -1396,6 +1396,14 @@
               "description": "幻兽帕鲁育种计算器",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.palworldbreeding.top",
               "enabled": true
+            },
+            {
+              "id": "1760188502897",
+              "title": "幻兽帕鲁互动地图",
+              "href": "https://map.caimogu.cc/palworld/paru_islands.html",
+              "description": "幻兽帕鲁互动地图",
+              "icon": "/assets/favicon_1760188508389.ico",
+              "enabled": true
             }
           ]
         },
@@ -1577,16 +1585,7 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760188502897",
-              "title": "幻兽帕鲁互动地图",
-              "href": "https://map.caimogu.cc/palworld/paru_islands.html",
-              "description": "幻兽帕鲁互动地图",
-              "icon": "/assets/favicon_1760188508389.ico",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "1023c264-d8c1-436e-aee2-ad3248323189",
