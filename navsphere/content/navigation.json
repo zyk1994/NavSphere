@@ -739,6 +739,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "1a05efa1-b979-4d88-b877-a3f4366d9b8c",
+          "title": "聚合搜索",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
