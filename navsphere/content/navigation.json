@@ -1100,6 +1100,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "750923b4-508b-4615-94e3-c5129bcc36f3",
+          "title": "资源站",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
