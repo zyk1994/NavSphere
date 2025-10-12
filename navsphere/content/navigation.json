@@ -773,6 +773,14 @@
               "description": "日剧跑",
               "icon": "/assets/favicon_1760239200221.png",
               "enabled": true
+            },
+            {
+              "id": "1760239216119",
+              "title": "心动日剧",
+              "href": "http://www.doki8.net",
+              "description": "最新日剧，老番新番，日菁，猪猪，大河剧，经典日剧推荐",
+              "icon": "/assets/favicon_1760239219833.ico",
+              "enabled": true
             }
           ]
         },
