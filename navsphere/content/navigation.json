@@ -1828,6 +1828,14 @@
               "description": "电视安卓APP软件--每天更新",
               "icon": "/assets/favicon_1760115812336.png",
               "enabled": true
+            },
+            {
+              "id": "1760241600268",
+              "title": "Linux",
+              "href": "https://linux.do",
+              "description": "访问 linux.do",
+              "icon": "/assets/favicon_1760241602336.png",
+              "enabled": true
             }
           ]
         },
