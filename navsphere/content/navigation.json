@@ -709,6 +709,14 @@
               "description": "免费电影_迅雷电影下载_电影天堂网",
               "icon": "/assets/favicon_1760238510841.png",
               "enabled": true
+            },
+            {
+              "id": "1760238890731",
+              "title": "飘花电影网",
+              "href": "https://www.piaohua.com",
+              "description": "飘花电影网－最新电影 - 每天搜集最新迅雷免费电影下载。为使用迅雷软件的用户提供最新的免费电影下载、高清电影下载等服务。",
+              "icon": "/assets/favicon_1760238893422.png",
+              "enabled": true
             }
           ]
         },
