@@ -1107,6 +1107,14 @@
           ]
         },
         {
+          "id": "aa180090-643c-4239-9336-8fe0f050759a",
+          "title": "字幕组",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "40646dd0-5f16-4dea-9a39-35c59e86c37d",
           "title": "音乐站",
           "icon": "Music",
@@ -1237,14 +1245,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "aa180090-643c-4239-9336-8fe0f050759a",
-          "title": "字幕组",
-          "icon": "LayoutList",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
