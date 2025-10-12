@@ -1428,6 +1428,14 @@
               "description": "幻兽帕鲁互动地图",
               "icon": "/assets/favicon_1760188508389.ico",
               "enabled": true
+            },
+            {
+              "id": "1760241374317",
+              "title": "黑神话悟空全收集互动地图",
+              "href": "https://www.gamersky.com/tools/map/?mapId=65",
+              "description": "黑神话悟空全收集互动地图",
+              "icon": "/assets/favicon_1760241378279.png",
+              "enabled": true
             }
           ]
         },
