@@ -861,6 +861,14 @@
               "description": "开源，免费，人人影视",
               "icon": "/assets/favicon_1760239512079.svg",
               "enabled": true
+            },
+            {
+              "id": "1760239543151",
+              "title": "迷客电影",
+              "href": "https://www.mini4k.com",
+              "description": "最好的高清电影下载网站",
+              "icon": "/assets/favicon_1760239544901.png",
+              "enabled": true
             }
           ]
         },
