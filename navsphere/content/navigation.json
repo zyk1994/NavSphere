@@ -1135,6 +1135,14 @@
               "description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
               "icon": "/assets/favicon_1760240679764.png",
               "enabled": true
+            },
+            {
+              "id": "1760240699102",
+              "title": "十大网盘资源搜索引擎",
+              "href": "https://www.lingfengyun.com",
+              "description": "凌风云搜索是互联网专业的阿里云盘，百度网盘等十大网盘搜索引擎，是网盘资源搜索中心",
+              "icon": "/assets/favicon_1760240702561.ico",
+              "enabled": true
             }
           ]
         },
