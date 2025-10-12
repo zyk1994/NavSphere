@@ -385,6 +385,14 @@
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760237419942_ym1g841wj",
+              "title": "Vidhub视频库-在线视频网站-海量高清视频在线观看",
+              "href": "https://vidhub4.cc",
+              "description": "Vidhub视频库为您提供4K蓝光及1080P超高清的专享影音体验，并聚合分享国内外最新最全的电影、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。",
+              "icon": "/assets/favicon_1760237414279.png",
+              "enabled": true
             }
           ]
         },
