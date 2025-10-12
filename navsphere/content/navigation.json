@@ -345,6 +345,14 @@
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760236627085_is7uu6h39",
+              "title": "皮皮妖",
+              "href": "https://www.pipiyao.cc",
+              "description": "皮皮妖提供最新最快的视频分享数据",
+              "icon": "/assets/favicon_1760236620430.png",
+              "enabled": true
             }
           ]
         },
