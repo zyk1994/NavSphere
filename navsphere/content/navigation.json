@@ -1038,6 +1038,14 @@
               "description": "ikun资源站",
               "icon": "/assets/favicon_1760240089794.png",
               "enabled": true
+            },
+            {
+              "id": "1760240110159",
+              "title": "电影天堂资源",
+              "href": "https://dyttzyw.tv",
+              "description": "电影天堂资源-提供在线播放， 在线电影资源网站。",
+              "icon": "/assets/favicon_1760240113538.png",
+              "enabled": true
             }
           ]
         },
