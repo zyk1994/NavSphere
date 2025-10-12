@@ -1127,6 +1127,14 @@
               "description": "最懂你的磁力链接搜索引擎",
               "icon": "/assets/favicon_1760240650194.png",
               "enabled": true
+            },
+            {
+              "id": "1760240675389",
+              "title": "学霸盘",
+              "href": "https://www.xuebapan.com",
+              "description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
+              "icon": "/assets/favicon_1760240679764.png",
+              "enabled": true
             }
           ]
         },
