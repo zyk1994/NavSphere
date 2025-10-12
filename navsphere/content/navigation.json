@@ -1063,7 +1063,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760240459368",
+              "title": "PanWiki",
+              "href": "https://pan666.net",
+              "description": "PanWiki",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=pan666.net",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8dc00e9b-4a10-4288-93da-5e285addbb17",
