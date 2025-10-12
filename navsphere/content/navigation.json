@@ -934,6 +934,14 @@
               "description": "非凡资源网-提供在线播放，在线电影资源网站。",
               "icon": "/assets/favicon_1760239808613.png",
               "enabled": true
+            },
+            {
+              "id": "1760239824956",
+              "title": "暴风资源",
+              "href": "https://bfzy5.tv",
+              "description": "提供最新最快的视频分享数据",
+              "icon": "/assets/favicon_1760239827458.png",
+              "enabled": true
             }
           ]
         },
