@@ -797,6 +797,14 @@
               "description": "1080p美剧|720p高清|BT下载|最新美剧|最多资源的美剧网站",
               "icon": "/assets/favicon_1760239258815.png",
               "enabled": true
+            },
+            {
+              "id": "1760239317866",
+              "title": "24美剧频道",
+              "href": "https://24pindao.tv",
+              "description": "24美剧频道,为您第一时间提供最新电影电视剧美剧的下载,高清蓝光资源的下载,致力于720P,1080P,4K,蓝光原盘资源的分享,打造最好的高清影视平台",
+              "icon": "/assets/favicon_1760239321381.ico",
+              "enabled": true
             }
           ]
         },
