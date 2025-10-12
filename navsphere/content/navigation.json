@@ -901,6 +901,14 @@
               "description": "BT之家1LOU站 - 回归初心，追求极简",
               "icon": "/assets/favicon_1760239655575.png",
               "enabled": true
+            },
+            {
+              "id": "1760239699867",
+              "title": "漫猫动漫",
+              "href": "https://www.comicat.org",
+              "description": "漫猫动漫",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.comicat.org",
+              "enabled": true
             }
           ]
         },
