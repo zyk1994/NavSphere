@@ -990,6 +990,14 @@
               "description": "卧龙资源网",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wolongzyw.com",
               "enabled": true
+            },
+            {
+              "id": "1760240004008",
+              "title": "麒麟资源站",
+              "href": "https://www.qilinzyz.com",
+              "description": "麒麟资源站",
+              "icon": "/assets/favicon_1760240006438.ico",
+              "enabled": true
             }
           ]
         },
