@@ -789,6 +789,14 @@
               "description": "追新番",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.fanxinzhui.com",
               "enabled": true
+            },
+            {
+              "id": "1760239253392",
+              "title": "美剧粉",
+              "href": "https://www.mjf2020.com",
+              "description": "1080p美剧|720p高清|BT下载|最新美剧|最多资源的美剧网站",
+              "icon": "/assets/favicon_1760239258815.png",
+              "enabled": true
             }
           ]
         },
