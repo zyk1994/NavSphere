@@ -369,6 +369,14 @@
               "description": "免费在线影院",
               "icon": "/assets/favicon_1760198998158.png",
               "enabled": true
+            },
+            {
+              "id": "1760237229638",
+              "title": "小鸭看看",
+              "href": "https://xiaoyakankan.com",
+              "description": "每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。",
+              "icon": "/assets/favicon_1760237232466.png",
+              "enabled": true
             }
           ]
         },
