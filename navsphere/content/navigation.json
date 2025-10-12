@@ -1103,6 +1103,14 @@
               "description": "猫狸盘搜 - 阿里云盘搜索神器",
               "icon": "/assets/favicon_1760240564909.png",
               "enabled": true
+            },
+            {
+              "id": "1760240585822",
+              "title": "网盘资源搜索",
+              "href": "https://ysxjjkl.souyisou.top",
+              "description": "快速搜索各大网盘资源，包括百度网盘、阿里云盘、迅雷网盘等平台的共享资源",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysxjjkl.souyisou.top",
+              "enabled": true
             }
           ]
         },
