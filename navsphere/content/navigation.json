@@ -974,6 +974,14 @@
               "description": "无尽资源提供腾讯爱奇艺各大平台电影电视剧,独家TVB港剧影视,美国好莱坞大片,美剧大全",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wujinzy.com",
               "enabled": true
+            },
+            {
+              "id": "1760239942044",
+              "title": "红牛资源",
+              "href": "https://hongniuzy.net",
+              "description": "红牛资源",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=hongniuzy.net",
+              "enabled": true
             }
           ]
         },
