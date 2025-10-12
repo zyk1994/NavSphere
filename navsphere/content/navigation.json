@@ -1444,6 +1444,14 @@
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
               "enabled": true
+            },
+            {
+              "id": "1760241688508",
+              "title": "藏宝湾网游单机站",
+              "href": "https://www.iopq.net",
+              "description": "藏宝湾网游单机站 - 最专业的网单论坛",
+              "icon": "/assets/favicon_1760241692015.png",
+              "enabled": true
             }
           ]
         },
@@ -1479,14 +1487,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1760241654731",
-              "title": "最新IPTV直播源",
-              "href": "https://iptv.hacks.tools",
-              "description": "最新免费开源的IPTV电视直播源，支持IPv4/IPv6双栈访问，每4小时自动更新，永久免费。收录国内、海外、港澳台等上千个iptv电视直播源频道。访问 https://iptv.hacks.tools/ 获取最新直播源。",
-              "icon": "/assets/favicon_1760241657683.svg",
-              "enabled": true
-            },
             {
               "id": "1760236982790",
               "title": "TVBOX接口搜集",
