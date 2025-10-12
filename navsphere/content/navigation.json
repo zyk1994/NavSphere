@@ -1014,6 +1014,14 @@
               "description": "樱花资源提供腾讯爱奇艺各大平台电影电视剧,独家TVB港剧影视,美国好莱坞大片,美剧大全",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=yhzy.cc",
               "enabled": true
+            },
+            {
+              "id": "1760240045726",
+              "title": "360资源站",
+              "href": "https://360zy.com",
+              "description": "360资源，资源实时更新，三网直连，百G宽带秒播秒拖，国内CDN，全网最全片库，一家顶三家！资源永久免费！欢迎采集。",
+              "icon": "/assets/favicon_1760240049711.png",
+              "enabled": true
             }
           ]
         },
