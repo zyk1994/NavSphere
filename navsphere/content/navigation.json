@@ -1662,6 +1662,95 @@
           ]
         },
         {
+          "id": "9d81fc30-fdbf-497d-b6ef-7dc5429af433",
+          "title": "装机工具",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760188759813",
+              "title": "图吧工具箱",
+              "href": "https://www.tbtool.cn/",
+              "description": "图吧工具箱全名图拉丁吧硬件检测工具箱，是开源、免费、绿色、纯净的硬件检测工具合集，专为图钉及所有DIY爱好者制作，包含常用硬件测试和检测工具，月工JS必备！",
+              "icon": "/assets/favicon_1760188765848.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760109907985",
+              "title": "微PE工具箱",
+              "href": "https://www.wepe.com.cn/",
+              "description": "微PE工具箱",
+              "icon": "/assets/favicon_1760109914542.png",
+              "enabled": true
+            },
+            {
+              "id": "1760105644422",
+              "title": "浏览器插件",
+              "href": "https://www.tbox.fun/tool/plugins/saynoad/#/",
+              "description": "浏览器插件",
+              "icon": "/assets/favicon_1760105650312.png",
+              "enabled": true
+            },
+            {
+              "id": "1760188424465",
+              "title": "极简插件官网",
+              "href": "https://chrome.zzzmh.cn/index",
+              "description": "极简插件是一个优质Chrome插件下载商店，收录热门好用的Chrome插件扩展，国内最方便的Chrome插件下载网站。一键下载谷歌扩展插件，无套路下载插件。",
+              "icon": "/assets/favicon_1760188429395.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760108352683",
+              "title": "KMS激活脚本",
+              "href": "https://kms.cangshui.net/",
+              "description": "KMS激活脚本无需繁琐的操作即可一键激活Windows或Office。KMS激活会自动续期直到永远！KMS激活无需担心病毒或者捆绑软件，它是windows系统自带的功能，安全可靠。",
+              "icon": "/assets/favicon_1760108358529.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760108989598",
+              "title": "Windows系统下载仓储站",
+              "href": "https://hellowindows.cn/",
+              "description": "HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。",
+              "icon": "/assets/favicon_1760108994886.png",
+              "enabled": true
+            },
+            {
+              "id": "1760109153957",
+              "title": "云萌Win10+激活工具",
+              "href": "https://cmwtat.cloudmoe.com/cn.html",
+              "description": "开源 Win10/Win11 数字权利（数字许可证）激活工具！",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cmwtat.cloudmoe.com",
+              "enabled": true
+            },
+            {
+              "id": "1760109533042",
+              "title": "微软激活脚本（MAS）",
+              "href": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+              "description": "开源的Windows和Office激活工具，支持HWID、Ohook、TSforge、KMS38和在线KMS激活方法，以及高级故障排除。",
+              "icon": "/assets/favicon_1760109539178.png",
+              "enabled": true
+            },
+            {
+              "id": "1760109831203",
+              "title": "KMS全球激活服务器",
+              "href": "http://kmserver.micaesoft.com/",
+              "description": "KMS全球激活服务器",
+              "icon": "/assets/favicon_1760109837901.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760109862468",
+              "title": "KMS 主机列表",
+              "href": "https://www.coolhub.top/tech-articles/kms_list.html",
+              "description": "列表数据不定期进行更新。建议使用成功率高且延迟低的 KMS 主机进行激活。所有 KMS 主机均为第三方提供。数据仅供参考，实际使用情况会受网络因素影响而不同。",
+              "icon": "/assets/favicon_1760109868336.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "4202677a-27e1-4ef6-b2df-db5242f85bcb",
           "title": "软件站点",
           "icon": "Laptop",
@@ -1893,95 +1982,6 @@
               "href": "https://easychuan.cn/",
               "description": "只需打开网页，手机、电脑、平板... 跨设备快速传文件、传文本、传屏幕、传实时视频，64T超大文件传输，无限速无扫描。",
               "icon": "/assets/favicon_1760104869018.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "9d81fc30-fdbf-497d-b6ef-7dc5429af433",
-          "title": "装机工具",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760188759813",
-              "title": "图吧工具箱",
-              "href": "https://www.tbtool.cn/",
-              "description": "图吧工具箱全名图拉丁吧硬件检测工具箱，是开源、免费、绿色、纯净的硬件检测工具合集，专为图钉及所有DIY爱好者制作，包含常用硬件测试和检测工具，月工JS必备！",
-              "icon": "/assets/favicon_1760188765848.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760109907985",
-              "title": "微PE工具箱",
-              "href": "https://www.wepe.com.cn/",
-              "description": "微PE工具箱",
-              "icon": "/assets/favicon_1760109914542.png",
-              "enabled": true
-            },
-            {
-              "id": "1760105644422",
-              "title": "浏览器插件",
-              "href": "https://www.tbox.fun/tool/plugins/saynoad/#/",
-              "description": "浏览器插件",
-              "icon": "/assets/favicon_1760105650312.png",
-              "enabled": true
-            },
-            {
-              "id": "1760188424465",
-              "title": "极简插件官网",
-              "href": "https://chrome.zzzmh.cn/index",
-              "description": "极简插件是一个优质Chrome插件下载商店，收录热门好用的Chrome插件扩展，国内最方便的Chrome插件下载网站。一键下载谷歌扩展插件，无套路下载插件。",
-              "icon": "/assets/favicon_1760188429395.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760108352683",
-              "title": "KMS激活脚本",
-              "href": "https://kms.cangshui.net/",
-              "description": "KMS激活脚本无需繁琐的操作即可一键激活Windows或Office。KMS激活会自动续期直到永远！KMS激活无需担心病毒或者捆绑软件，它是windows系统自带的功能，安全可靠。",
-              "icon": "/assets/favicon_1760108358529.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760108989598",
-              "title": "Windows系统下载仓储站",
-              "href": "https://hellowindows.cn/",
-              "description": "HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。",
-              "icon": "/assets/favicon_1760108994886.png",
-              "enabled": true
-            },
-            {
-              "id": "1760109153957",
-              "title": "云萌Win10+激活工具",
-              "href": "https://cmwtat.cloudmoe.com/cn.html",
-              "description": "开源 Win10/Win11 数字权利（数字许可证）激活工具！",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cmwtat.cloudmoe.com",
-              "enabled": true
-            },
-            {
-              "id": "1760109533042",
-              "title": "微软激活脚本（MAS）",
-              "href": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-              "description": "开源的Windows和Office激活工具，支持HWID、Ohook、TSforge、KMS38和在线KMS激活方法，以及高级故障排除。",
-              "icon": "/assets/favicon_1760109539178.png",
-              "enabled": true
-            },
-            {
-              "id": "1760109831203",
-              "title": "KMS全球激活服务器",
-              "href": "http://kmserver.micaesoft.com/",
-              "description": "KMS全球激活服务器",
-              "icon": "/assets/favicon_1760109837901.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760109862468",
-              "title": "KMS 主机列表",
-              "href": "https://www.coolhub.top/tech-articles/kms_list.html",
-              "description": "列表数据不定期进行更新。建议使用成功率高且延迟低的 KMS 主机进行激活。所有 KMS 主机均为第三方提供。数据仅供参考，实际使用情况会受网络因素影响而不同。",
-              "icon": "/assets/favicon_1760109868336.png",
               "enabled": true
             }
           ]
