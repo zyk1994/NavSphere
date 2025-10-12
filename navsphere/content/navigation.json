@@ -1112,7 +1112,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760240178593",
+              "title": "树屋经典影视论坛",
+              "href": "https://treehousesub.com/forum.php",
+              "description": "树屋经典影视论坛-留住经典,不忘怀旧",
+              "icon": "/assets/favicon_1760240181962.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "40646dd0-5f16-4dea-9a39-35c59e86c37d",
