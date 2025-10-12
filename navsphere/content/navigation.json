@@ -725,6 +725,14 @@
               "description": "动画,新番,音乐,日剧,下载,BT,BT下载,磁链,迅雷,免费,资源,网盘,百度盘,菲特动漫",
               "icon": "/assets/favicon_1760238938571.ico",
               "enabled": true
+            },
+            {
+              "id": "1760238957669",
+              "title": "电影天堂",
+              "href": "https://www.dytt8899.com/",
+              "description": "电影天堂_电影下载_高清首发",
+              "icon": "/assets/favicon_1760238960572.png",
+              "enabled": true
             }
           ]
         },
