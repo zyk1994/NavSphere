@@ -869,6 +869,14 @@
               "description": "最好的高清电影下载网站",
               "icon": "/assets/favicon_1760239544901.png",
               "enabled": true
+            },
+            {
+              "id": "1760239583193",
+              "title": "悠悠MP4",
+              "href": "https://www.uump4.cc",
+              "description": "悠悠MP4，每日更新最新电影电视剧，720p|1080p|4K 等超高清分辨率电影电视剧迅雷下载、bt种子网盘离线下载等资源。uump4，悠悠MP4",
+              "icon": "/assets/favicon_1760239587010.ico",
+              "enabled": true
             }
           ]
         },
