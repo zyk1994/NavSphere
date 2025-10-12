@@ -1580,14 +1580,6 @@
           "enabled": true
         },
         {
-          "id": "71d88019-037b-4fdb-baae-de49e1ac577d",
-          "title": "游戏工具",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "1023c264-d8c1-436e-aee2-ad3248323189",
           "title": "网络工具",
           "icon": "Network",
