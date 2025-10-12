@@ -757,6 +757,14 @@
               "description": "诺曼底影视",
               "icon": "/assets/favicon_1760239136147.png",
               "enabled": true
+            },
+            {
+              "id": "1760239160040",
+              "title": "我爱ABC",
+              "href": "https://www.oiabc.net",
+              "description": "早教资源分享",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.oiabc.net",
+              "enabled": true
             }
           ]
         },
