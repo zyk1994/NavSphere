@@ -1351,6 +1351,14 @@
           ]
         },
         {
+          "id": "ff108919-f3ee-4a85-909f-2f86c1e58175",
+          "title": "游戏相关",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "06a803f3-12f6-431d-b961-6f04f6386209",
           "title": "其他工具",
           "icon": "Box",
@@ -1391,14 +1399,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "ff108919-f3ee-4a85-909f-2f86c1e58175",
-          "title": "游戏相关",
-          "icon": "Heart",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
