@@ -1302,6 +1302,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "49f8e7c3-e9e4-4e25-95a5-74d223348a7c",
+          "title": "网盘资源",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
