@@ -1388,6 +1388,14 @@
               "description": "与Poki (宝玩)一起探索免费在线游戏的世界！即刻玩耍，无需下载，享受与所有设备兼容的游戏。",
               "icon": "/assets/favicon_1760188105838.png",
               "enabled": true
+            },
+            {
+              "id": "1760180569925",
+              "title": "幻兽帕鲁育种计算器",
+              "href": "https://www.palworldbreeding.top/",
+              "description": "幻兽帕鲁育种计算器",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.palworldbreeding.top",
+              "enabled": true
             }
           ]
         },
@@ -1570,14 +1578,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1760180569925",
-              "title": "幻兽帕鲁育种计算器",
-              "href": "https://www.palworldbreeding.top/",
-              "description": "幻兽帕鲁育种计算器",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.palworldbreeding.top",
-              "enabled": true
-            },
             {
               "id": "1760188502897",
               "title": "幻兽帕鲁互动地图",
