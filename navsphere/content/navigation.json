@@ -441,6 +441,14 @@
               "description": "筷子视频，为您提供最新电影、美剧天堂、电影排行榜、最新美剧、韩剧、日剧、泰剧、最快最全的美剧在线视频网站，为广大美剧迷推荐精彩的美剧视频，是广大美剧迷必收藏的美剧网站！",
               "icon": "/assets/favicon_1760238116322.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760238683752_lc19uctdx",
+              "title": "耐看点播",
+              "href": "https://www.nkvod.com",
+              "description": "追最新电视剧，看热门电影",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nkvod.com",
+              "enabled": true
             }
           ]
         },
