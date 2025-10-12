@@ -918,7 +918,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760239780262",
+              "title": "量子资源网",
+              "href": "https://lzizy5.com",
+              "description": "量子资源网-提供在线播放，下载资源采集，全网第一。",
+              "icon": "/assets/favicon_1760239783305.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8dc00e9b-4a10-4288-93da-5e285addbb17",
