@@ -1553,14 +1553,6 @@
               "enabled": true
             },
             {
-              "id": "1760102514106",
-              "title": "在线屏幕检测工具",
-              "href": "https://screen.bmcx.com/#welcome",
-              "description": "免费在线屏幕测试工具。在线屏幕检测 - 显示器检测 - 显示器坏点检测工具",
-              "icon": "/assets/favicon_1760102523687.png",
-              "enabled": true
-            },
-            {
               "id": "1760104993927",
               "title": "阅后即焚",
               "href": "https://www.tbox.fun/huo/",
@@ -1746,6 +1738,14 @@
               "href": "https://www.coolhub.top/tech-articles/kms_list.html",
               "description": "列表数据不定期进行更新。建议使用成功率高且延迟低的 KMS 主机进行激活。所有 KMS 主机均为第三方提供。数据仅供参考，实际使用情况会受网络因素影响而不同。",
               "icon": "/assets/favicon_1760109868336.png",
+              "enabled": true
+            },
+            {
+              "id": "1760102514106",
+              "title": "在线屏幕检测工具",
+              "href": "https://screen.bmcx.com/#welcome",
+              "description": "免费在线屏幕测试工具。在线屏幕检测 - 显示器检测 - 显示器坏点检测工具",
+              "icon": "/assets/favicon_1760102523687.png",
               "enabled": true
             }
           ]
