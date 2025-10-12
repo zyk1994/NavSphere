@@ -1128,6 +1128,14 @@
               "description": "TVBT菊花台",
               "icon": "/assets/favicon_1760240199125.png",
               "enabled": true
+            },
+            {
+              "id": "1760240287878",
+              "title": "分享交流下载字幕平台",
+              "href": "https://subhd.tv",
+              "description": "Sub HD为影视爱好者们提供交流字幕的平台，你可以在这里找到并下载字幕，对字幕打分和评论，也可以上传字幕与大家分享",
+              "icon": "/assets/favicon_1760240290944.png",
+              "enabled": true
             }
           ]
         },
