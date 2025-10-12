@@ -540,6 +540,14 @@
               "description": "好片网_迅雷下载_高清电影_电影天堂_最新电影下载",
               "icon": "/assets/favicon_1760104030255.ico",
               "enabled": true
+            },
+            {
+              "id": "1760236857420",
+              "title": "观影地址发布页",
+              "href": "https://www.gying.page",
+              "description": "观影地址发布页",
+              "icon": "/assets/favicon_1760236861100.png",
+              "enabled": true
             }
           ]
         },
