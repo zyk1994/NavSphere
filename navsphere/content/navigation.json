@@ -942,6 +942,14 @@
               "description": "提供最新最快的视频分享数据",
               "icon": "/assets/favicon_1760239827458.png",
               "enabled": true
+            },
+            {
+              "id": "1760239836983",
+              "title": "优质资源库",
+              "href": "https://1080zyk.com",
+              "description": "高清资源库,优质资源库_专注于为站长们提供各种高清影视资源免费采集",
+              "icon": "/assets/favicon_1760239839723.png",
+              "enabled": true
             }
           ]
         },
