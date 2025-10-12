@@ -1079,6 +1079,14 @@
               "description": "秒搜 - 强大的网盘搜索引擎",
               "icon": "/assets/favicon_1760240507163.png",
               "enabled": true
+            },
+            {
+              "id": "1760240532692",
+              "title": "兄弟盘",
+              "href": "https://www.xiongdipan.com",
+              "description": "兄弟盘,支持百度网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度网盘资源，每天更新海量资源。",
+              "icon": "/assets/favicon_1760240537275.ico",
+              "enabled": true
             }
           ]
         },
