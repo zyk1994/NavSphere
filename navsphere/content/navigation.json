@@ -502,6 +502,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1760237032880",
+              "title": "茶杯狐",
+              "href": "https://cupfox.love",
+              "description": " 片荒剧荒就来茶杯狐",
+              "icon": "/assets/favicon_1760237035624.png",
+              "enabled": true
+            },
+            {
               "id": "1760237110137",
               "title": "搜片",
               "href": "https://soupian.one",
@@ -515,14 +523,6 @@
               "href": "https://www.juheyingshi.com",
               "description": "聚合影视及时收录互联网最新高清无删减版电影大片,同步更新热播电视剧,全网热播综艺,热播网剧,短剧,动漫,体育赛事在线免费观看。",
               "icon": "/assets/favicon_1760237149087.png",
-              "enabled": true
-            },
-            {
-              "id": "1760237032880",
-              "title": "茶杯狐",
-              "href": "https://cupfox.love",
-              "description": " 片荒剧荒就来茶杯狐",
-              "icon": "/assets/favicon_1760237035624.png",
               "enabled": true
             }
           ]
