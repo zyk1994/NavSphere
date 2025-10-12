@@ -1065,6 +1065,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1760099162102",
+              "title": "PanSou盘搜",
+              "href": "https://so.252035.xyz/",
+              "description": "网盘聚合搜索",
+              "icon": "/assets/favicon_1760099168186.ico",
+              "enabled": true
+            },
+            {
               "id": "1760240459368",
               "title": "PanWiki",
               "href": "https://pan666.net",
@@ -1142,14 +1150,6 @@
               "href": "https://www.lingfengyun.com",
               "description": "凌风云搜索是互联网专业的阿里云盘，百度网盘等十大网盘搜索引擎，是网盘资源搜索中心",
               "icon": "/assets/favicon_1760240702561.ico",
-              "enabled": true
-            },
-            {
-              "id": "1760099162102",
-              "title": "PanSou盘搜",
-              "href": "https://so.252035.xyz/",
-              "description": "网盘聚合搜索",
-              "icon": "/assets/favicon_1760099168186.ico",
               "enabled": true
             }
           ]
