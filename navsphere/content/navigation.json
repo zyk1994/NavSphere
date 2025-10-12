@@ -1030,6 +1030,14 @@
               "description": "魔都资源网是一家优质动漫资源网，提供国内外最新动漫电影、动画片、国产动漫、日韩动漫等热门动漫资源采集，每天第一时间更新，希望您能喜欢！",
               "icon": "/assets/favicon_1760240074661.ico",
               "enabled": true
+            },
+            {
+              "id": "1760240085511",
+              "title": "ikun资源站",
+              "href": "https://ikunzy.com",
+              "description": "ikun资源站",
+              "icon": "/assets/favicon_1760240089794.png",
+              "enabled": true
             }
           ]
         },
