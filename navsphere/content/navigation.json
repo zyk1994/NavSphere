@@ -1071,6 +1071,14 @@
               "description": "PanWiki",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=pan666.net",
               "enabled": true
+            },
+            {
+              "id": "1760240505299",
+              "title": "秒搜",
+              "href": "https://miaosou.fun",
+              "description": "秒搜 - 强大的网盘搜索引擎",
+              "icon": "/assets/favicon_1760240507163.png",
+              "enabled": true
             }
           ]
         },
