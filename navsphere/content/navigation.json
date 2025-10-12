@@ -926,6 +926,14 @@
               "description": "量子资源网-提供在线播放，下载资源采集，全网第一。",
               "icon": "/assets/favicon_1760239783305.png",
               "enabled": true
+            },
+            {
+              "id": "1760239804464",
+              "title": "非凡资源网",
+              "href": "http://ffzy5.tv",
+              "description": "非凡资源网-提供在线播放，在线电影资源网站。",
+              "icon": "/assets/favicon_1760239808613.png",
+              "enabled": true
             }
           ]
         },
