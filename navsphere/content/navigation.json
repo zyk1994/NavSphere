@@ -669,6 +669,14 @@
               "description": "6v电影网新版",
               "icon": "/assets/favicon_1760238302099.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760238413584_0mlnwrmjq",
+              "title": "电影港",
+              "href": "https://www.dygang.net",
+              "description": "高清电影下载",
+              "icon": "/assets/favicon_1760238379844.png",
+              "enabled": true
             }
           ]
         },
