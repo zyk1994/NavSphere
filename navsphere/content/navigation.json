@@ -966,6 +966,14 @@
               "description": "豆瓣资源站，用心做质量的资源站，海量影视资源永久免费 超清蓝光 商业CDN加速，全国实时秒播（可测试）最新资源每日实时更新，承诺资源永不下线，绝不影响用户体验。站群首选。站长任何问题都会第一时间得到处理。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dbzy.tv",
               "enabled": true
+            },
+            {
+              "id": "1760239924782",
+              "title": "无尽资源采集",
+              "href": "https://wujinzy.com",
+              "description": "无尽资源提供腾讯爱奇艺各大平台电影电视剧,独家TVB港剧影视,美国好莱坞大片,美剧大全",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wujinzy.com",
+              "enabled": true
             }
           ]
         },
