@@ -1398,6 +1398,14 @@
               "enabled": true
             },
             {
+              "id": "1760241688508",
+              "title": "藏宝湾网游单机站",
+              "href": "https://www.iopq.net",
+              "description": "藏宝湾网游单机站 - 最专业的网单论坛",
+              "icon": "/assets/favicon_1760241692015.png",
+              "enabled": true
+            },
+            {
               "id": "1760100755529",
               "title": "在线小游戏",
               "href": "https://www.yikm.net/",
@@ -1443,14 +1451,6 @@
               "href": "https://www.gamersky.com/tools/map/?mapId=65",
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
-              "enabled": true
-            },
-            {
-              "id": "1760241688508",
-              "title": "藏宝湾网游单机站",
-              "href": "https://www.iopq.net",
-              "description": "藏宝湾网游单机站 - 最专业的网单论坛",
-              "icon": "/assets/favicon_1760241692015.png",
               "enabled": true
             }
           ]
