@@ -741,6 +741,14 @@
               "description": "迅雷电影下载，高清电影下载",
               "icon": "/assets/favicon_1760239058083.png",
               "enabled": true
+            },
+            {
+              "id": "1760239112689",
+              "title": "纪录片数据库",
+              "href": "https://docu-lib.com",
+              "description": "全球纪录片数据库。搜索、下载、并管理你的纪录片。",
+              "icon": "/assets/favicon_1760239116376.ico",
+              "enabled": true
             }
           ]
         },
