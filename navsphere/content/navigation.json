@@ -611,7 +611,7 @@
               "href": "https://www.juheyingshi.com",
               "description": "聚合影视及时收录互联网最新高清无删减版电影大片,同步更新热播电视剧,全网热播综艺,热播网剧,短剧,动漫,体育赛事在线免费观看。",
               "icon": "/assets/favicon_1760237149087.png",
-              "enabled": true
+              "enabled": false
             },
             {
               "id": "site_1760237787927_ws1jjdpl2",
