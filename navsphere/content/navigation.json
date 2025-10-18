@@ -1973,6 +1973,14 @@
               "description": "小番茄图片混淆",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=xfqtphx.netlify.app",
               "enabled": true
+            },
+            {
+              "id": "1760753381996",
+              "title": "哲风壁纸",
+              "href": "https://haowallpaper.com",
+              "description": "哲风壁纸为广大壁纸爱好者提供交流和分享的平台，站内包含海量「4K-8K」高清「电脑桌面壁纸」「动态壁纸」「素材图片」「手机壁纸」「头像制作」均可「免费下载」",
+              "icon": "/assets/favicon_1760753385213.ico",
+              "enabled": true
             }
           ]
         },
