@@ -1673,6 +1673,14 @@
               "description": "在线二维码生成器条形码生成器是全国最好二维码条形码在线生成器网站。在线二维码条形码生成器是一个免费, 在线, 实时生成二维码条形码。它是功能强大的免费二维码和条形码解决方案,现在开始创建你的二维码条形码吧!",
               "icon": "/assets/favicon_1760110226914.png",
               "enabled": true
+            },
+            {
+              "id": "1760753157481",
+              "title": "PDF24 Tools",
+              "href": "https://tools.pdf24.org/zh/",
+              "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
+              "icon": "/assets/favicon_1760753162578.png",
+              "enabled": true
             }
           ]
         },
