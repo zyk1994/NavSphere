@@ -917,6 +917,14 @@
               "description": "动漫下载",
               "icon": "/assets/favicon_1760240396352.png",
               "enabled": true
+            },
+            {
+              "id": "1760938460355",
+              "title": "音范丝",
+              "href": "https://www.yinfans.me/",
+              "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
+              "icon": "/assets/favicon_1760938463219.ico",
+              "enabled": true
             }
           ]
         },
