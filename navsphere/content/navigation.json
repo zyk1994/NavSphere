@@ -2450,6 +2450,14 @@
               "description": "试用基于高可用、高性能的 EMQX 创建的免费公共 MQTT 服务器。无需部署，立即开始您的 MQTT 测试、学习！",
               "icon": "/assets/favicon_1760185611489.png",
               "enabled": true
+            },
+            {
+              "id": "1761054217717",
+              "title": "JSON在线解析格式化验证",
+              "href": "https://www.json.cn",
+              "description": "Json中文网致力于在中国推广Json,并提供相关的Json解析、验证、格式化、压缩、编辑器以及Json与XML相互转换等服务",
+              "icon": "/assets/favicon_1761054220186.ico",
+              "enabled": true
             }
           ]
         },
