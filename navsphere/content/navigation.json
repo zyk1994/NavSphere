@@ -1565,6 +1565,14 @@
               "description": "哔哩哔哩高清视频解析下载工具是一个免费的B站视频在线解析提取工具,支持提取B站APP和bilibili网站上的任何视频,提取出来的视频无水印.我们可以借助此下载器方便地将视频保存到手机相册或者电脑硬盘.",
               "icon": "/assets/favicon_1761139678463.ico",
               "enabled": true
+            },
+            {
+              "id": "1761139776473",
+              "title": "全民解析",
+              "href": "https://www.timecn.cn",
+              "description": "vip视频解析，在线视频解析",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.timecn.cn",
+              "enabled": true
             }
           ]
         },
