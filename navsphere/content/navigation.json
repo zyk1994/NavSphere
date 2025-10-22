@@ -1549,6 +1549,14 @@
               "description": "免费观影第一站",
               "icon": "/assets/favicon_1761139076755.png",
               "enabled": true
+            },
+            {
+              "id": "1761139510294",
+              "title": "爱思链池",
+              "href": "https://www.a4lc.com",
+              "description": "爱思链池是一个综合分类目录导航网站，汇集了大量实用的国内外网站资源，涵盖音乐、小说、游戏、生活、休闲、办公、影视、工具、素材、UI设计、灵感创意等领域。我们致力于提供优质的在线导航服务，让您轻松冲浪互联网世界。",
+              "icon": "/assets/favicon_1761139514055.ico",
+              "enabled": true
             }
           ]
         },
