@@ -941,6 +941,14 @@
               "description": "动漫下载",
               "icon": "/assets/favicon_1760240396352.png",
               "enabled": true
+            },
+            {
+              "id": "1761104951701",
+              "title": "Mini4K",
+              "href": "https://www.mini4k.com",
+              "description": "最好的2160P 4K电影下载网",
+              "icon": "/assets/favicon_1761104955179.png",
+              "enabled": true
             }
           ]
         },
