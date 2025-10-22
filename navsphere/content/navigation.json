@@ -1470,6 +1470,14 @@
               "enabled": true
             },
             {
+              "id": "site_1761141376187_3whehrghm",
+              "title": "CrazyGames",
+              "href": "https://www.crazygames.com",
+              "description": "在CrazyGames玩免费在线游戏，这里是高品质浏览器游戏的最佳去处。我们每天都会新增游戏。祝您玩得开心！",
+              "icon": "/assets/favicon_1761141328771.png",
+              "enabled": true
+            },
+            {
               "id": "1760188100063",
               "title": "免费在线小游戏",
               "href": "https://poki.com/zh",
@@ -1507,14 +1515,6 @@
               "href": "https://www.gamersky.com/tools/map/?mapId=65",
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1761141376187_3whehrghm",
-              "title": "CrazyGames",
-              "href": "https://www.crazygames.com",
-              "description": "在CrazyGames玩免费在线游戏，这里是高品质浏览器游戏的最佳去处。我们每天都会新增游戏。祝您玩得开心！",
-              "icon": "/assets/favicon_1761141328771.png",
               "enabled": true
             }
           ]
