@@ -203,6 +203,14 @@
               "enabled": true
             },
             {
+              "id": "site_1761138562625_t5c0ugzt6",
+              "title": "奈飞工厂",
+              "href": "https://www.netflixgc.com",
+              "description": "一个致力于免费提供NetFlix影剧动漫的流媒体播放平台",
+              "icon": "/assets/favicon_1761138507808.png",
+              "enabled": true
+            },
+            {
               "id": "site_1760236627085_is7uu6h39",
               "title": "皮皮妖",
               "href": "https://www.pipiyao.cc",
@@ -464,14 +472,6 @@
               "href": "https://www.rebozj.pro",
               "description": "热播之家是一个无广告蓝光1080P画质,流畅秒播不卡顿的免费在线追剧平台！",
               "icon": "/assets/favicon_1760238711691.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1761138562625_t5c0ugzt6",
-              "title": "奈飞工厂",
-              "href": "https://www.netflixgc.com",
-              "description": "一个致力于免费提供NetFlix影剧动漫的流媒体播放平台",
-              "icon": "/assets/favicon_1761138507808.png",
               "enabled": true
             }
           ]
