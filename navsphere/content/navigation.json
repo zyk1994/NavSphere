@@ -1386,6 +1386,14 @@
               "description": "放屁网在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
               "icon": "/assets/favicon_1761138940354.ico",
               "enabled": true
+            },
+            {
+              "id": "1761138956962",
+              "title": "无损生活",
+              "href": "https://flac.life",
+              "description": "全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网",
+              "icon": "/assets/favicon_1761138962179.png",
+              "enabled": true
             }
           ]
         },
