@@ -1532,6 +1532,14 @@
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
               "enabled": true
+            },
+            {
+              "id": "1761142053180",
+              "title": "Steamdb",
+              "href": "https://steamdb.info",
+              "description": "第三方Steam数据平台，提供关于Steam上游戏的详细信息，包括价格、历史折扣记录和在线玩家人数等功能。用户可以通过SteamDB查询游戏的区域信息和激活码相关信息，帮助玩家更好地了解Steam平台上的游戏。 ",
+              "icon": "/assets/favicon_1761142056450.png",
+              "enabled": true
             }
           ]
         },
