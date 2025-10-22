@@ -2684,6 +2684,14 @@
               "description": "免费专业高效的软考刷题工具,刷题备考更轻松",
               "icon": "/assets/favicon_1760107899818.png",
               "enabled": true
+            },
+            {
+              "id": "1761141090305",
+              "title": "杂铺源码",
+              "href": "https://www.zapro.cn",
+              "description": "杂铺源码是一个专业的网络资源分享平台,提供各种PHP源码、网站源码、游戏源码、模板插件、软件工具、网络教程、活动线报等,为中国站长提供一站式资源下载。",
+              "icon": "/assets/favicon_1761141096121.ico",
+              "enabled": true
             }
           ]
         },
