@@ -1370,6 +1370,14 @@
               "description": "歌曲海是一个专业免费的在线音乐搜索与下载平台，致力于为用户提供全网最全面的MP3歌曲资源。无论是付费歌曲、流行音乐，还是经典老歌，这里都能轻松找到。",
               "icon": "/assets/favicon_1760103676460.ico",
               "enabled": true
+            },
+            {
+              "id": "1761138868059",
+              "title": "下歌吧",
+              "href": "https://xiageba.liumingye.cn",
+              "description": "下歌吧在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质",
+              "icon": "/assets/favicon_1761138871527.ico",
+              "enabled": true
             }
           ]
         },
