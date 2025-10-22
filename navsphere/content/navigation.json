@@ -1524,6 +1524,14 @@
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
               "enabled": true
+            },
+            {
+              "id": "1761141989994",
+              "title": "3DM游戏网",
+              "href": "https://www.3dmgame.com",
+              "description": "3DM游戏网为玩家提供最新的游戏新闻、攻略、单机游戏资源、汉化资源、游戏补丁、游戏论坛等，经过多年努力已成为游戏玩家首要选择的游戏资讯、游戏资源网站。",
+              "icon": "/assets/favicon_1761141994877.png",
+              "enabled": true
             }
           ]
         },
