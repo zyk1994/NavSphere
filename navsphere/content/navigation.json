@@ -1573,6 +1573,14 @@
               "description": "vip视频解析，在线视频解析",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.timecn.cn",
               "enabled": true
+            },
+            {
+              "id": "1761139910359",
+              "title": "Parsevideo在线视频解析工具",
+              "href": "https://pv.vlogdownloader.com",
+              "description": "免费在线视频解析下载网站",
+              "icon": "/assets/favicon_1761139914955.ico",
+              "enabled": true
             }
           ]
         },
