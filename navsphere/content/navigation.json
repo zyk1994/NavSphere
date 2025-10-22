@@ -1509,6 +1509,14 @@
               "description": "VIP视频解析",
               "icon": "/assets/favicon_1760203128546.png",
               "enabled": true
+            },
+            {
+              "id": "1761138815960",
+              "title": "虾米解析",
+              "href": "https://jx.xmflv.com",
+              "description": "全网最稳定解析接口",
+              "icon": "/assets/favicon_1761138821778.png",
+              "enabled": true
             }
           ]
         },
