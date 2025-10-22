@@ -1086,6 +1086,14 @@
               "description": "电影天堂资源-提供在线播放， 在线电影资源网站。",
               "icon": "/assets/favicon_1760240113538.png",
               "enabled": true
+            },
+            {
+              "id": "1761141635902",
+              "title": "高清MP4吧",
+              "href": "https://www.mp4ba.biz",
+              "description": "免费高清电影资源下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.mp4ba.biz",
+              "enabled": true
             }
           ]
         },
