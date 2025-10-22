@@ -1541,6 +1541,14 @@
               "description": "全网最稳定解析接口",
               "icon": "/assets/favicon_1761138821778.png",
               "enabled": true
+            },
+            {
+              "id": "1761139072716",
+              "title": "影猫导航",
+              "href": "https://www.ymaoo.cn",
+              "description": "免费观影第一站",
+              "icon": "/assets/favicon_1761139076755.png",
+              "enabled": true
             }
           ]
         },
