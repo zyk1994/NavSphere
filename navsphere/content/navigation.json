@@ -933,6 +933,14 @@
               "description": "动漫下载",
               "icon": "/assets/favicon_1760240396352.png",
               "enabled": true
+            },
+            {
+              "id": "1761104701442",
+              "title": "4K指南",
+              "href": "https://xuexizhinan.com",
+              "description": "专注4K超清夸克网盘分享",
+              "icon": "/assets/favicon_1761104707147.png",
+              "enabled": true
             }
           ]
         },
