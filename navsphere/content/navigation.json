@@ -1438,14 +1438,6 @@
               "enabled": true
             },
             {
-              "id": "1760099050467",
-              "title": "风灵月影",
-              "href": "https://flingtrainer.com/",
-              "description": "风灵月影PC游戏修改器与模组",
-              "icon": "/assets/favicon_1760099055327.png",
-              "enabled": true
-            },
-            {
               "id": "1760143785352",
               "title": "Switch520",
               "href": "https://www.gamer520.com/",
@@ -1467,6 +1459,14 @@
               "href": "https://www.gamefreer.com",
               "description": "永久免费的高质量游戏网站",
               "icon": "/assets/favicon_1760241187135.png",
+              "enabled": true
+            },
+            {
+              "id": "1760099050467",
+              "title": "风灵月影",
+              "href": "https://flingtrainer.com/",
+              "description": "风灵月影PC游戏修改器与模组",
+              "icon": "/assets/favicon_1760099055327.png",
               "enabled": true
             },
             {
