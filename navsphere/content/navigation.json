@@ -70,7 +70,16 @@
           "enabled": true
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "6aea41f7-9070-46af-89a8-045bd1bd469a",
+          "title": "影视",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
