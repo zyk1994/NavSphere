@@ -72,14 +72,6 @@
       ],
       "subCategories": [
         {
-          "id": "1bbc264e-e40a-49e5-8747-61464250e60e",
-          "title": "音乐",
-          "icon": "Music",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "22536bc0-ba41-4f62-8b54-535f871f023b",
           "title": "其他",
           "icon": "Folder",
