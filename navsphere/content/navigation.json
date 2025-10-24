@@ -72,14 +72,6 @@
       ],
       "subCategories": [
         {
-          "id": "82751482-7e09-4087-a89f-3f14c2fd56c8",
-          "title": "备用",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "1bbc264e-e40a-49e5-8747-61464250e60e",
           "title": "音乐",
           "icon": "Music",
