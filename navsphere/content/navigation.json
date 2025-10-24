@@ -72,14 +72,6 @@
       ],
       "subCategories": [
         {
-          "id": "6aea41f7-9070-46af-89a8-045bd1bd469a",
-          "title": "影视",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "82751482-7e09-4087-a89f-3f14c2fd56c8",
           "title": "备用",
           "icon": "Video",
