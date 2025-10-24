@@ -86,6 +86,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1bbc264e-e40a-49e5-8747-61464250e60e",
+          "title": "音乐",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
