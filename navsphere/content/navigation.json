@@ -70,16 +70,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "22536bc0-ba41-4f62-8b54-535f871f023b",
-          "title": "其他",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ],
+      "subCategories": [],
       "description": "",
       "enabled": true
     },
