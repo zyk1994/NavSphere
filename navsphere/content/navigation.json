@@ -3030,6 +3030,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761272388682",
+      "title": "影视站",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
