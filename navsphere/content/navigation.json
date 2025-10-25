@@ -2149,6 +2149,14 @@
               "description": "哲风壁纸为广大壁纸爱好者提供交流和分享的平台，站内包含海量「4K-8K」高清「电脑桌面壁纸」「动态壁纸」「素材图片」「手机壁纸」「头像制作」均可「免费下载」",
               "icon": "/assets/favicon_1760753385213.ico",
               "enabled": true
+            },
+            {
+              "id": "1761409041474",
+              "title": "恋风壁纸",
+              "href": "https://www.luvbree.com",
+              "description": "恋风壁纸提供高质量电脑壁纸和手机壁纸下载，让您的设备与众不同。免费壁纸，高清壁纸，美丽图片。",
+              "icon": "/assets/favicon_1761409045454.ico",
+              "enabled": true
             }
           ]
         },
