@@ -1502,6 +1502,14 @@
               "enabled": true
             },
             {
+              "id": "1761404588670",
+              "title": "老游戏在线玩",
+              "href": "https://zaixianwan.app",
+              "description": "在电脑和手机浏览器里畅玩 2500+ 中文老游戏，支持触屏、键盘、存档！包括 FC, SFC, N64, GB, GBC, GBA, NDS 等多种游戏机平台。",
+              "icon": "/assets/favicon_1761404594543.ico",
+              "enabled": true
+            },
+            {
               "id": "site_1761141376187_3whehrghm",
               "title": "CrazyGames",
               "href": "https://www.crazygames.com",
@@ -1539,14 +1547,6 @@
               "href": "https://www.gamersky.com/tools/map/?mapId=65",
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
-              "enabled": true
-            },
-            {
-              "id": "1761404588670",
-              "title": "老游戏在线玩",
-              "href": "https://zaixianwan.app",
-              "description": "在电脑和手机浏览器里畅玩 2500+ 中文老游戏，支持触屏、键盘、存档！包括 FC, SFC, N64, GB, GBC, GBA, NDS 等多种游戏机平台。",
-              "icon": "/assets/favicon_1761404594543.ico",
               "enabled": true
             }
           ]
