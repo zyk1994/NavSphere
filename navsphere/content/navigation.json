@@ -1865,6 +1865,14 @@
               "description": "这是一个优雅实用的在线字帖生成工具，可轻松自定义所需字帖，支持汉字和英文任意排版、灵活设置描红样式和大小、自选字体、生成控笔练习字帖、导出图片等。",
               "icon": "/assets/favicon_1761448455382.png",
               "enabled": true
+            },
+            {
+              "id": "1761448656667",
+              "title": "HELLO-PDF",
+              "href": "https://hello-pdf.com/zh",
+              "description": "Hello-PDF是一款免费的在线PDF编辑器，可以在本地浏览器中工作。轻松编辑、合并、拆分、压缩、转换和管理您的PDF文件。",
+              "icon": "/assets/favicon_1761448660346.png",
+              "enabled": true
             }
           ]
         },
