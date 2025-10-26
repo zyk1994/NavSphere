@@ -1697,6 +1697,14 @@
               "enabled": true
             },
             {
+              "id": "1761448574561",
+              "title": "一饭封神",
+              "href": "https://eat.lz-t.top",
+              "description": "一饭封神是专业的AI智能菜谱生成平台，汇聚中华八大菜系厨艺大师，根据您的食材智能生成个性化菜谱。支持营养分析、效果图生成，让烹饪变得简单有趣。",
+              "icon": "/assets/favicon_1761448578117.ico",
+              "enabled": true
+            },
+            {
               "id": "1760143733719",
               "title": "CookLikeHOC",
               "href": "https://cooklikehoc.soilzhu.su/",
@@ -1766,14 +1774,6 @@
               "href": "https://www.xjbzly.com/",
               "description": "OmniTools提供100多种免费在线工具，包括图像处理、PDF编辑、文本转换、视频编辑、音频处理等。所有工具都可以在您的浏览器中运行，保护您的隐私。提供多语言支持。",
               "icon": "/assets/favicon_1760283463838.png",
-              "enabled": true
-            },
-            {
-              "id": "1761448574561",
-              "title": "一饭封神",
-              "href": "https://eat.lz-t.top",
-              "description": "一饭封神是专业的AI智能菜谱生成平台，汇聚中华八大菜系厨艺大师，根据您的食材智能生成个性化菜谱。支持营养分析、效果图生成，让烹饪变得简单有趣。",
-              "icon": "/assets/favicon_1761448578117.ico",
               "enabled": true
             }
           ],
