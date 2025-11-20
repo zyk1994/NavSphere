@@ -1540,6 +1540,14 @@
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
               "enabled": true
+            },
+            {
+              "id": "1763640418360",
+              "title": "地铁跑酷",
+              "href": "https://subway-surfers.gg/zh-CN/",
+              "description": "在我们的网站上免费在线玩Subway Surfers（地铁跑酷），无需下载！在这次刺激的冒险中，体验无尽的奔跑乐趣，避开障碍。",
+              "icon": "/assets/favicon_1763640423831.png",
+              "enabled": true
             }
           ]
         },
