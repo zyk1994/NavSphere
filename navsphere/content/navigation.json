@@ -1394,6 +1394,14 @@
               "description": "全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网",
               "icon": "/assets/favicon_1761138962179.png",
               "enabled": true
+            },
+            {
+              "id": "1763831076540",
+              "title": "Suno在线AI作曲平台",
+              "href": "https://suno-ai.com.cn",
+              "description": "Suno AI是一款革命性的AI音乐创作平台，让每个人都能轻松制作专业级音乐。通过Suno AI，您只需输入文字提示即可生成高质量的原创歌曲。",
+              "icon": "/assets/favicon_1763831089330.png",
+              "enabled": true
             }
           ]
         },
