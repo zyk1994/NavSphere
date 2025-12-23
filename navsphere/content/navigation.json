@@ -1654,6 +1654,14 @@
               "description": "TVBOX接口搜集",
               "icon": "/assets/favicon_1760236985440.png",
               "enabled": true
+            },
+            {
+              "id": "site_1766490415379_j4btamu60",
+              "title": "IPTV神器",
+              "href": "https://iptv.cqshushu.com/?",
+              "description": "每日更新IPTV最新酒店源、组播源IP、频道列表",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=iptv.cqshushu.com",
+              "enabled": true
             }
           ]
         }
