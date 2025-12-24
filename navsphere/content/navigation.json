@@ -27,7 +27,7 @@
           "href": "https://ykzhang.netlify.app",
           "description": "备用站点2，不开放注册",
           "icon": "/assets/favicon_1760145943350.png",
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "1760148475364",
