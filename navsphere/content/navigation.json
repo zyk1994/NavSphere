@@ -35,7 +35,7 @@
           "href": "https://gpyczbsyrvkc.us-east-1.clawcloudrun.com/",
           "description": "备用站点3，不开放注册",
           "icon": "/assets/img_1759985586433.png",
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "1760150352991",
