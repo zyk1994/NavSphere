@@ -1526,6 +1526,14 @@
               "enabled": true
             },
             {
+              "id": "1766993704110",
+              "title": "DOS浏览器游戏",
+              "href": "https://dos.zone/",
+              "description": "在浏览器中在线玩免费DOS游戏的终极合集。无需注册，无需广告，只需畅玩!",
+              "icon": "/assets/favicon_1766993721791.ico",
+              "enabled": true
+            },
+            {
               "id": "1763640418360",
               "title": "地铁跑酷",
               "href": "https://subway-surfers.gg/zh-CN/",
@@ -1563,14 +1571,6 @@
               "href": "https://www.gamersky.com/tools/map/?mapId=65",
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
-              "enabled": true
-            },
-            {
-              "id": "1766993704110",
-              "title": "DOS浏览器游戏",
-              "href": "https://dos.zone/",
-              "description": "在浏览器中在线玩免费DOS游戏的终极合集。无需注册，无需广告，只需畅玩!",
-              "icon": "/assets/favicon_1766993721791.ico",
               "enabled": true
             }
           ]
