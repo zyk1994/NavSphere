@@ -70,14 +70,6 @@
           "enabled": true
         },
         {
-          "id": "site_1767349058658_c4rmgzot7",
-          "title": "PanSou 盘搜",
-          "href": "https://pansouk.zeabur.app/",
-          "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。",
-          "icon": "/assets/favicon_1767349006414.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1767349065232_qz8lrnje9",
           "title": "PanSou 盘搜",
           "href": "https://pansouk.zeabur.app/",
