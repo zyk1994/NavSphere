@@ -75,7 +75,7 @@
           "href": "https://pan.ykzhang.top",
           "description": "一个聚合的网盘搜索工具。它可以聚合多个优质资源站和公开频道,一次搜索即可覆盖阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。",
           "icon": "/assets/favicon_1760074947695.ico",
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "site_1760975923320_3k86qsqr6",
