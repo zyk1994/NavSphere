@@ -17,7 +17,7 @@
           "id": "1760145936045",
           "title": "YkTV备用站",
           "href": "https://ykzhang.netlify.app",
-          "description": "若主站访问卡顿请使用此网站",
+          "description": "主站过cloudflare可能会导致访问缓慢，若主站访问卡顿请使用此网站",
           "icon": "/assets/favicon_1760145943350.png",
           "enabled": true
         },
