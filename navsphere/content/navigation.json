@@ -2454,6 +2454,14 @@
               "description": "访客密钥 s6Log9w5gMjs",
               "icon": "/assets/favicon_1760109780429.png",
               "enabled": true
+            },
+            {
+              "id": "1767432716589",
+              "title": "SoraApi公益站",
+              "href": "https://api.67.si",
+              "description": "SoraApi公益站",
+              "icon": "/assets/favicon_1767432722331.png",
+              "enabled": true
             }
           ]
         },
