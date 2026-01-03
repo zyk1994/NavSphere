@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "1760145936045",
+          "title": "YkTV备用站",
+          "href": "https://ykzhang.netlify.app",
+          "description": "若主站访问卡顿请使用此网站",
+          "icon": "/assets/favicon_1760145943350.png",
+          "enabled": true
+        },
+        {
           "id": "1760144842482",
           "title": "YkTV直播源站",
           "href": "http://tv1.ykzhang.top",
@@ -27,14 +35,6 @@
           "href": "https://bcnbfhls.us-east-1.clawcloudrun.com",
           "description": "OmniBox 是一个多媒体聚合平台，提供在线观影服务",
           "icon": "/assets/favicon_1767349419852.png",
-          "enabled": true
-        },
-        {
-          "id": "1760145936045",
-          "title": "YkTV备用站",
-          "href": "https://ykzhang.netlify.app",
-          "description": "若主站访问卡顿请使用此网站",
-          "icon": "/assets/favicon_1760145943350.png",
           "enabled": true
         },
         {
