@@ -31,11 +31,11 @@
         },
         {
           "id": "1760145936045",
-          "title": "YkTV备用站2",
+          "title": "YkTV备用站",
           "href": "https://ykzhang.netlify.app",
-          "description": "备用站点2，不开放注册",
+          "description": "若主站访问卡顿请使用此网站",
           "icon": "/assets/favicon_1760145943350.png",
-          "enabled": false
+          "enabled": true
         },
         {
           "id": "1760148475364",
