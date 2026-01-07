@@ -481,14 +481,6 @@
               "description": "热播之家是一个无广告蓝光1080P画质,流畅秒播不卡顿的免费在线追剧平台！",
               "icon": "/assets/favicon_1760238711691.png",
               "enabled": true
-            },
-            {
-              "id": "site_1767800299178_82nj8erur",
-              "title": "4k影视",
-              "href": "https://4kvm.site",
-              "description": "4k影视永久地址发布页",
-              "icon": "/assets/favicon_1767800280127.png",
-              "enabled": true
             }
           ]
         },
