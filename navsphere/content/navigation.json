@@ -660,6 +660,14 @@
               "description": "影视森林官方网站是一个资源极其丰富的聚合影视导航网站，涵盖了各种各样的影视类型，无论是热门的电影、电视剧，还是深受欢迎的动漫、综艺，亦或是网络短剧，以及纪录片等，应有尽有！",
               "icon": "/assets/favicon_1767800319219.png",
               "enabled": true
+            },
+            {
+              "id": "site_1767800453745_wv2f447a7",
+              "title": "影视站点推荐",
+              "href": "https://ayouth.top",
+              "description": "影视站点推荐",
+              "icon": "/assets/favicon_1767800429726.png",
+              "enabled": true
             }
           ]
         },
