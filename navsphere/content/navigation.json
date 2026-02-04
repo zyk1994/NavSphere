@@ -2470,6 +2470,14 @@
               "description": "访客密钥 s6Log9w5gMjs",
               "icon": "/assets/favicon_1760109780429.png",
               "enabled": true
+            },
+            {
+              "id": "1770222020088",
+              "title": "GGBOOM公益签到站",
+              "href": "https://sign.qaq.al/app",
+              "description": "GGBOOM公益签到站",
+              "icon": "/assets/favicon_1770222031563.ico",
+              "enabled": true
             }
           ]
         },
