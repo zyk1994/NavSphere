@@ -2478,6 +2478,14 @@
               "description": "访客密钥 s6Log9w5gMjs",
               "icon": "/assets/favicon_1760109780429.png",
               "enabled": true
+            },
+            {
+              "id": "1770223012147",
+              "title": "qq1244公益站",
+              "href": "https://openai.api-test.us.ci/console",
+              "description": "qq1244公益站",
+              "icon": "/assets/favicon_1770223022502.png",
+              "enabled": true
             }
           ]
         },
