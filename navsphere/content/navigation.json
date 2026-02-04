@@ -2424,6 +2424,14 @@
               "enabled": true
             },
             {
+              "id": "1770221981519",
+              "title": "GGBOOM公益站",
+              "href": "https://ai.qaq.al/dashboard",
+              "description": "GGBOOM公益站",
+              "icon": "/assets/favicon_1770221993532.png",
+              "enabled": true
+            },
+            {
               "id": "1767432716589",
               "title": "SoraApi公益站",
               "href": "https://api.67.si",
@@ -2461,14 +2469,6 @@
               "href": "https://sili-api.killerbest.com/",
               "description": "访客密钥 s6Log9w5gMjs",
               "icon": "/assets/favicon_1760109780429.png",
-              "enabled": true
-            },
-            {
-              "id": "1770221981519",
-              "title": "GGBOOM公益站",
-              "href": "https://ai.qaq.al/dashboard",
-              "description": "GGBOOM公益站",
-              "icon": "/assets/favicon_1770221993532.png",
               "enabled": true
             }
           ]
