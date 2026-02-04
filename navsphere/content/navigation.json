@@ -84,6 +84,14 @@
           "description": "Clip Relay轻量云剪贴板",
           "icon": "/assets/img_1760975920278.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770219925879_6n8lyx49p",
+          "title": "在线工具集",
+          "href": "https://tools.ykzhang.top/",
+          "description": "自用在线工具集",
+          "icon": "/assets/favicon_1770219903376.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
