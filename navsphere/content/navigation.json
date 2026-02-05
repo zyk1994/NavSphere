@@ -1442,6 +1442,14 @@
               "description": "Suno AI是一款革命性的AI音乐创作平台，让每个人都能轻松制作专业级音乐。通过Suno AI，您只需输入文字提示即可生成高质量的原创歌曲。",
               "icon": "/assets/favicon_1763831089330.png",
               "enabled": true
+            },
+            {
+              "id": "1770308145691",
+              "title": "公益音乐API",
+              "href": "https://tunehub.sayqz.com/dashboard",
+              "description": "公益音乐API",
+              "icon": "/assets/favicon_1770308151336.png",
+              "enabled": true
             }
           ]
         },
