@@ -55,10 +55,10 @@
         },
         {
           "id": "1760015419233",
-          "title": "YkMusic",
+          "title": "在线音乐播放器",
           "href": "https://music.ykzhang.top",
-          "description": "在线音乐播放器",
-          "icon": "https://music.ykzhang.top/favicon.svg",
+          "description": "线音乐播放器，支持网易云、QQ音乐等12个平台搜索，提供高品质无损音乐播放、歌单管理和歌词同步显示功能。",
+          "icon": "/assets/favicon_1770483135814.png",
           "enabled": true
         },
         {
