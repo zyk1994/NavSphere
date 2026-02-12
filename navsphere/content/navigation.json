@@ -19,7 +19,7 @@
           "href": "https://ykzhang.netlify.app",
           "description": "若主站访问卡顿请使用此网站，速度流畅",
           "icon": "/assets/favicon_1760145943350.png",
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "1760144842482",
