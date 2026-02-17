@@ -1620,6 +1620,14 @@
               "description": "黑神话悟空全收集互动地图",
               "icon": "/assets/favicon_1760241378279.png",
               "enabled": true
+            },
+            {
+              "id": "1771308470363",
+              "title": "海拥🐬游戏大全",
+              "href": "https://game.haiyong.site",
+              "description": "海拥游戏大全，提供最新、最热门的在线游戏。涵盖动作、棋牌、益智、策略、3D、休闲、射击、GBA游戏、fc红白机、经典、赛车、闯关等多种类型，所有游戏均可免费畅玩，满足你的游戏需求！",
+              "icon": "/assets/favicon_1771308478394.png",
+              "enabled": true
             }
           ]
         },
