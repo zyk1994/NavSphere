@@ -91,7 +91,7 @@
           "href": "http://125.208.21.128:10963",
           "description": "Clip Relay轻量云剪贴板",
           "icon": "/assets/img_1760975920278.png",
-          "enabled": true
+          "enabled": false
         }
       ],
       "subCategories": [],
