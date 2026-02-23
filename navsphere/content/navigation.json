@@ -35,7 +35,7 @@
           "href": "https://bcnbfhls.us-east-1.clawcloudrun.com",
           "description": "OmniBox 是一个多媒体聚合平台，提供在线观影服务",
           "icon": "/assets/favicon_1767349419852.png",
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "1760148475364",
