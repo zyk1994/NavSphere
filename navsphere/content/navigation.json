@@ -92,6 +92,14 @@
           "description": "Clip Relay轻量云剪贴板",
           "icon": "/assets/img_1760975920278.png",
           "enabled": false
+        },
+        {
+          "id": "1778721322836",
+          "title": "洛雪音乐播放器",
+          "href": "http://152.136.111.44:9527/music/login",
+          "description": "在线音乐播放器",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=152.136.111.44",
+          "enabled": true
         }
       ],
       "subCategories": [],
