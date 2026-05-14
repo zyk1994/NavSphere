@@ -2440,14 +2440,6 @@
               "enabled": true
             },
             {
-              "id": "1767432716589",
-              "title": "SoraApi公益站",
-              "href": "https://api.67.si",
-              "description": "SoraApi公益站",
-              "icon": "/assets/favicon_1767432722331.png",
-              "enabled": true
-            },
-            {
               "id": "1760109358256",
               "title": "Nano Banana免费AI图像生成器",
               "href": "https://nanobananafree.ai/",
