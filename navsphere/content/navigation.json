@@ -2440,14 +2440,6 @@
               "enabled": true
             },
             {
-              "id": "1770221981519",
-              "title": "GGBOOM公益站",
-              "href": "https://ai.qaq.al/dashboard",
-              "description": "GGBOOM公益站",
-              "icon": "/assets/favicon_1770221993532.png",
-              "enabled": true
-            },
-            {
               "id": "1770222020088",
               "title": "GGBOOM公益签到站",
               "href": "https://sign.qaq.al/app",
